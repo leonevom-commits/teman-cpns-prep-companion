@@ -24,7 +24,7 @@ export interface ActiveSession {
   startedAt: number;
   endsAt: number | null; // ms timestamp; null = tanpa batas waktu
   feedback: "instant" | "end";
-  presetId?: string;
+  presetId?: string | undefined;
   current: number;
 }
 
@@ -34,7 +34,7 @@ export interface CatScore {
   correct: number;
   wrong: number;
   empty: number;
-  passingGrade?: number;
+  passingGrade?: number | undefined;
 }
 
 export interface SessionResult {
@@ -47,8 +47,8 @@ export interface SessionResult {
   answers: (number | null)[];
   perCategory: Partial<Record<Category, CatScore>>;
   total: CatScore;
-  passed?: boolean;
-  presetId?: string;
+  passed?: boolean | undefined;
+  presetId?: string | undefined;
 }
 
 export interface QStat {
@@ -170,7 +170,7 @@ export const today = (d = new Date()) =>
   `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
 
 export function getPreset(id: string): ExamPreset {
-  return EXAM_CONFIG.presets.find((p) => p.id === id) ?? EXAM_CONFIG.presets[0];
+  return EXAM_CONFIG.presets.find((p) => p.id === id) ?? EXAM_CONFIG.presets[0]!;
 }
 
 export function streak(activity: AppState["activity"]): number {
@@ -222,7 +222,7 @@ export function computeResult(a: ActiveSession, endTime = Date.now()): SessionRe
   a.questionIds.forEach((id, i) => {
     const q = getQuestion(id);
     if (!q) return;
-    const ch = a.answers[i];
+    const ch = a.answers[i] ?? null;
     const sec = preset?.sections.find((s) => s.category === q.category);
     const cs = sec?.correctScore ?? 5;
     const c = (per[q.category] ??= { score: 0, max: 0, correct: 0, wrong: 0, empty: 0, passingGrade: sec?.passingGrade });
@@ -263,7 +263,7 @@ export function finishActive(): string | null {
     const qstats = { ...s.qstats };
     let answered = 0;
     a.questionIds.forEach((id, i) => {
-      const ch = a.answers[i];
+      const ch = a.answers[i] ?? null;
       const q = getQuestion(id);
       if (ch === null || !q) return;
       answered++;
