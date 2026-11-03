@@ -1,0 +1,1298 @@
+[
+ {
+  "id": "TKP-001",
+  "category": "TKP",
+  "sub": "Pelayanan Publik",
+  "question": "Seorang warga datang 5 menit sebelum loket tutup dengan berkas yang lengkap. Sikap Anda…",
+  "options": [
+   "Melayani hingga selesai dengan ramah",
+   "Menerima berkas dan memintanya kembali besok",
+   "Melayani tetapi meminta ia bergegas",
+   "Menyarankan datang lebih pagi besok",
+   "Menolak karena loket akan tutup"
+  ],
+  "scores": [
+   5,
+   3,
+   4,
+   2,
+   1
+  ],
+  "answer": 0,
+  "explanation": "Respons terbaik (skor 5): \"Melayani hingga selesai dengan ramah\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Pelayanan Publik",
+  "tags": [
+   "pelayanan publik"
+  ]
+ },
+ {
+  "id": "TKP-002",
+  "category": "TKP",
+  "sub": "Pelayanan Publik",
+  "question": "Pemohon layanan marah karena prosedur dianggap berbelit. Anda…",
+  "options": [
+   "Mengabaikan karena prosedur sudah ditetapkan",
+   "Menjelaskan prosedur sesuai SOP",
+   "Mendengarkan, menjelaskan alur dengan tenang, dan membantu melengkapinya",
+   "Memberikan brosur prosedur",
+   "Meminta ia bertanya ke petugas informasi"
+  ],
+  "scores": [
+   1,
+   4,
+   5,
+   3,
+   2
+  ],
+  "answer": 2,
+  "explanation": "Respons terbaik (skor 5): \"Mendengarkan, menjelaskan alur dengan tenang, dan membantu melengkapinya\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Pelayanan Publik",
+  "tags": [
+   "pelayanan publik"
+  ]
+ },
+ {
+  "id": "TKP-003",
+  "category": "TKP",
+  "sub": "Pelayanan Publik",
+  "question": "Anda menemukan bahwa formulir layanan sulit dipahami masyarakat lanjut usia. Anda…",
+  "options": [
+   "Membiarkan karena formulir sudah standar",
+   "Melaporkan keluhan kepada atasan",
+   "Mengusulkan formulir sederhana dan sementara membantu mereka mengisi",
+   "Membantu mengisi formulir saat diminta",
+   "Meminta keluarga mereka mendampingi"
+  ],
+  "scores": [
+   1,
+   3,
+   5,
+   4,
+   2
+  ],
+  "answer": 2,
+  "explanation": "Respons terbaik (skor 5): \"Mengusulkan formulir sederhana dan sementara membantu mereka mengisi\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Pelayanan Publik",
+  "tags": [
+   "pelayanan publik"
+  ]
+ },
+ {
+  "id": "TKP-004",
+  "category": "TKP",
+  "sub": "Pelayanan Publik",
+  "question": "Kerabat Anda meminta didahulukan dalam antrean layanan. Anda…",
+  "options": [
+   "Langsung mendahulukannya",
+   "Menolak dengan sopan dan memintanya mengikuti antrean",
+   "Menjelaskan aturan antrean kepadanya",
+   "Meminta rekan lain yang melayani",
+   "Melayani diam-diam saat sepi"
+  ],
+  "scores": [
+   1,
+   5,
+   4,
+   3,
+   2
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Menolak dengan sopan dan memintanya mengikuti antrean\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Pelayanan Publik",
+  "tags": [
+   "pelayanan publik"
+  ]
+ },
+ {
+  "id": "TKP-005",
+  "category": "TKP",
+  "sub": "Pelayanan Publik",
+  "question": "Sistem layanan daring kantor sedang gangguan sementara antrean panjang. Anda…",
+  "options": [
+   "Mengumumkan gangguan dan perkiraan waktu pulih",
+   "Meminta warga menunggu",
+   "Menutup layanan",
+   "Meminta warga datang di hari lain",
+   "Beralih ke prosedur manual darurat dan menginformasikan warga"
+  ],
+  "scores": [
+   4,
+   3,
+   1,
+   2,
+   5
+  ],
+  "answer": 4,
+  "explanation": "Respons terbaik (skor 5): \"Beralih ke prosedur manual darurat dan menginformasikan warga\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Pelayanan Publik",
+  "tags": [
+   "pelayanan publik"
+  ]
+ },
+ {
+  "id": "TKP-006",
+  "category": "TKP",
+  "sub": "Pelayanan Publik",
+  "question": "Masyarakat memberi masukan bahwa jam layanan kurang sesuai kebutuhan pekerja. Anda…",
+  "options": [
+   "Tidak menanggapi",
+   "Menjelaskan bahwa jam layanan sudah ketentuan",
+   "Mencatat masukan",
+   "Menganalisis data kunjungan dan mengusulkan jam layanan alternatif",
+   "Meneruskan masukan kepada pimpinan"
+  ],
+  "scores": [
+   1,
+   2,
+   3,
+   5,
+   4
+  ],
+  "answer": 3,
+  "explanation": "Respons terbaik (skor 5): \"Menganalisis data kunjungan dan mengusulkan jam layanan alternatif\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Pelayanan Publik",
+  "tags": [
+   "pelayanan publik"
+  ]
+ },
+ {
+  "id": "TKP-007",
+  "category": "TKP",
+  "sub": "Pelayanan Publik",
+  "question": "Seorang penyandang disabilitas kesulitan mengakses lantai dua kantor layanan. Anda…",
+  "options": [
+   "Memanggil petugas lantai dua",
+   "Melayaninya di lantai satu dan mengusulkan fasilitas aksesibel",
+   "Memintanya kembali bersama pendamping",
+   "Membantunya naik ke lantai dua",
+   "Memintanya mewakilkan kepada orang lain"
+  ],
+  "scores": [
+   3,
+   5,
+   1,
+   4,
+   2
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Melayaninya di lantai satu dan mengusulkan fasilitas aksesibel\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Pelayanan Publik",
+  "tags": [
+   "pelayanan publik"
+  ]
+ },
+ {
+  "id": "TKP-008",
+  "category": "TKP",
+  "sub": "Pelayanan Publik",
+  "question": "Anda keliru memberikan informasi kepada pemohon sehingga ia harus datang lagi. Anda…",
+  "options": [
+   "Menyalahkan informasi dari atasan",
+   "Meminta maaf, menghubunginya, dan memastikan prosesnya dipercepat",
+   "Memperbaiki informasi untuk pemohon berikutnya",
+   "Diam saja",
+   "Meminta maaf saat ia datang lagi"
+  ],
+  "scores": [
+   2,
+   5,
+   3,
+   1,
+   4
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Meminta maaf, menghubunginya, dan memastikan prosesnya dipercepat\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Pelayanan Publik",
+  "tags": [
+   "pelayanan publik"
+  ]
+ },
+ {
+  "id": "TKP-009",
+  "category": "TKP",
+  "sub": "Jejaring Kerja",
+  "question": "Anda ditugaskan membangun kerja sama dengan instansi lain yang belum Anda kenal. Anda…",
+  "options": [
+   "Mempelajari tugas instansi tersebut lalu menghubungi dan menjadwalkan pertemuan",
+   "Meminta kontak dari rekan kerja",
+   "Menunggu instansi lain menghubungi",
+   "Menyerahkan tugas kepada rekan",
+   "Mengirim surat resmi permohonan kerja sama"
+  ],
+  "scores": [
+   5,
+   3,
+   2,
+   1,
+   4
+  ],
+  "answer": 0,
+  "explanation": "Respons terbaik (skor 5): \"Mempelajari tugas instansi tersebut lalu menghubungi dan menjadwalkan pertemuan\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Jejaring Kerja",
+  "tags": [
+   "jejaring kerja"
+  ]
+ },
+ {
+  "id": "TKP-010",
+  "category": "TKP",
+  "sub": "Jejaring Kerja",
+  "question": "Rekan dari divisi lain meminta data yang Anda miliki untuk keperluan dinas. Anda…",
+  "options": [
+   "Memberikan sebagian data",
+   "Memberikan data setelah izin atasan",
+   "Memberikan data sesuai prosedur dan siap membantu bila perlu",
+   "Menolak karena itu data Anda",
+   "Memintanya mencari sendiri"
+  ],
+  "scores": [
+   3,
+   4,
+   5,
+   1,
+   2
+  ],
+  "answer": 2,
+  "explanation": "Respons terbaik (skor 5): \"Memberikan data sesuai prosedur dan siap membantu bila perlu\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Jejaring Kerja",
+  "tags": [
+   "jejaring kerja"
+  ]
+ },
+ {
+  "id": "TKP-011",
+  "category": "TKP",
+  "sub": "Jejaring Kerja",
+  "question": "Dalam forum lintas instansi, pendapat Anda ditolak mayoritas peserta. Anda…",
+  "options": [
+   "Meninggalkan forum",
+   "Menerima keputusan dan mendukung pelaksanaannya",
+   "Mengulang argumen hingga forum berakhir",
+   "Menerima sambil mencatat risiko untuk dievaluasi",
+   "Diam dan mengikuti saja"
+  ],
+  "scores": [
+   1,
+   5,
+   2,
+   4,
+   3
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Menerima keputusan dan mendukung pelaksanaannya\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Jejaring Kerja",
+  "tags": [
+   "jejaring kerja"
+  ]
+ },
+ {
+  "id": "TKP-012",
+  "category": "TKP",
+  "sub": "Jejaring Kerja",
+  "question": "Tim proyek Anda terdiri dari anggota berbagai latar belakang yang sulit berkoordinasi. Anda…",
+  "options": [
+   "Mengusulkan pembagian peran dan jadwal koordinasi rutin",
+   "Bekerja sendiri tanpa koordinasi",
+   "Mengajak anggota berdiskusi informal",
+   "Melaporkan kesulitan kepada atasan",
+   "Mengerjakan bagian Anda dengan baik"
+  ],
+  "scores": [
+   5,
+   1,
+   4,
+   2,
+   3
+  ],
+  "answer": 0,
+  "explanation": "Respons terbaik (skor 5): \"Mengusulkan pembagian peran dan jadwal koordinasi rutin\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Jejaring Kerja",
+  "tags": [
+   "jejaring kerja"
+  ]
+ },
+ {
+  "id": "TKP-013",
+  "category": "TKP",
+  "sub": "Jejaring Kerja",
+  "question": "Mitra kerja sama terlambat mengirim bahan sehingga program terancam mundur. Anda…",
+  "options": [
+   "Menyalahkan mitra di rapat",
+   "Mengingatkan mitra secara resmi",
+   "Menghubungi mitra, mencari solusi bersama, dan menyusun rencana cadangan",
+   "Melaporkan keterlambatan saja",
+   "Menunggu sambil menyiapkan bagian lain"
+  ],
+  "scores": [
+   1,
+   4,
+   5,
+   2,
+   3
+  ],
+  "answer": 2,
+  "explanation": "Respons terbaik (skor 5): \"Menghubungi mitra, mencari solusi bersama, dan menyusun rencana cadangan\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Jejaring Kerja",
+  "tags": [
+   "jejaring kerja"
+  ]
+ },
+ {
+  "id": "TKP-014",
+  "category": "TKP",
+  "sub": "Jejaring Kerja",
+  "question": "Anda mendapat informasi pelatihan bermanfaat dari jejaring profesi. Anda…",
+  "options": [
+   "Mengikutinya sendiri",
+   "Membagikannya kepada rekan yang relevan",
+   "Membagikan di grup kantor",
+   "Menyimpan untuk nanti",
+   "Mengabaikannya"
+  ],
+  "scores": [
+   3,
+   5,
+   4,
+   2,
+   1
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Membagikannya kepada rekan yang relevan\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Jejaring Kerja",
+  "tags": [
+   "jejaring kerja"
+  ]
+ },
+ {
+  "id": "TKP-015",
+  "category": "TKP",
+  "sub": "Jejaring Kerja",
+  "question": "Atasan meminta Anda mewakili kantor di rapat koordinasi daerah. Anda…",
+  "options": [
+   "Hadir dan mencatat hasil rapat",
+   "Meminta rekan lain menggantikan",
+   "Mempersiapkan bahan, hadir, dan melaporkan hasilnya",
+   "Hadir sesuai undangan",
+   "Menolak karena bukan tugas Anda"
+  ],
+  "scores": [
+   4,
+   2,
+   5,
+   3,
+   1
+  ],
+  "answer": 2,
+  "explanation": "Respons terbaik (skor 5): \"Mempersiapkan bahan, hadir, dan melaporkan hasilnya\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Jejaring Kerja",
+  "tags": [
+   "jejaring kerja"
+  ]
+ },
+ {
+  "id": "TKP-016",
+  "category": "TKP",
+  "sub": "Jejaring Kerja",
+  "question": "Anda baru dipindahtugaskan ke unit baru. Langkah pertama Anda…",
+  "options": [
+   "Menunggu arahan atasan",
+   "Menjaga jarak dari rekan baru",
+   "Bekerja seperti di unit lama",
+   "Memperkenalkan diri dan mempelajari proses kerja dari rekan",
+   "Membaca SOP unit"
+  ],
+  "scores": [
+   3,
+   1,
+   2,
+   5,
+   4
+  ],
+  "answer": 3,
+  "explanation": "Respons terbaik (skor 5): \"Memperkenalkan diri dan mempelajari proses kerja dari rekan\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Jejaring Kerja",
+  "tags": [
+   "jejaring kerja"
+  ]
+ },
+ {
+  "id": "TKP-017",
+  "category": "TKP",
+  "sub": "Sosial Budaya",
+  "question": "Anda ditempatkan di daerah dengan adat yang sangat berbeda. Anda…",
+  "options": [
+   "Menghormati adat setempat",
+   "Mempelajari dan menghormati adat setempat sambil bekerja sesuai aturan",
+   "Meminta pindah tugas",
+   "Bergaul dengan sesama pendatang saja",
+   "Beradaptasi seperlunya"
+  ],
+  "scores": [
+   4,
+   5,
+   1,
+   2,
+   3
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Mempelajari dan menghormati adat setempat sambil bekerja sesuai aturan\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Sosial Budaya",
+  "tags": [
+   "sosial budaya"
+  ]
+ },
+ {
+  "id": "TKP-018",
+  "category": "TKP",
+  "sub": "Sosial Budaya",
+  "question": "Rekan kerja berbeda agama sedang merayakan hari raya. Anda…",
+  "options": [
+   "Tidak peduli",
+   "Mengucapkan selamat",
+   "Menyindir perbedaan tersebut",
+   "Menghormati tanpa berkomentar",
+   "Mengucapkan selamat dan menggantikan tugasnya bila diperlukan"
+  ],
+  "scores": [
+   2,
+   4,
+   1,
+   3,
+   5
+  ],
+  "answer": 4,
+  "explanation": "Respons terbaik (skor 5): \"Mengucapkan selamat dan menggantikan tugasnya bila diperlukan\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Sosial Budaya",
+  "tags": [
+   "sosial budaya"
+  ]
+ },
+ {
+  "id": "TKP-019",
+  "category": "TKP",
+  "sub": "Sosial Budaya",
+  "question": "Ada candaan bernada SARA di grup percakapan kantor. Anda…",
+  "options": [
+   "Tidak menanggapi",
+   "Keluar dari grup",
+   "Mengingatkan dengan sopan bahwa candaan itu tidak pantas",
+   "Mengingatkan pengirim secara pribadi",
+   "Ikut tertawa"
+  ],
+  "scores": [
+   3,
+   2,
+   5,
+   4,
+   1
+  ],
+  "answer": 2,
+  "explanation": "Respons terbaik (skor 5): \"Mengingatkan dengan sopan bahwa candaan itu tidak pantas\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Sosial Budaya",
+  "tags": [
+   "sosial budaya"
+  ]
+ },
+ {
+  "id": "TKP-020",
+  "category": "TKP",
+  "sub": "Sosial Budaya",
+  "question": "Warga sekitar kantor mengadakan kerja bakti hari Minggu. Anda…",
+  "options": [
+   "Ikut serta dan mengajak rekan kerja",
+   "Hadir sebentar",
+   "Menyumbang konsumsi tanpa hadir",
+   "Ikut serta",
+   "Tidak ikut karena hari libur"
+  ],
+  "scores": [
+   5,
+   2,
+   3,
+   4,
+   1
+  ],
+  "answer": 0,
+  "explanation": "Respons terbaik (skor 5): \"Ikut serta dan mengajak rekan kerja\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Sosial Budaya",
+  "tags": [
+   "sosial budaya"
+  ]
+ },
+ {
+  "id": "TKP-021",
+  "category": "TKP",
+  "sub": "Sosial Budaya",
+  "question": "Dalam tim terdapat anggota yang sulit berbahasa Indonesia baku karena latar daerah. Anda…",
+  "options": [
+   "Memaklumi dan berbicara perlahan",
+   "Berkomunikasi dengan sabar dan membantunya beradaptasi",
+   "Meminta orang lain menerjemahkan",
+   "Berkomunikasi seperlunya",
+   "Menertawakan logatnya"
+  ],
+  "scores": [
+   4,
+   5,
+   2,
+   3,
+   1
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Berkomunikasi dengan sabar dan membantunya beradaptasi\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Sosial Budaya",
+  "tags": [
+   "sosial budaya"
+  ]
+ },
+ {
+  "id": "TKP-022",
+  "category": "TKP",
+  "sub": "Sosial Budaya",
+  "question": "Program kantor ditolak sebagian masyarakat karena dianggap bertentangan dengan kebiasaan lokal. Anda…",
+  "options": [
+   "Tetap melaksanakan sesuai rencana",
+   "Melakukan sosialisasi ulang",
+   "Membatalkan program",
+   "Menunda program",
+   "Berdialog dengan tokoh masyarakat untuk menyesuaikan pendekatan program"
+  ],
+  "scores": [
+   2,
+   4,
+   1,
+   3,
+   5
+  ],
+  "answer": 4,
+  "explanation": "Respons terbaik (skor 5): \"Berdialog dengan tokoh masyarakat untuk menyesuaikan pendekatan program\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Sosial Budaya",
+  "tags": [
+   "sosial budaya"
+  ]
+ },
+ {
+  "id": "TKP-023",
+  "category": "TKP",
+  "sub": "Sosial Budaya",
+  "question": "Rekan baru berasal dari suku yang berbeda dan tampak canggung. Anda…",
+  "options": [
+   "Menghindarinya",
+   "Menunggu ia menyapa lebih dulu",
+   "Bersikap biasa saja",
+   "Menyapa, mengajaknya bergabung, dan membantu orientasi",
+   "Menyapanya dengan ramah"
+  ],
+  "scores": [
+   1,
+   2,
+   3,
+   5,
+   4
+  ],
+  "answer": 3,
+  "explanation": "Respons terbaik (skor 5): \"Menyapa, mengajaknya bergabung, dan membantu orientasi\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Sosial Budaya",
+  "tags": [
+   "sosial budaya"
+  ]
+ },
+ {
+  "id": "TKP-024",
+  "category": "TKP",
+  "sub": "Sosial Budaya",
+  "question": "Pembagian bantuan sosial diminta didahulukan untuk kelompok etnis tertentu. Anda…",
+  "options": [
+   "Mengikuti permintaan agar tidak ribut",
+   "Membagikan berdasarkan kriteria kelayakan yang adil",
+   "Menolak membagikan bantuan",
+   "Menjelaskan bahwa pembagian sesuai data",
+   "Meminta keputusan atasan"
+  ],
+  "scores": [
+   2,
+   5,
+   1,
+   4,
+   3
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Membagikan berdasarkan kriteria kelayakan yang adil\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Sosial Budaya",
+  "tags": [
+   "sosial budaya"
+  ]
+ },
+ {
+  "id": "TKP-025",
+  "category": "TKP",
+  "sub": "Teknologi Informasi dan Komunikasi",
+  "question": "Kantor menerapkan aplikasi kerja baru yang belum Anda kuasai. Anda…",
+  "options": [
+   "Meminta rekan mengerjakan bagian aplikasi",
+   "Mempelajarinya dengan aktif dan membantu rekan yang kesulitan",
+   "Mengikuti pelatihan yang disediakan",
+   "Mempelajari saat dibutuhkan",
+   "Tetap memakai cara lama"
+  ],
+  "scores": [
+   2,
+   5,
+   4,
+   3,
+   1
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Mempelajarinya dengan aktif dan membantu rekan yang kesulitan\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Teknologi Informasi dan Komunikasi",
+  "tags": [
+   "teknologi informasi dan komunikasi"
+  ]
+ },
+ {
+  "id": "TKP-026",
+  "category": "TKP",
+  "sub": "Teknologi Informasi dan Komunikasi",
+  "question": "Anda menerima email berisi tautan meminta kata sandi akun kantor. Anda…",
+  "options": [
+   "Membuka tautan untuk memeriksa",
+   "Menghapus email tersebut",
+   "Tidak mengklik, melaporkan ke tim TI sebagai phishing",
+   "Mengisi kata sandi",
+   "Menanyakan ke rekan apakah aman"
+  ],
+  "scores": [
+   2,
+   4,
+   5,
+   1,
+   3
+  ],
+  "answer": 2,
+  "explanation": "Respons terbaik (skor 5): \"Tidak mengklik, melaporkan ke tim TI sebagai phishing\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Teknologi Informasi dan Komunikasi",
+  "tags": [
+   "teknologi informasi dan komunikasi"
+  ]
+ },
+ {
+  "id": "TKP-027",
+  "category": "TKP",
+  "sub": "Teknologi Informasi dan Komunikasi",
+  "question": "Rekan meminjam akun aplikasi kepegawaian Anda karena akunnya terkunci. Anda…",
+  "options": [
+   "Memberikan kata sandi",
+   "Menolak dengan sopan",
+   "Meminjamkan sebentar sambil diawasi",
+   "Menolak dan membantunya menghubungi admin",
+   "Mengoperasikan sendiri untuknya"
+  ],
+  "scores": [
+   1,
+   4,
+   2,
+   5,
+   3
+  ],
+  "answer": 3,
+  "explanation": "Respons terbaik (skor 5): \"Menolak dan membantunya menghubungi admin\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Teknologi Informasi dan Komunikasi",
+  "tags": [
+   "teknologi informasi dan komunikasi"
+  ]
+ },
+ {
+  "id": "TKP-028",
+  "category": "TKP",
+  "sub": "Teknologi Informasi dan Komunikasi",
+  "question": "Atasan meminta laporan data bulanan yang selama ini dikerjakan manual berjam-jam. Anda…",
+  "options": [
+   "Mengerjakan manual dengan teliti",
+   "Meminta tenggat diperpanjang",
+   "Membuat templat otomatis berbasis spreadsheet agar lebih cepat",
+   "Mengerjakan mendekati tenggat",
+   "Meminta bantuan rekan"
+  ],
+  "scores": [
+   4,
+   1,
+   5,
+   2,
+   3
+  ],
+  "answer": 2,
+  "explanation": "Respons terbaik (skor 5): \"Membuat templat otomatis berbasis spreadsheet agar lebih cepat\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Teknologi Informasi dan Komunikasi",
+  "tags": [
+   "teknologi informasi dan komunikasi"
+  ]
+ },
+ {
+  "id": "TKP-029",
+  "category": "TKP",
+  "sub": "Teknologi Informasi dan Komunikasi",
+  "question": "Anda melihat berita viral tentang kebijakan instansi yang belum jelas sumbernya. Anda…",
+  "options": [
+   "Menanyakan kepada rekan",
+   "Membagikan dengan catatan 'belum pasti'",
+   "Langsung membagikan",
+   "Tidak menyebarkannya",
+   "Memverifikasi ke sumber resmi sebelum menanggapi"
+  ],
+  "scores": [
+   3,
+   2,
+   1,
+   4,
+   5
+  ],
+  "answer": 4,
+  "explanation": "Respons terbaik (skor 5): \"Memverifikasi ke sumber resmi sebelum menanggapi\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Teknologi Informasi dan Komunikasi",
+  "tags": [
+   "teknologi informasi dan komunikasi"
+  ]
+ },
+ {
+  "id": "TKP-030",
+  "category": "TKP",
+  "sub": "Teknologi Informasi dan Komunikasi",
+  "question": "Data pribadi masyarakat tersimpan di laptop kantor yang akan Anda bawa dinas. Anda…",
+  "options": [
+   "Menyimpan salinan di flashdisk pribadi",
+   "Memindahkan data ke server kantor",
+   "Menjaga laptop agar tidak hilang",
+   "Membiarkan apa adanya",
+   "Memastikan file terenkripsi dan laptop terkunci kata sandi"
+  ],
+  "scores": [
+   2,
+   4,
+   3,
+   1,
+   5
+  ],
+  "answer": 4,
+  "explanation": "Respons terbaik (skor 5): \"Memastikan file terenkripsi dan laptop terkunci kata sandi\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Teknologi Informasi dan Komunikasi",
+  "tags": [
+   "teknologi informasi dan komunikasi"
+  ]
+ },
+ {
+  "id": "TKP-031",
+  "category": "TKP",
+  "sub": "Teknologi Informasi dan Komunikasi",
+  "question": "Instansi meluncurkan layanan digital, tetapi banyak warga belum paham. Anda…",
+  "options": [
+   "Menjelaskan saat warga bertanya",
+   "Membuat panduan sederhana dan membuka pendampingan",
+   "Kembali ke layanan manual",
+   "Meminta warga belajar sendiri",
+   "Membagikan tautan panduan"
+  ],
+  "scores": [
+   4,
+   5,
+   1,
+   2,
+   3
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Membuat panduan sederhana dan membuka pendampingan\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Teknologi Informasi dan Komunikasi",
+  "tags": [
+   "teknologi informasi dan komunikasi"
+  ]
+ },
+ {
+  "id": "TKP-032",
+  "category": "TKP",
+  "sub": "Teknologi Informasi dan Komunikasi",
+  "question": "Anda diminta mengelola media sosial instansi. Anda…",
+  "options": [
+   "Mengunggah informasi resmi secara rutin",
+   "Menyusun konten informatif terjadwal dan merespons warga dengan cepat",
+   "Jarang membuka akun",
+   "Mengunggah bila ada kegiatan",
+   "Menyalin konten instansi lain"
+  ],
+  "scores": [
+   4,
+   5,
+   1,
+   3,
+   2
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Menyusun konten informatif terjadwal dan merespons warga dengan cepat\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Teknologi Informasi dan Komunikasi",
+  "tags": [
+   "teknologi informasi dan komunikasi"
+  ]
+ },
+ {
+  "id": "TKP-033",
+  "category": "TKP",
+  "sub": "Profesionalisme",
+  "question": "Anda diberi tugas mendesak saat pekerjaan lain menumpuk. Anda…",
+  "options": [
+   "Lembur menyelesaikan semua",
+   "Menyusun prioritas, mengomunikasikan tenggat, dan menyelesaikan bertahap",
+   "Mengerjakan tugas mendesak lebih dulu",
+   "Meminta tugas dialihkan",
+   "Menolak tugas"
+  ],
+  "scores": [
+   3,
+   5,
+   4,
+   2,
+   1
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Menyusun prioritas, mengomunikasikan tenggat, dan menyelesaikan bertahap\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Profesionalisme",
+  "tags": [
+   "profesionalisme"
+  ]
+ },
+ {
+  "id": "TKP-034",
+  "category": "TKP",
+  "sub": "Profesionalisme",
+  "question": "Atasan memberikan kritik keras atas laporan Anda. Anda…",
+  "options": [
+   "Menerima, meminta masukan rinci, dan memperbaiki",
+   "Membela diri",
+   "Memperbaiki laporan",
+   "Tersinggung dan menunda",
+   "Menerima dengan diam"
+  ],
+  "scores": [
+   5,
+   2,
+   4,
+   1,
+   3
+  ],
+  "answer": 0,
+  "explanation": "Respons terbaik (skor 5): \"Menerima, meminta masukan rinci, dan memperbaiki\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Profesionalisme",
+  "tags": [
+   "profesionalisme"
+  ]
+ },
+ {
+  "id": "TKP-035",
+  "category": "TKP",
+  "sub": "Profesionalisme",
+  "question": "Anda menemukan kesalahan dalam pekerjaan yang sudah Anda serahkan. Anda…",
+  "options": [
+   "Berharap kesalahan tidak berdampak",
+   "Memperbaiki diam-diam",
+   "Menyalahkan rekan",
+   "Segera melapor, memperbaiki, dan mencegah terulang",
+   "Menunggu ada yang menyadari"
+  ],
+  "scores": [
+   2,
+   4,
+   1,
+   5,
+   3
+  ],
+  "answer": 3,
+  "explanation": "Respons terbaik (skor 5): \"Segera melapor, memperbaiki, dan mencegah terulang\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Profesionalisme",
+  "tags": [
+   "profesionalisme"
+  ]
+ },
+ {
+  "id": "TKP-036",
+  "category": "TKP",
+  "sub": "Profesionalisme",
+  "question": "Rekan sering datang terlambat dan pekerjaannya dibebankan kepada Anda. Anda…",
+  "options": [
+   "Ikut datang terlambat",
+   "Menegurnya secara pribadi",
+   "Membicarakannya dengan rekan lain",
+   "Mengerjakan saja tugasnya",
+   "Membicarakan baik-baik dengannya dan bila berlanjut melapor ke atasan"
+  ],
+  "scores": [
+   1,
+   4,
+   2,
+   3,
+   5
+  ],
+  "answer": 4,
+  "explanation": "Respons terbaik (skor 5): \"Membicarakan baik-baik dengannya dan bila berlanjut melapor ke atasan\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Profesionalisme",
+  "tags": [
+   "profesionalisme"
+  ]
+ },
+ {
+  "id": "TKP-037",
+  "category": "TKP",
+  "sub": "Profesionalisme",
+  "question": "Ada pelatihan pengembangan kompetensi di luar jam kerja. Anda…",
+  "options": [
+   "Mencari alasan tidak ikut",
+   "Menolak",
+   "Mengikuti pelatihan",
+   "Mengikuti dan menerapkan hasilnya dalam pekerjaan",
+   "Mengikuti bila diwajibkan"
+  ],
+  "scores": [
+   2,
+   1,
+   4,
+   5,
+   3
+  ],
+  "answer": 3,
+  "explanation": "Respons terbaik (skor 5): \"Mengikuti dan menerapkan hasilnya dalam pekerjaan\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Profesionalisme",
+  "tags": [
+   "profesionalisme"
+  ]
+ },
+ {
+  "id": "TKP-038",
+  "category": "TKP",
+  "sub": "Profesionalisme",
+  "question": "Target kerja tim tidak tercapai. Sebagai anggota, Anda…",
+  "options": [
+   "Menganggap itu tanggung jawab ketua",
+   "Ikut evaluasi tim",
+   "Menyalahkan anggota lain",
+   "Mengevaluasi kontribusi diri dan mengusulkan perbaikan",
+   "Menunggu arahan berikutnya"
+  ],
+  "scores": [
+   2,
+   4,
+   1,
+   5,
+   3
+  ],
+  "answer": 3,
+  "explanation": "Respons terbaik (skor 5): \"Mengevaluasi kontribusi diri dan mengusulkan perbaikan\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Profesionalisme",
+  "tags": [
+   "profesionalisme"
+  ]
+ },
+ {
+  "id": "TKP-039",
+  "category": "TKP",
+  "sub": "Profesionalisme",
+  "question": "Atasan meminta Anda memalsukan tanggal pada dokumen. Anda…",
+  "options": [
+   "Melakukannya tanpa pikir panjang",
+   "Melakukan karena takut",
+   "Meminta perintah tertulis",
+   "Menolak dengan sopan dan menjelaskan risikonya",
+   "Menolak"
+  ],
+  "scores": [
+   1,
+   2,
+   3,
+   5,
+   4
+  ],
+  "answer": 3,
+  "explanation": "Respons terbaik (skor 5): \"Menolak dengan sopan dan menjelaskan risikonya\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Profesionalisme",
+  "tags": [
+   "profesionalisme"
+  ]
+ },
+ {
+  "id": "TKP-040",
+  "category": "TKP",
+  "sub": "Profesionalisme",
+  "question": "Pekerjaan Anda selesai lebih cepat dari jadwal. Anda…",
+  "options": [
+   "Pulang lebih awal",
+   "Melaporkan ke atasan",
+   "Bersantai sampai jam pulang",
+   "Memeriksa ulang hasil lalu menawarkan bantuan kepada tim",
+   "Memeriksa ulang hasil kerja"
+  ],
+  "scores": [
+   1,
+   3,
+   2,
+   5,
+   4
+  ],
+  "answer": 3,
+  "explanation": "Respons terbaik (skor 5): \"Memeriksa ulang hasil lalu menawarkan bantuan kepada tim\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Profesionalisme",
+  "tags": [
+   "profesionalisme"
+  ]
+ },
+ {
+  "id": "TKP-041",
+  "category": "TKP",
+  "sub": "Anti-Radikalisme",
+  "question": "Anda menerima pesan berantai yang mengajak menolak Pancasila sebagai dasar negara. Anda…",
+  "options": [
+   "Tidak menyebarkan, memberi klarifikasi, dan melaporkan ke kanal resmi",
+   "Meneruskannya",
+   "Membaca untuk tahu isinya",
+   "Mengabaikan pesan",
+   "Menghapus dan tidak menyebarkannya"
+  ],
+  "scores": [
+   5,
+   1,
+   2,
+   3,
+   4
+  ],
+  "answer": 0,
+  "explanation": "Respons terbaik (skor 5): \"Tidak menyebarkan, memberi klarifikasi, dan melaporkan ke kanal resmi\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Anti-Radikalisme",
+  "tags": [
+   "anti-radikalisme"
+  ]
+ },
+ {
+  "id": "TKP-042",
+  "category": "TKP",
+  "sub": "Anti-Radikalisme",
+  "question": "Rekan kerja mulai menunjukkan pandangan bahwa kelompok lain harus dimusuhi. Anda…",
+  "options": [
+   "Mengajaknya berdiskusi tentang toleransi",
+   "Mendukung pandangannya",
+   "Menjaga jarak",
+   "Membiarkan karena urusan pribadi",
+   "Mengajaknya berdialog dan melaporkan bila mengarah ke tindakan"
+  ],
+  "scores": [
+   4,
+   1,
+   3,
+   2,
+   5
+  ],
+  "answer": 4,
+  "explanation": "Respons terbaik (skor 5): \"Mengajaknya berdialog dan melaporkan bila mengarah ke tindakan\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Anti-Radikalisme",
+  "tags": [
+   "anti-radikalisme"
+  ]
+ },
+ {
+  "id": "TKP-043",
+  "category": "TKP",
+  "sub": "Anti-Radikalisme",
+  "question": "Anda diundang kajian yang ternyata mengajarkan kekerasan atas nama agama. Anda…",
+  "options": [
+   "Meninggalkan kegiatan dan melaporkannya ke pihak berwenang",
+   "Mengajak teman bergabung",
+   "Meninggalkan kegiatan",
+   "Mengikuti sampai selesai",
+   "Tidak datang lagi"
+  ],
+  "scores": [
+   5,
+   1,
+   4,
+   2,
+   3
+  ],
+  "answer": 0,
+  "explanation": "Respons terbaik (skor 5): \"Meninggalkan kegiatan dan melaporkannya ke pihak berwenang\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Anti-Radikalisme",
+  "tags": [
+   "anti-radikalisme"
+  ]
+ },
+ {
+  "id": "TKP-044",
+  "category": "TKP",
+  "sub": "Anti-Radikalisme",
+  "question": "Di media sosial muncul ajakan aksi anarkis terhadap fasilitas umum. Anda…",
+  "options": [
+   "Ikut menyebarkan",
+   "Melaporkan konten dan mengingatkan untuk menyampaikan aspirasi secara damai",
+   "Tidak ikut dan mengabaikan",
+   "Menonton perkembangannya",
+   "Melaporkan konten"
+  ],
+  "scores": [
+   1,
+   5,
+   3,
+   2,
+   4
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Melaporkan konten dan mengingatkan untuk menyampaikan aspirasi secara damai\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Anti-Radikalisme",
+  "tags": [
+   "anti-radikalisme"
+  ]
+ },
+ {
+  "id": "TKP-045",
+  "category": "TKP",
+  "sub": "Anti-Radikalisme",
+  "question": "Siswa/warga binaan Anda bertanya mengapa Indonesia tidak berdasarkan satu agama. Anda…",
+  "options": [
+   "Menghindari topik",
+   "Menjelaskan sejarah konsensus Pancasila sebagai pemersatu kemajemukan",
+   "Menyarankan ia bertanya kepada guru agama",
+   "Menyetujui bahwa seharusnya satu agama",
+   "Menjelaskan bahwa itu ketentuan UUD"
+  ],
+  "scores": [
+   2,
+   5,
+   3,
+   1,
+   4
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Menjelaskan sejarah konsensus Pancasila sebagai pemersatu kemajemukan\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Anti-Radikalisme",
+  "tags": [
+   "anti-radikalisme"
+  ]
+ },
+ {
+  "id": "TKP-046",
+  "category": "TKP",
+  "sub": "Anti-Radikalisme",
+  "question": "Anda menemukan buku bacaan di perpustakaan kantor yang memuat ujaran kebencian. Anda…",
+  "options": [
+   "Tidak membacanya",
+   "Melaporkan ke pengelola agar ditinjau sesuai ketentuan",
+   "Menyampaikan ke rekan pengelola",
+   "Membiarkan",
+   "Merekomendasikan ke orang lain"
+  ],
+  "scores": [
+   3,
+   5,
+   4,
+   2,
+   1
+  ],
+  "answer": 1,
+  "explanation": "Respons terbaik (skor 5): \"Melaporkan ke pengelola agar ditinjau sesuai ketentuan\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Anti-Radikalisme",
+  "tags": [
+   "anti-radikalisme"
+  ]
+ },
+ {
+  "id": "TKP-047",
+  "category": "TKP",
+  "sub": "Anti-Radikalisme",
+  "question": "Terjadi perdebatan politik panas di kantor menjelang pemilu. Sebagai ASN, Anda…",
+  "options": [
+   "Tidak ikut berdebat",
+   "Mengampanyekan calon tertentu",
+   "Ikut berdebat sedikit",
+   "Menjaga netralitas dan mengajak rekan kembali fokus bekerja",
+   "Menjaga netralitas"
+  ],
+  "scores": [
+   3,
+   1,
+   2,
+   5,
+   4
+  ],
+  "answer": 3,
+  "explanation": "Respons terbaik (skor 5): \"Menjaga netralitas dan mengajak rekan kembali fokus bekerja\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Anti-Radikalisme",
+  "tags": [
+   "anti-radikalisme"
+  ]
+ },
+ {
+  "id": "TKP-048",
+  "category": "TKP",
+  "sub": "Anti-Radikalisme",
+  "question": "Tetangga mengajak bergabung dengan kelompok yang menolak hormat bendera. Anda…",
+  "options": [
+   "Menolak dan menjelaskan makna simbol negara",
+   "Mengatakan akan pikir-pikir",
+   "Menolak dengan sopan",
+   "Datang untuk melihat",
+   "Bergabung"
+  ],
+  "scores": [
+   5,
+   3,
+   4,
+   2,
+   1
+  ],
+  "answer": 0,
+  "explanation": "Respons terbaik (skor 5): \"Menolak dan menjelaskan makna simbol negara\" — paling proaktif, solutif, dan sesuai nilai BerAKHLAK. Skor menurun untuk respons yang pasif, menghindar, atau melanggar etika ASN.",
+  "difficulty": "Sedang",
+  "reference": "Materi TKP Anti-Radikalisme",
+  "tags": [
+   "anti-radikalisme"
+  ]
+ }
+]

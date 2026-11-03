@@ -1,0 +1,582 @@
+[
+ {
+  "id": "SKB-001",
+  "category": "SKB",
+  "sub": "Guru dan Tenaga Pendidikan",
+  "question": "Kurikulum yang menekankan pembelajaran berdiferensiasi dan Profil Pelajar Pancasila adalah…",
+  "options": [
+   "Kurikulum Berbasis Kompetensi 2004",
+   "Kurikulum Merdeka",
+   "Kurikulum 1994",
+   "KTSP",
+   "Kurikulum 2013 revisi 2016"
+  ],
+  "answer": 1,
+  "explanation": "Kurikulum Merdeka menekankan materi esensial, projek penguatan profil pelajar Pancasila, dan diferensiasi.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Guru dan Tenaga Pendidikan",
+  "tags": [
+   "guru dan tenaga pendidikan"
+  ]
+ },
+ {
+  "id": "SKB-002",
+  "category": "SKB",
+  "sub": "Guru dan Tenaga Pendidikan",
+  "question": "Penilaian yang dilakukan selama proses pembelajaran untuk memperbaiki pembelajaran disebut…",
+  "options": [
+   "Ujian akhir",
+   "Penilaian portofolio akhir",
+   "Asesmen diagnostik",
+   "Asesmen formatif",
+   "Asesmen sumatif"
+  ],
+  "answer": 3,
+  "explanation": "Asesmen formatif memberi umpan balik berkelanjutan; sumatif menilai capaian di akhir.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Guru dan Tenaga Pendidikan",
+  "tags": [
+   "guru dan tenaga pendidikan"
+  ]
+ },
+ {
+  "id": "SKB-003",
+  "category": "SKB",
+  "sub": "Guru dan Tenaga Pendidikan",
+  "question": "Menurut taksonomi Bloom revisi, tingkat kognitif tertinggi adalah…",
+  "options": [
+   "Mengevaluasi",
+   "Menerapkan",
+   "Mencipta (create)",
+   "Memahami",
+   "Menganalisis"
+  ],
+  "answer": 2,
+  "explanation": "Urutan revisi Anderson & Krathwohl: mengingat, memahami, menerapkan, menganalisis, mengevaluasi, mencipta.",
+  "difficulty": "Sedang",
+  "reference": "Materi SKB Guru dan Tenaga Pendidikan",
+  "tags": [
+   "guru dan tenaga pendidikan"
+  ]
+ },
+ {
+  "id": "SKB-004",
+  "category": "SKB",
+  "sub": "Dokter",
+  "question": "Tatalaksana awal syok anafilaktik pada dewasa adalah…",
+  "options": [
+   "Observasi saja",
+   "Kortikosteroid oral",
+   "Epinefrin 0,3–0,5 mg intramuskular di paha anterolateral",
+   "Parasetamol IV",
+   "Antihistamin oral"
+  ],
+  "answer": 2,
+  "explanation": "Epinefrin IM 0,01 mg/kgBB (maks 0,5 mg dewasa) adalah lini pertama anafilaksis.",
+  "difficulty": "Sedang",
+  "reference": "Materi SKB Dokter",
+  "tags": [
+   "dokter"
+  ]
+ },
+ {
+  "id": "SKB-005",
+  "category": "SKB",
+  "sub": "Dokter",
+  "question": "Program JKN dikelola oleh…",
+  "options": [
+   "BPJS Kesehatan",
+   "Dinas Kesehatan",
+   "BPJS Ketenagakerjaan",
+   "Kementerian Kesehatan",
+   "Asuransi swasta"
+  ],
+  "answer": 0,
+  "explanation": "UU 24/2011: BPJS Kesehatan menyelenggarakan Jaminan Kesehatan Nasional.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Dokter",
+  "tags": [
+   "dokter"
+  ]
+ },
+ {
+  "id": "SKB-006",
+  "category": "SKB",
+  "sub": "Dokter",
+  "question": "Diagnosis hipertensi pada dewasa ditegakkan bila tekanan darah klinik berulang ≥…",
+  "options": [
+   "140/90 mmHg",
+   "160/100 mmHg",
+   "150/95 mmHg",
+   "120/80 mmHg",
+   "130/85 mmHg"
+  ],
+  "answer": 0,
+  "explanation": "Pedoman nasional (PERHI) menggunakan batas ≥140/90 mmHg pada pengukuran klinik.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Dokter",
+  "tags": [
+   "dokter"
+  ]
+ },
+ {
+  "id": "SKB-007",
+  "category": "SKB",
+  "sub": "Perawat",
+  "question": "Prinsip enam benar pemberian obat meliputi benar pasien, obat, dosis, waktu, rute, dan…",
+  "options": [
+   "Dokumentasi",
+   "Dokter",
+   "Ruangan",
+   "Harga",
+   "Merek"
+  ],
+  "answer": 0,
+  "explanation": "Enam benar: pasien, obat, dosis, waktu, rute, dokumentasi.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Perawat",
+  "tags": [
+   "perawat"
+  ]
+ },
+ {
+  "id": "SKB-008",
+  "category": "SKB",
+  "sub": "Perawat",
+  "question": "Urutan proses keperawatan yang benar adalah…",
+  "options": [
+   "Pengkajian, diagnosis, perencanaan, implementasi, evaluasi",
+   "Diagnosis, pengkajian, implementasi, perencanaan, evaluasi",
+   "Perencanaan, pengkajian, diagnosis, evaluasi, implementasi",
+   "Implementasi, evaluasi, pengkajian, diagnosis, perencanaan",
+   "Pengkajian, perencanaan, diagnosis, evaluasi, implementasi"
+  ],
+  "answer": 0,
+  "explanation": "Proses keperawatan terdiri atas lima tahap berurutan.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Perawat",
+  "tags": [
+   "perawat"
+  ]
+ },
+ {
+  "id": "SKB-009",
+  "category": "SKB",
+  "sub": "Bidan",
+  "question": "Kunjungan antenatal minimal sesuai standar terbaru Kemenkes adalah…",
+  "options": [
+   "4 kali",
+   "8 kali",
+   "6 kali",
+   "2 kali",
+   "10 kali"
+  ],
+  "answer": 2,
+  "explanation": "Standar ANC minimal 6 kali: 2 kali trimester I, 1 kali trimester II, 3 kali trimester III (Permenkes 21/2021).",
+  "difficulty": "Sedang",
+  "reference": "Materi SKB Bidan",
+  "tags": [
+   "bidan"
+  ]
+ },
+ {
+  "id": "SKB-010",
+  "category": "SKB",
+  "sub": "Bidan",
+  "question": "Inisiasi Menyusu Dini (IMD) dilakukan dengan meletakkan bayi di dada ibu selama minimal…",
+  "options": [
+   "30 menit",
+   "1 jam",
+   "6 jam",
+   "10 menit",
+   "3 jam"
+  ],
+  "answer": 1,
+  "explanation": "IMD dilakukan kontak kulit ke kulit sedikitnya 1 jam segera setelah lahir.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Bidan",
+  "tags": [
+   "bidan"
+  ]
+ },
+ {
+  "id": "SKB-011",
+  "category": "SKB",
+  "sub": "Pranata Komputer dan IT",
+  "question": "Model jaringan OSI memiliki berapa lapisan?",
+  "options": [
+   "4",
+   "8",
+   "7",
+   "6",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "Physical, Data Link, Network, Transport, Session, Presentation, Application.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Pranata Komputer dan IT",
+  "tags": [
+   "pranata komputer dan it"
+  ]
+ },
+ {
+  "id": "SKB-012",
+  "category": "SKB",
+  "sub": "Pranata Komputer dan IT",
+  "question": "Perintah SQL untuk menghapus seluruh baris tabel tanpa menghapus strukturnya adalah…",
+  "options": [
+   "CREATE",
+   "REVOKE",
+   "DROP",
+   "ALTER",
+   "TRUNCATE"
+  ],
+  "answer": 4,
+  "explanation": "TRUNCATE mengosongkan tabel; DROP menghapus tabel beserta strukturnya.",
+  "difficulty": "Sedang",
+  "reference": "Materi SKB Pranata Komputer dan IT",
+  "tags": [
+   "pranata komputer dan it"
+  ]
+ },
+ {
+  "id": "SKB-013",
+  "category": "SKB",
+  "sub": "Pranata Komputer dan IT",
+  "question": "Sistem Pemerintahan Berbasis Elektronik (SPBE) diatur dalam…",
+  "options": [
+   "UU 27 Tahun 2022",
+   "PP 71 Tahun 2019",
+   "Perpres 39 Tahun 2019",
+   "Perpres 95 Tahun 2018",
+   "UU 11 Tahun 2008"
+  ],
+  "answer": 3,
+  "explanation": "Perpres 95/2018 tentang SPBE. Satu Data Indonesia diatur Perpres 39/2019; PDP oleh UU 27/2022.",
+  "difficulty": "Sulit",
+  "reference": "Materi SKB Pranata Komputer dan IT",
+  "tags": [
+   "pranata komputer dan it"
+  ]
+ },
+ {
+  "id": "SKB-014",
+  "category": "SKB",
+  "sub": "Auditor",
+  "question": "Bukti audit yang paling andal umumnya adalah…",
+  "options": [
+   "Keterangan lisan dari pihak yang diaudit",
+   "Bukti yang diperoleh langsung oleh auditor dari pihak independen",
+   "Catatan pribadi pegawai",
+   "Fotokopi dokumen internal",
+   "Laporan tidak bertanggal"
+  ],
+  "answer": 1,
+  "explanation": "Keandalan bukti meningkat bila diperoleh langsung auditor dan dari sumber independen.",
+  "difficulty": "Sedang",
+  "reference": "Materi SKB Auditor",
+  "tags": [
+   "auditor"
+  ]
+ },
+ {
+  "id": "SKB-015",
+  "category": "SKB",
+  "sub": "Auditor",
+  "question": "Lembaga pengawas intern pemerintah yang bertanggung jawab langsung kepada Presiden adalah…",
+  "options": [
+   "BPK",
+   "BPKP",
+   "Inspektorat Daerah",
+   "Itjen Kementerian",
+   "KPK"
+  ],
+  "answer": 1,
+  "explanation": "BPKP (Perpres 192/2014) adalah APIP yang bertanggung jawab kepada Presiden.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Auditor",
+  "tags": [
+   "auditor"
+  ]
+ },
+ {
+  "id": "SKB-016",
+  "category": "SKB",
+  "sub": "Analis Kebijakan",
+  "question": "Tahapan siklus kebijakan publik yang tepat dimulai dari…",
+  "options": [
+   "Evaluasi kebijakan",
+   "Implementasi",
+   "Adopsi kebijakan",
+   "Penyusunan agenda",
+   "Formulasi"
+  ],
+  "answer": 3,
+  "explanation": "Siklus Dunn: penyusunan agenda, formulasi, adopsi, implementasi, evaluasi.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Analis Kebijakan",
+  "tags": [
+   "analis kebijakan"
+  ]
+ },
+ {
+  "id": "SKB-017",
+  "category": "SKB",
+  "sub": "Analis Kebijakan",
+  "question": "Dokumen ringkas berisi rekomendasi kebijakan untuk pengambil keputusan disebut…",
+  "options": [
+   "Policy brief",
+   "Naskah akademik",
+   "Kerangka acuan kerja",
+   "Rencana strategis",
+   "LAKIP"
+  ],
+  "answer": 0,
+  "explanation": "Policy brief menyajikan masalah, opsi, dan rekomendasi secara ringkas bagi pimpinan.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Analis Kebijakan",
+  "tags": [
+   "analis kebijakan"
+  ]
+ },
+ {
+  "id": "SKB-018",
+  "category": "SKB",
+  "sub": "Analis Keuangan",
+  "question": "Rasio lancar (current ratio) dihitung dengan rumus…",
+  "options": [
+   "Total utang ÷ ekuitas",
+   "Kas ÷ total aset",
+   "Ekuitas ÷ total aset",
+   "Aset lancar ÷ liabilitas jangka pendek",
+   "Laba bersih ÷ penjualan"
+  ],
+  "answer": 3,
+  "explanation": "Current ratio mengukur kemampuan membayar kewajiban jangka pendek.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Analis Keuangan",
+  "tags": [
+   "analis keuangan"
+  ]
+ },
+ {
+  "id": "SKB-019",
+  "category": "SKB",
+  "sub": "Analis Keuangan",
+  "question": "Standar Akuntansi Pemerintahan yang berlaku saat ini menggunakan basis…",
+  "options": [
+   "Akrual",
+   "Komitmen",
+   "Modifikasi kas",
+   "Kas menuju akrual",
+   "Kas"
+  ],
+  "answer": 0,
+  "explanation": "PP 71/2010 menetapkan SAP berbasis akrual.",
+  "difficulty": "Sedang",
+  "reference": "Materi SKB Analis Keuangan",
+  "tags": [
+   "analis keuangan"
+  ]
+ },
+ {
+  "id": "SKB-020",
+  "category": "SKB",
+  "sub": "Arsiparis",
+  "question": "Arsip yang memiliki nilai guna kesejarahan dan dinyatakan permanen disebut…",
+  "options": [
+   "Arsip terjaga",
+   "Arsip statis",
+   "Arsip vital",
+   "Arsip dinamis aktif",
+   "Arsip inaktif"
+  ],
+  "answer": 1,
+  "explanation": "UU 43/2009: arsip statis dikelola lembaga kearsipan karena nilai guna kesejarahan.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Arsiparis",
+  "tags": [
+   "arsiparis"
+  ]
+ },
+ {
+  "id": "SKB-021",
+  "category": "SKB",
+  "sub": "Arsiparis",
+  "question": "Daftar yang berisi jangka waktu penyimpanan arsip dan keterangan nasib akhirnya disebut…",
+  "options": [
+   "Indeks arsip",
+   "Daftar isi berkas",
+   "Klasifikasi arsip",
+   "Buku agenda",
+   "Jadwal Retensi Arsip (JRA)"
+  ],
+  "answer": 4,
+  "explanation": "JRA menentukan masa simpan aktif/inaktif serta keterangan musnah, permanen, atau dinilai kembali.",
+  "difficulty": "Sedang",
+  "reference": "Materi SKB Arsiparis",
+  "tags": [
+   "arsiparis"
+  ]
+ },
+ {
+  "id": "SKB-022",
+  "category": "SKB",
+  "sub": "Pustakawan",
+  "question": "Sistem klasifikasi yang membagi ilmu pengetahuan menjadi 10 kelas utama (000–900) adalah…",
+  "options": [
+   "UDC Bliss",
+   "Dewey Decimal Classification",
+   "Colon Classification",
+   "Library of Congress",
+   "Sistem Cutter"
+  ],
+  "answer": 1,
+  "explanation": "DDC: 000 karya umum, 100 filsafat, 200 agama, … 900 sejarah dan geografi.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Pustakawan",
+  "tags": [
+   "pustakawan"
+  ]
+ },
+ {
+  "id": "SKB-023",
+  "category": "SKB",
+  "sub": "Pustakawan",
+  "question": "Nomor standar internasional untuk buku adalah…",
+  "options": [
+   "EAN",
+   "ISBN",
+   "ISMN",
+   "DOI",
+   "ISSN"
+  ],
+  "answer": 1,
+  "explanation": "ISBN untuk buku; ISSN untuk terbitan berseri.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Pustakawan",
+  "tags": [
+   "pustakawan"
+  ]
+ },
+ {
+  "id": "SKB-024",
+  "category": "SKB",
+  "sub": "Penyuluh",
+  "question": "Metode penyuluhan dengan memperlihatkan hasil nyata penerapan teknologi di lapangan disebut…",
+  "options": [
+   "Brosur",
+   "Anjangsana",
+   "Siaran radio",
+   "Demonstrasi hasil (demplot)",
+   "Ceramah"
+  ],
+  "answer": 3,
+  "explanation": "Demonstrasi plot/hasil efektif mengubah perilaku karena sasaran melihat bukti langsung.",
+  "difficulty": "Sedang",
+  "reference": "Materi SKB Penyuluh",
+  "tags": [
+   "penyuluh"
+  ]
+ },
+ {
+  "id": "SKB-025",
+  "category": "SKB",
+  "sub": "Penyuluh",
+  "question": "Dalam teori adopsi inovasi Rogers, kelompok yang paling awal menerima inovasi disebut…",
+  "options": [
+   "Mayoritas akhir",
+   "Laggard",
+   "Pengadopsi awal",
+   "Inovator",
+   "Mayoritas awal"
+  ],
+  "answer": 3,
+  "explanation": "Urutan: innovators, early adopters, early majority, late majority, laggards.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Penyuluh",
+  "tags": [
+   "penyuluh"
+  ]
+ },
+ {
+  "id": "SKB-026",
+  "category": "SKB",
+  "sub": "Administrasi Pemerintahan",
+  "question": "Asas umum pemerintahan yang baik (AUPB) diatur dalam…",
+  "options": [
+   "UU 25 Tahun 2009",
+   "UU 30 Tahun 2014",
+   "UU 23 Tahun 2014",
+   "UU 20 Tahun 2023",
+   "UU 5 Tahun 2014"
+  ],
+  "answer": 1,
+  "explanation": "UU 30/2014 tentang Administrasi Pemerintahan memuat AUPB seperti kepastian hukum, kemanfaatan, ketidakberpihakan.",
+  "difficulty": "Sedang",
+  "reference": "Materi SKB Administrasi Pemerintahan",
+  "tags": [
+   "administrasi pemerintahan"
+  ]
+ },
+ {
+  "id": "SKB-027",
+  "category": "SKB",
+  "sub": "Administrasi Pemerintahan",
+  "question": "Undang-undang tentang ASN yang berlaku saat ini adalah…",
+  "options": [
+   "UU 8 Tahun 1974",
+   "UU 43 Tahun 1999",
+   "UU 25 Tahun 2009",
+   "UU 20 Tahun 2023",
+   "UU 5 Tahun 2014"
+  ],
+  "answer": 3,
+  "explanation": "UU 20/2023 menggantikan UU 5/2014 tentang ASN.",
+  "difficulty": "Mudah",
+  "reference": "Materi SKB Administrasi Pemerintahan",
+  "tags": [
+   "administrasi pemerintahan"
+  ]
+ },
+ {
+  "id": "SKB-028",
+  "category": "SKB",
+  "sub": "Jabatan Teknis Lainnya",
+  "question": "Dalam K3, urutan hierarki pengendalian risiko yang paling efektif dimulai dari…",
+  "options": [
+   "Rekayasa teknik",
+   "Pengendalian administratif",
+   "Alat pelindung diri",
+   "Substitusi",
+   "Eliminasi"
+  ],
+  "answer": 4,
+  "explanation": "Hierarki: eliminasi, substitusi, rekayasa teknik, administratif, APD.",
+  "difficulty": "Sedang",
+  "reference": "Materi SKB Jabatan Teknis Lainnya",
+  "tags": [
+   "jabatan teknis lainnya"
+  ]
+ },
+ {
+  "id": "SKB-029",
+  "category": "SKB",
+  "sub": "Jabatan Teknis Lainnya",
+  "question": "Pengadaan barang/jasa pemerintah saat ini diatur oleh…",
+  "options": [
+   "Keppres 80/2003",
+   "Perpres 16/2018 jo. Perpres 12/2021",
+   "UU 1/2004",
+   "Perpres 54/2010",
+   "PP 12/2019"
+  ],
+  "answer": 1,
+  "explanation": "Perpres 16/2018 sebagaimana diubah Perpres 12/2021 tentang Pengadaan Barang/Jasa Pemerintah.",
+  "difficulty": "Sulit",
+  "reference": "Materi SKB Jabatan Teknis Lainnya",
+  "tags": [
+   "jabatan teknis lainnya"
+  ]
+ }
+]
