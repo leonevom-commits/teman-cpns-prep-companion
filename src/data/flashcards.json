@@ -1,0 +1,356 @@
+[
+ {
+  "id": "FC-PAN-01",
+  "deck": "Pancasila",
+  "front": "Sila ke-1",
+  "back": "Ketuhanan Yang Maha Esa — lambang bintang"
+ },
+ {
+  "id": "FC-PAN-02",
+  "deck": "Pancasila",
+  "front": "Sila ke-2",
+  "back": "Kemanusiaan yang adil dan beradab — rantai"
+ },
+ {
+  "id": "FC-PAN-03",
+  "deck": "Pancasila",
+  "front": "Sila ke-3",
+  "back": "Persatuan Indonesia — pohon beringin"
+ },
+ {
+  "id": "FC-PAN-04",
+  "deck": "Pancasila",
+  "front": "Sila ke-4",
+  "back": "Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan — kepala banteng"
+ },
+ {
+  "id": "FC-PAN-05",
+  "deck": "Pancasila",
+  "front": "Sila ke-5",
+  "back": "Keadilan sosial bagi seluruh rakyat Indonesia — padi dan kapas"
+ },
+ {
+  "id": "FC-PAN-06",
+  "deck": "Pancasila",
+  "front": "Hari Lahir Pancasila",
+  "back": "1 Juni (pidato Soekarno 1945)"
+ },
+ {
+  "id": "FC-PAN-07",
+  "deck": "Pancasila",
+  "front": "Piagam Jakarta",
+  "back": "22 Juni 1945, rumusan Panitia Sembilan"
+ },
+ {
+  "id": "FC-UUD-01",
+  "deck": "UUD 1945",
+  "front": "Pasal 1 ayat (3)",
+  "back": "Negara Indonesia adalah negara hukum"
+ },
+ {
+  "id": "FC-UUD-02",
+  "deck": "UUD 1945",
+  "front": "Pasal 27 ayat (3)",
+  "back": "Hak dan kewajiban ikut serta dalam upaya pembelaan negara"
+ },
+ {
+  "id": "FC-UUD-03",
+  "deck": "UUD 1945",
+  "front": "Pasal 28A–28J",
+  "back": "Hak asasi manusia"
+ },
+ {
+  "id": "FC-UUD-04",
+  "deck": "UUD 1945",
+  "front": "Pasal 33",
+  "back": "Perekonomian disusun sebagai usaha bersama berdasar asas kekeluargaan"
+ },
+ {
+  "id": "FC-UUD-05",
+  "deck": "UUD 1945",
+  "front": "Pasal 36",
+  "back": "Bahasa negara ialah bahasa Indonesia"
+ },
+ {
+  "id": "FC-UUD-06",
+  "deck": "UUD 1945",
+  "front": "Pasal 37 ayat (5)",
+  "back": "Bentuk NKRI tidak dapat diubah"
+ },
+ {
+  "id": "FC-UUD-07",
+  "deck": "UUD 1945",
+  "front": "Jumlah amandemen",
+  "back": "Empat kali, 1999–2002"
+ },
+ {
+  "id": "FC-SEJ-01",
+  "deck": "Sejarah Nasional",
+  "front": "20 Mei 1908",
+  "back": "Berdirinya Budi Utomo"
+ },
+ {
+  "id": "FC-SEJ-02",
+  "deck": "Sejarah Nasional",
+  "front": "28 Oktober 1928",
+  "back": "Sumpah Pemuda"
+ },
+ {
+  "id": "FC-SEJ-03",
+  "deck": "Sejarah Nasional",
+  "front": "16 Agustus 1945",
+  "back": "Peristiwa Rengasdengklok"
+ },
+ {
+  "id": "FC-SEJ-04",
+  "deck": "Sejarah Nasional",
+  "front": "18 Agustus 1945",
+  "back": "PPKI mengesahkan UUD 1945"
+ },
+ {
+  "id": "FC-SEJ-05",
+  "deck": "Sejarah Nasional",
+  "front": "10 November 1945",
+  "back": "Pertempuran Surabaya"
+ },
+ {
+  "id": "FC-SEJ-06",
+  "deck": "Sejarah Nasional",
+  "front": "13 Desember 1957",
+  "back": "Deklarasi Djuanda"
+ },
+ {
+  "id": "FC-SEJ-07",
+  "deck": "Sejarah Nasional",
+  "front": "27 Desember 1949",
+  "back": "Pengakuan kedaulatan (KMB)"
+ },
+ {
+  "id": "FC-LEM-01",
+  "deck": "Lembaga Negara",
+  "front": "MK",
+  "back": "Menguji UU terhadap UUD, memutus sengketa kewenangan lembaga, pembubaran parpol, sengketa hasil pemilu"
+ },
+ {
+  "id": "FC-LEM-02",
+  "deck": "Lembaga Negara",
+  "front": "MA",
+  "back": "Mengadili kasasi dan menguji peraturan di bawah UU terhadap UU"
+ },
+ {
+  "id": "FC-LEM-03",
+  "deck": "Lembaga Negara",
+  "front": "BPK",
+  "back": "Memeriksa pengelolaan dan tanggung jawab keuangan negara"
+ },
+ {
+  "id": "FC-LEM-04",
+  "deck": "Lembaga Negara",
+  "front": "KY",
+  "back": "Mengusulkan pengangkatan hakim agung dan menjaga kehormatan hakim"
+ },
+ {
+  "id": "FC-LEM-05",
+  "deck": "Lembaga Negara",
+  "front": "DPD",
+  "back": "Mewakili daerah, mengajukan RUU terkait otonomi daerah"
+ },
+ {
+  "id": "FC-LEM-06",
+  "deck": "Lembaga Negara",
+  "front": "MPR",
+  "back": "Mengubah dan menetapkan UUD, melantik presiden"
+ },
+ {
+  "id": "FC-TOK-01",
+  "deck": "Tokoh Nasional",
+  "front": "dr. Wahidin Sudirohusodo",
+  "back": "Penggagas Budi Utomo"
+ },
+ {
+  "id": "FC-TOK-02",
+  "deck": "Tokoh Nasional",
+  "front": "Ki Hajar Dewantara",
+  "back": "Bapak Pendidikan Nasional, Taman Siswa"
+ },
+ {
+  "id": "FC-TOK-03",
+  "deck": "Tokoh Nasional",
+  "front": "Mohammad Yamin",
+  "back": "Pengusul dasar negara 29 Mei 1945"
+ },
+ {
+  "id": "FC-TOK-04",
+  "deck": "Tokoh Nasional",
+  "front": "Fatmawati",
+  "back": "Penjahit bendera pusaka"
+ },
+ {
+  "id": "FC-TOK-05",
+  "deck": "Tokoh Nasional",
+  "front": "Bung Tomo",
+  "back": "Penggerak arek-arek Surabaya"
+ },
+ {
+  "id": "FC-TOK-06",
+  "deck": "Tokoh Nasional",
+  "front": "Ir. Djuanda",
+  "back": "Pencetus Deklarasi Djuanda"
+ },
+ {
+  "id": "FC-IST-01",
+  "deck": "Istilah Pemerintahan",
+  "front": "Desentralisasi",
+  "back": "Penyerahan urusan pemerintahan dari pusat ke daerah otonom"
+ },
+ {
+  "id": "FC-IST-02",
+  "deck": "Istilah Pemerintahan",
+  "front": "Dekonsentrasi",
+  "back": "Pelimpahan sebagian urusan pusat kepada gubernur sebagai wakil pemerintah pusat"
+ },
+ {
+  "id": "FC-IST-03",
+  "deck": "Istilah Pemerintahan",
+  "front": "Tugas pembantuan",
+  "back": "Penugasan dari pusat ke daerah untuk melaksanakan sebagian urusan"
+ },
+ {
+  "id": "FC-IST-04",
+  "deck": "Istilah Pemerintahan",
+  "front": "BerAKHLAK",
+  "back": "Core values ASN"
+ },
+ {
+  "id": "FC-IST-05",
+  "deck": "Istilah Pemerintahan",
+  "front": "Sistem merit",
+  "back": "Manajemen ASN berdasarkan kualifikasi, kompetensi, dan kinerja"
+ },
+ {
+  "id": "FC-IST-06",
+  "deck": "Istilah Pemerintahan",
+  "front": "SPBE",
+  "back": "Sistem Pemerintahan Berbasis Elektronik"
+ },
+ {
+  "id": "FC-RUM-01",
+  "deck": "Rumus Matematika",
+  "front": "Jarak",
+  "back": "J = K × W"
+ },
+ {
+  "id": "FC-RUM-02",
+  "deck": "Rumus Matematika",
+  "front": "Persentase untung",
+  "back": "(Jual − Beli) / Beli × 100%"
+ },
+ {
+  "id": "FC-RUM-03",
+  "deck": "Rumus Matematika",
+  "front": "Bunga tunggal",
+  "back": "B = M × p × t"
+ },
+ {
+  "id": "FC-RUM-04",
+  "deck": "Rumus Matematika",
+  "front": "Luas lingkaran",
+  "back": "πr²"
+ },
+ {
+  "id": "FC-RUM-05",
+  "deck": "Rumus Matematika",
+  "front": "Rata-rata gabungan",
+  "back": "(n₁x₁ + n₂x₂) / (n₁ + n₂)"
+ },
+ {
+  "id": "FC-RUM-06",
+  "deck": "Rumus Matematika",
+  "front": "Berbalik nilai",
+  "back": "p₁ × w₁ = p₂ × w₂"
+ },
+ {
+  "id": "FC-KOS-01",
+  "deck": "Kosakata Verbal",
+  "front": "Nisbi",
+  "back": "Relatif, tidak mutlak"
+ },
+ {
+  "id": "FC-KOS-02",
+  "deck": "Kosakata Verbal",
+  "front": "Absah",
+  "back": "Sah, valid"
+ },
+ {
+  "id": "FC-KOS-03",
+  "deck": "Kosakata Verbal",
+  "front": "Konklusi",
+  "back": "Kesimpulan"
+ },
+ {
+  "id": "FC-KOS-04",
+  "deck": "Kosakata Verbal",
+  "front": "Laten",
+  "back": "Tersembunyi, terpendam"
+ },
+ {
+  "id": "FC-KOS-05",
+  "deck": "Kosakata Verbal",
+  "front": "Prolog >< ?",
+  "back": "Epilog"
+ },
+ {
+  "id": "FC-KOS-06",
+  "deck": "Kosakata Verbal",
+  "front": "Fiktif >< ?",
+  "back": "Faktual"
+ },
+ {
+  "id": "FC-KOS-07",
+  "deck": "Kosakata Verbal",
+  "front": "Pandir",
+  "back": "Bodoh"
+ },
+ {
+  "id": "FC-KOS-08",
+  "deck": "Kosakata Verbal",
+  "front": "Insinuasi",
+  "back": "Tuduhan tersembunyi, sindiran"
+ },
+ {
+  "id": "FC-KON-01",
+  "deck": "Konsep Penting SKB",
+  "front": "UU ASN terbaru",
+  "back": "UU 20/2023"
+ },
+ {
+  "id": "FC-KON-02",
+  "deck": "Konsep Penting SKB",
+  "front": "SPIP",
+  "back": "PP 60/2008, lima unsur pengendalian intern"
+ },
+ {
+  "id": "FC-KON-03",
+  "deck": "Konsep Penting SKB",
+  "front": "Kearsipan",
+  "back": "UU 43/2009"
+ },
+ {
+  "id": "FC-KON-04",
+  "deck": "Konsep Penting SKB",
+  "front": "Keuangan Negara",
+  "back": "UU 17/2003"
+ },
+ {
+  "id": "FC-KON-05",
+  "deck": "Konsep Penting SKB",
+  "front": "Administrasi Pemerintahan",
+  "back": "UU 30/2014"
+ },
+ {
+  "id": "FC-KON-06",
+  "deck": "Konsep Penting SKB",
+  "front": "Pelayanan Publik",
+  "back": "UU 25/2009"
+ }
+]
