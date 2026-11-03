@@ -1,0 +1,4810 @@
+[
+ {
+  "id": "TIU-V-001",
+  "category": "TIU",
+  "sub": "Analogi Kata",
+  "question": "DOKTER : STETOSKOP = PETANI : …",
+  "options": [
+   "KERBAU",
+   "CANGKUL",
+   "SAWAH",
+   "PUPUK",
+   "PADI"
+  ],
+  "answer": 1,
+  "explanation": "Stetoskop adalah alat kerja dokter; cangkul alat kerja petani.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Analogi Kata",
+  "tags": [
+   "analogi kata"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-002",
+  "category": "TIU",
+  "sub": "Analogi Kata",
+  "question": "AIR : HAUS = MAKANAN : …",
+  "options": [
+   "LAPAR",
+   "NASI",
+   "PIRING",
+   "KENYANG",
+   "DAPUR"
+  ],
+  "answer": 0,
+  "explanation": "Air menghilangkan haus; makanan menghilangkan lapar.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Analogi Kata",
+  "tags": [
+   "analogi kata"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-003",
+  "category": "TIU",
+  "sub": "Analogi Kata",
+  "question": "PENA : PENULIS = KUAS : …",
+  "options": [
+   "CAT",
+   "WARNA",
+   "PELUKIS",
+   "KANVAS",
+   "GAMBAR"
+  ],
+  "answer": 2,
+  "explanation": "Alat dan penggunanya.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Analogi Kata",
+  "tags": [
+   "analogi kata"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-004",
+  "category": "TIU",
+  "sub": "Analogi Kata",
+  "question": "BENIH : POHON = TELUR : …",
+  "options": [
+   "GORENG",
+   "SARANG",
+   "CANGKANG",
+   "KUNING",
+   "AYAM"
+  ],
+  "answer": 4,
+  "explanation": "Bentuk awal menjadi bentuk dewasa.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Analogi Kata",
+  "tags": [
+   "analogi kata"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-005",
+  "category": "TIU",
+  "sub": "Analogi Kata",
+  "question": "GELAP : TERANG = RAJIN : …",
+  "options": [
+   "MALAS",
+   "GIAT",
+   "TEKUN",
+   "CERDAS",
+   "PANDAI"
+  ],
+  "answer": 0,
+  "explanation": "Pasangan antonim.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Analogi Kata",
+  "tags": [
+   "analogi kata"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-006",
+  "category": "TIU",
+  "sub": "Analogi Kata",
+  "question": "KAKI : SEPATU = KEPALA : …",
+  "options": [
+   "TOPI",
+   "OTAK",
+   "RAMBUT",
+   "SISIR",
+   "WAJAH"
+  ],
+  "answer": 0,
+  "explanation": "Bagian tubuh dan penutupnya.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Analogi Kata",
+  "tags": [
+   "analogi kata"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-007",
+  "category": "TIU",
+  "sub": "Analogi Kata",
+  "question": "TERMOMETER : SUHU = BAROMETER : …",
+  "options": [
+   "KECEPATAN ANGIN",
+   "GEMPA",
+   "TEKANAN UDARA",
+   "KELEMBAPAN",
+   "CURAH HUJAN"
+  ],
+  "answer": 2,
+  "explanation": "Alat ukur dan besaran yang diukur.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Analogi Kata",
+  "tags": [
+   "analogi kata"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-008",
+  "category": "TIU",
+  "sub": "Sinonim",
+  "question": "Sinonim kata NIRMALA adalah…",
+  "options": [
+   "Bersih tanpa noda",
+   "Sederhana",
+   "Gelap",
+   "Indah",
+   "Tanpa nama"
+  ],
+  "answer": 0,
+  "explanation": "Nirmala (KBBI): bersih, tanpa cacat/noda.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Sinonim",
+  "tags": [
+   "sinonim"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-009",
+  "category": "TIU",
+  "sub": "Sinonim",
+  "question": "Sinonim kata ABSAH adalah…",
+  "options": [
+   "Sah",
+   "Batal",
+   "Mutlak",
+   "Asli palsu",
+   "Lengkap"
+  ],
+  "answer": 0,
+  "explanation": "Absah berarti sah, valid.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Sinonim",
+  "tags": [
+   "sinonim"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-010",
+  "category": "TIU",
+  "sub": "Sinonim",
+  "question": "Sinonim kata FRIKSI adalah…",
+  "options": [
+   "Gesekan halus",
+   "Perpecahan",
+   "Fiksi",
+   "Kesepakatan",
+   "Persatuan"
+  ],
+  "answer": 1,
+  "explanation": "Friksi: pergeseran yang menimbulkan perbedaan pendapat; perpecahan.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Sinonim",
+  "tags": [
+   "sinonim"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-011",
+  "category": "TIU",
+  "sub": "Sinonim",
+  "question": "Sinonim kata ELABORASI adalah…",
+  "options": [
+   "Perayaan",
+   "Penggarapan secara tekun dan cermat",
+   "Peringkasan",
+   "Penolakan",
+   "Penghapusan"
+  ],
+  "answer": 1,
+  "explanation": "Elaborasi: penjabaran/penggarapan secara rinci.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Sinonim",
+  "tags": [
+   "sinonim"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-012",
+  "category": "TIU",
+  "sub": "Sinonim",
+  "question": "Sinonim kata PROMINEN adalah…",
+  "options": [
+   "Terkemuka",
+   "Biasa",
+   "Rendah hati",
+   "Tersembunyi",
+   "Pemula"
+  ],
+  "answer": 0,
+  "explanation": "Prominen: terkemuka, menonjol.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Sinonim",
+  "tags": [
+   "sinonim"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-013",
+  "category": "TIU",
+  "sub": "Antonim",
+  "question": "Antonim kata DEFISIT adalah…",
+  "options": [
+   "Utang",
+   "Inflasi",
+   "Surplus",
+   "Rugi",
+   "Kekurangan"
+  ],
+  "answer": 2,
+  "explanation": "Defisit (kekurangan) berlawanan dengan surplus (kelebihan).",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Antonim",
+  "tags": [
+   "antonim"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-014",
+  "category": "TIU",
+  "sub": "Antonim",
+  "question": "Antonim kata FANA adalah…",
+  "options": [
+   "Lenyap",
+   "Mati",
+   "Rusak",
+   "Baka",
+   "Sementara"
+  ],
+  "answer": 3,
+  "explanation": "Fana = tidak kekal; baka = kekal.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Antonim",
+  "tags": [
+   "antonim"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-015",
+  "category": "TIU",
+  "sub": "Antonim",
+  "question": "Antonim kata KONKRET adalah…",
+  "options": [
+   "Abstrak",
+   "Nyata",
+   "Padat",
+   "Jelas",
+   "Pasti"
+  ],
+  "answer": 0,
+  "explanation": "Konkret (nyata) lawan abstrak (tidak berwujud).",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Antonim",
+  "tags": [
+   "antonim"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-016",
+  "category": "TIU",
+  "sub": "Antonim",
+  "question": "Antonim kata SKEPTIS adalah…",
+  "options": [
+   "Sinis",
+   "Ragu",
+   "Kritis",
+   "Yakin",
+   "Curiga"
+  ],
+  "answer": 3,
+  "explanation": "Skeptis = kurang percaya; lawannya yakin/percaya.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Antonim",
+  "tags": [
+   "antonim"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-017",
+  "category": "TIU",
+  "sub": "Antonim",
+  "question": "Antonim kata EKSPLISIT adalah…",
+  "options": [
+   "Gamblang",
+   "Tersurat",
+   "Implisit",
+   "Jelas",
+   "Terbuka"
+  ],
+  "answer": 2,
+  "explanation": "Eksplisit (tersurat) lawan implisit (tersirat).",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Antonim",
+  "tags": [
+   "antonim"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-018",
+  "category": "TIU",
+  "sub": "Silogisme",
+  "question": "Semua ASN wajib menjaga netralitas. Rina adalah ASN. Kesimpulan yang tepat…",
+  "options": [
+   "Rina wajib menjaga netralitas",
+   "Sebagian ASN tidak netral",
+   "Rina mungkin netral",
+   "Rina tidak wajib menjaga netralitas",
+   "Tidak dapat disimpulkan"
+  ],
+  "answer": 0,
+  "explanation": "Modus barbara: semua A adalah B; C adalah A; maka C adalah B.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Silogisme",
+  "tags": [
+   "silogisme"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-019",
+  "category": "TIU",
+  "sub": "Silogisme",
+  "question": "Jika hujan, jalan basah. Jalan tidak basah. Kesimpulan…",
+  "options": [
+   "Tidak dapat disimpulkan",
+   "Mungkin hujan",
+   "Hujan",
+   "Tidak hujan",
+   "Jalan kering karena panas"
+  ],
+  "answer": 3,
+  "explanation": "Modus tollens: p→q, ¬q, maka ¬p.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Silogisme",
+  "tags": [
+   "silogisme"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-020",
+  "category": "TIU",
+  "sub": "Silogisme",
+  "question": "Semua peserta yang lulus SKD mengikuti SKB. Sebagian peserta SKB berasal dari luar Jawa. Kesimpulan yang pasti benar…",
+  "options": [
+   "Peserta luar Jawa tidak mengikuti SKD",
+   "Semua peserta dari luar Jawa lulus SKD",
+   "Semua peserta SKB berasal dari Jawa",
+   "Tidak ada peserta luar Jawa yang lulus",
+   "Sebagian peserta yang lulus SKD mungkin berasal dari luar Jawa"
+  ],
+  "answer": 4,
+  "explanation": "Premis kedua bersifat 'sebagian', sehingga kesimpulan hanya dapat bersifat kemungkinan; pilihan lain menyalahi premis.",
+  "difficulty": "Sulit",
+  "reference": "Materi TIU Silogisme",
+  "tags": [
+   "silogisme"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-021",
+  "category": "TIU",
+  "sub": "Silogisme",
+  "question": "Jika Andi rajin belajar, ia lulus. Jika ia lulus, ia diangkat. Andi rajin belajar. Kesimpulan…",
+  "options": [
+   "Andi diangkat",
+   "Tidak dapat disimpulkan",
+   "Andi tidak diangkat",
+   "Andi lulus tetapi tidak diangkat",
+   "Andi tidak lulus"
+  ],
+  "answer": 0,
+  "explanation": "Silogisme hipotetis: p→q, q→r, p, maka r.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Silogisme",
+  "tags": [
+   "silogisme"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-022",
+  "category": "TIU",
+  "sub": "Silogisme",
+  "question": "Tidak ada pegawai yang disiplin datang terlambat. Budi datang terlambat. Kesimpulan…",
+  "options": [
+   "Budi bukan pegawai",
+   "Budi bukan pegawai yang disiplin",
+   "Budi pegawai disiplin",
+   "Budi kadang disiplin",
+   "Semua pegawai terlambat"
+  ],
+  "answer": 1,
+  "explanation": "Jika semua pegawai disiplin tidak terlambat, maka yang terlambat bukan pegawai disiplin.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Silogisme",
+  "tags": [
+   "silogisme"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-023",
+  "category": "TIU",
+  "sub": "Penalaran Analitis",
+  "question": "Lima orang (A, B, C, D, E) duduk berjajar. A di ujung kiri. C tepat di tengah. B di sebelah kanan C. E tidak bersebelahan dengan A. Siapa yang duduk di sebelah kanan A?",
+  "options": [
+   "E",
+   "Tidak dapat ditentukan",
+   "C",
+   "B",
+   "D"
+  ],
+  "answer": 4,
+  "explanation": "Posisi: 1=A, 3=C, 4=B. Sisa posisi 2 dan 5 untuk D/E. E tidak di samping A sehingga E di 5, D di 2.",
+  "difficulty": "Sulit",
+  "reference": "Materi TIU Penalaran Analitis",
+  "tags": [
+   "penalaran analitis"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-024",
+  "category": "TIU",
+  "sub": "Penalaran Analitis",
+  "question": "P lebih tinggi dari Q. R lebih pendek dari Q. S lebih tinggi dari P. Siapa yang paling pendek?",
+  "options": [
+   "P",
+   "S",
+   "R",
+   "Tidak dapat ditentukan",
+   "Q"
+  ],
+  "answer": 2,
+  "explanation": "Urutan: S > P > Q > R.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Penalaran Analitis",
+  "tags": [
+   "penalaran analitis"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-025",
+  "category": "TIU",
+  "sub": "Pemahaman Bacaan",
+  "question": "'Digitalisasi layanan publik mempercepat proses, namun kesenjangan akses internet membuat sebagian warga tertinggal.' Gagasan utama kalimat tersebut adalah…",
+  "options": [
+   "Digitalisasi bermanfaat tetapi perlu memperhatikan pemerataan akses",
+   "Digitalisasi harus dihentikan",
+   "Warga menolak digitalisasi",
+   "Internet sudah merata",
+   "Layanan manual lebih cepat"
+  ],
+  "answer": 0,
+  "explanation": "Kalimat memuat manfaat sekaligus tantangan (kesenjangan akses).",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Pemahaman Bacaan",
+  "tags": [
+   "pemahaman bacaan"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-V-026",
+  "category": "TIU",
+  "sub": "Penarikan Kesimpulan",
+  "question": "Semua kantor di kawasan X menerapkan kerja hibrida. Kantor Y tidak menerapkan kerja hibrida. Maka…",
+  "options": [
+   "Sebagian kantor X tidak hibrida",
+   "Tidak dapat disimpulkan",
+   "Kantor Y akan menerapkan kerja hibrida",
+   "Kantor Y berada di kawasan X",
+   "Kantor Y tidak berada di kawasan X"
+  ],
+  "answer": 4,
+  "explanation": "Kontraposisi: jika di X maka hibrida ⇒ jika tidak hibrida maka tidak di X.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Penarikan Kesimpulan",
+  "tags": [
+   "penarikan kesimpulan"
+  ],
+  "group": "Verbal"
+ },
+ {
+  "id": "TIU-N-001",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 11, 19, 27, 35, 43, … adalah",
+  "options": [
+   "51",
+   "47",
+   "46",
+   "52",
+   "45"
+  ],
+  "answer": 0,
+  "explanation": "Deret aritmetika dengan beda 8.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-002",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 10, 18, 16, 24, 22, … adalah",
+  "options": [
+   "32",
+   "30",
+   "29",
+   "31",
+   "28"
+  ],
+  "answer": 1,
+  "explanation": "Pola berselang: +8, −2, +8, −2, +8.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-003",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 4, 7, 3, 6, 2, … adalah",
+  "options": [
+   "3",
+   "5",
+   "6",
+   "7",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "Pola berselang: +3, −4, +3, −4, +3.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-004",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 7, 15, 12, 20, 17, … adalah",
+  "options": [
+   "25",
+   "23",
+   "26",
+   "28",
+   "22"
+  ],
+  "answer": 0,
+  "explanation": "Pola berselang: +8, −3, +8, −3, +8.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-005",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 40, 46, 52, 58, 64, … adalah",
+  "options": [
+   "73",
+   "70",
+   "62",
+   "65",
+   "66"
+  ],
+  "answer": 1,
+  "explanation": "Deret aritmetika dengan beda 6.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-006",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 4, 11, 8, 15, 12, … adalah",
+  "options": [
+   "19",
+   "20",
+   "17",
+   "18",
+   "21"
+  ],
+  "answer": 0,
+  "explanation": "Pola berselang: +7, −3, +7, −3, +7.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-007",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 3, 9, 27, 81, 243, … adalah",
+  "options": [
+   "705",
+   "799",
+   "676",
+   "670",
+   "729"
+  ],
+  "answer": 4,
+  "explanation": "Setiap suku dikali 3.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-008",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 21, 27, 33, 39, 45, … adalah",
+  "options": [
+   "53",
+   "56",
+   "47",
+   "51",
+   "50"
+  ],
+  "answer": 3,
+  "explanation": "Deret aritmetika dengan beda 6.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-009",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 24, 36, 48, 60, 72, … adalah",
+  "options": [
+   "90",
+   "81",
+   "82",
+   "84",
+   "91"
+  ],
+  "answer": 3,
+  "explanation": "Deret aritmetika dengan beda 12.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-010",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 2, 4, 8, 16, 32, … adalah",
+  "options": [
+   "72",
+   "56",
+   "64",
+   "57",
+   "58"
+  ],
+  "answer": 2,
+  "explanation": "Setiap suku dikali 2.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-011",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 4, 7, 13, 22, 34, … adalah",
+  "options": [
+   "43",
+   "48",
+   "49",
+   "50",
+   "54"
+  ],
+  "answer": 2,
+  "explanation": "Selisih antarsuku bertambah 3 (bertingkat): 3, 6, 9, 12, 15.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-012",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 24, 38, 52, 66, 80, … adalah",
+  "options": [
+   "95",
+   "90",
+   "92",
+   "94",
+   "98"
+  ],
+  "answer": 3,
+  "explanation": "Deret aritmetika dengan beda 14.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-013",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 6, 18, 54, 162, 486, … adalah",
+  "options": [
+   "1592",
+   "1528",
+   "1458",
+   "1461",
+   "1552"
+  ],
+  "answer": 2,
+  "explanation": "Setiap suku dikali 3.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-014",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 8, 10, 13, 17, 22, … adalah",
+  "options": [
+   "26",
+   "29",
+   "25",
+   "28",
+   "30"
+  ],
+  "answer": 3,
+  "explanation": "Selisih antarsuku bertambah 1 (bertingkat): 2, 3, 4, 5, 6.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-015",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 39, 42, 45, 48, 51, … adalah",
+  "options": [
+   "52",
+   "50",
+   "49",
+   "59",
+   "54"
+  ],
+  "answer": 4,
+  "explanation": "Deret aritmetika dengan beda 3.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-016",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 3, 4, 6, 9, 13, … adalah",
+  "options": [
+   "17",
+   "18",
+   "16",
+   "20",
+   "19"
+  ],
+  "answer": 1,
+  "explanation": "Selisih antarsuku bertambah 1 (bertingkat): 1, 2, 3, 4, 5.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-017",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 4, 8, 16, 32, 64, … adalah",
+  "options": [
+   "112",
+   "128",
+   "122",
+   "142",
+   "135"
+  ],
+  "answer": 1,
+  "explanation": "Setiap suku dikali 2.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-018",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 39, 49, 59, 69, 79, … adalah",
+  "options": [
+   "82",
+   "97",
+   "81",
+   "89",
+   "80"
+  ],
+  "answer": 3,
+  "explanation": "Deret aritmetika dengan beda 10.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-019",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 4, 9, 7, 12, 10, … adalah",
+  "options": [
+   "16",
+   "17",
+   "14",
+   "13",
+   "15"
+  ],
+  "answer": 4,
+  "explanation": "Pola berselang: +5, −2, +5, −2, +5.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-020",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 4, 12, 36, 108, 324, … adalah",
+  "options": [
+   "868",
+   "869",
+   "1024",
+   "972",
+   "940"
+  ],
+  "answer": 3,
+  "explanation": "Setiap suku dikali 3.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-021",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 1, 3, 9, 27, 81, … adalah",
+  "options": [
+   "226",
+   "246",
+   "243",
+   "273",
+   "249"
+  ],
+  "answer": 2,
+  "explanation": "Setiap suku dikali 3.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-022",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 15, 29, 43, 57, 71, … adalah",
+  "options": [
+   "85",
+   "94",
+   "79",
+   "77",
+   "81"
+  ],
+  "answer": 0,
+  "explanation": "Deret aritmetika dengan beda 14.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-023",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 2, 7, 6, 11, 10, … adalah",
+  "options": [
+   "13",
+   "16",
+   "17",
+   "14",
+   "15"
+  ],
+  "answer": 4,
+  "explanation": "Pola berselang: +5, −1, +5, −1, +5.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-024",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 17, 20, 23, 26, 29, … adalah",
+  "options": [
+   "30",
+   "32",
+   "33",
+   "28",
+   "34"
+  ],
+  "answer": 1,
+  "explanation": "Deret aritmetika dengan beda 3.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-025",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 5, 10, 20, 40, 80, … adalah",
+  "options": [
+   "160",
+   "166",
+   "148",
+   "163",
+   "173"
+  ],
+  "answer": 0,
+  "explanation": "Setiap suku dikali 2.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-026",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 10, 22, 34, 46, 58, … adalah",
+  "options": [
+   "67",
+   "70",
+   "64",
+   "63",
+   "62"
+  ],
+  "answer": 1,
+  "explanation": "Deret aritmetika dengan beda 12.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-027",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 33, 46, 59, 72, 85, … adalah",
+  "options": [
+   "109",
+   "100",
+   "98",
+   "87",
+   "107"
+  ],
+  "answer": 2,
+  "explanation": "Deret aritmetika dengan beda 13.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-028",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 4, 5, 8, 13, 20, … adalah",
+  "options": [
+   "29",
+   "32",
+   "27",
+   "26",
+   "28"
+  ],
+  "answer": 0,
+  "explanation": "Selisih antarsuku bertambah 2 (bertingkat): 1, 3, 5, 7, 9.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-029",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 3, 7, 3, 7, 3, … adalah",
+  "options": [
+   "6",
+   "7",
+   "5",
+   "9",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "Pola berselang: +4, −4, +4, −4, +4.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-030",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 30, 42, 54, 66, 78, … adalah",
+  "options": [
+   "90",
+   "93",
+   "82",
+   "101",
+   "88"
+  ],
+  "answer": 0,
+  "explanation": "Deret aritmetika dengan beda 12.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-031",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 26, 33, 40, 47, 54, … adalah",
+  "options": [
+   "64",
+   "61",
+   "65",
+   "67",
+   "68"
+  ],
+  "answer": 1,
+  "explanation": "Deret aritmetika dengan beda 7.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-032",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 6, 8, 11, 15, 20, … adalah",
+  "options": [
+   "26",
+   "25",
+   "27",
+   "23",
+   "29"
+  ],
+  "answer": 0,
+  "explanation": "Selisih antarsuku bertambah 1 (bertingkat): 2, 3, 4, 5, 6.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-033",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 5, 12, 9, 16, 13, … adalah",
+  "options": [
+   "20",
+   "18",
+   "21",
+   "19",
+   "22"
+  ],
+  "answer": 0,
+  "explanation": "Pola berselang: +7, −3, +7, −3, +7.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-034",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 8, 16, 12, 20, 16, … adalah",
+  "options": [
+   "23",
+   "26",
+   "27",
+   "21",
+   "24"
+  ],
+  "answer": 4,
+  "explanation": "Pola berselang: +8, −4, +8, −4, +8.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-035",
+  "category": "TIU",
+  "sub": "Deret Angka",
+  "question": "Lanjutan deret 10, 16, 12, 18, 14, … adalah",
+  "options": [
+   "20",
+   "21",
+   "18",
+   "19",
+   "22"
+  ],
+  "answer": 0,
+  "explanation": "Pola berselang: +6, −4, +6, −4, +6.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Deret Angka",
+  "tags": [
+   "deret angka"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-036",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp680 didiskon 35%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "306",
+   "238",
+   "272",
+   "204",
+   "442"
+  ],
+  "answer": 1,
+  "explanation": "35% × 680 = 238.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-037",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp620 didiskon 15%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "62",
+   "93",
+   "155",
+   "527",
+   "124"
+  ],
+  "answer": 1,
+  "explanation": "15% × 620 = 93.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-038",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp320 didiskon 45%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "128",
+   "144",
+   "160",
+   "176"
+  ],
+  "answer": 1,
+  "explanation": "45% × 320 = 144.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-039",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp100 didiskon 30%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "30",
+   "40",
+   "25",
+   "35",
+   "70"
+  ],
+  "answer": 0,
+  "explanation": "30% × 100 = 30.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-040",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp180 didiskon 45%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "90",
+   "99",
+   "81",
+   "72"
+  ],
+  "answer": 2,
+  "explanation": "45% × 180 = 81.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-041",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp220 didiskon 12%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "26",
+   "37",
+   "15",
+   "194",
+   "48"
+  ],
+  "answer": 0,
+  "explanation": "12% × 220 = 26.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-042",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp580 didiskon 20%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "87",
+   "145",
+   "464",
+   "174",
+   "116"
+  ],
+  "answer": 4,
+  "explanation": "20% × 580 = 116.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-043",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp660 didiskon 12%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "79",
+   "145",
+   "581",
+   "112",
+   "46"
+  ],
+  "answer": 0,
+  "explanation": "12% × 660 = 79.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-044",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp880 didiskon 30%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "308",
+   "220",
+   "352",
+   "616",
+   "264"
+  ],
+  "answer": 4,
+  "explanation": "30% × 880 = 264.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-045",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp1.200 didiskon 45%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "600",
+   "660",
+   "480",
+   "540"
+  ],
+  "answer": 3,
+  "explanation": "45% × 1.200 = 540.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-046",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp600 didiskon 12%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "102",
+   "42",
+   "72",
+   "528",
+   "132"
+  ],
+  "answer": 2,
+  "explanation": "12% × 600 = 72.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-047",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp480 didiskon 20%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "96",
+   "72",
+   "384",
+   "144",
+   "120"
+  ],
+  "answer": 0,
+  "explanation": "20% × 480 = 96.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-048",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp80 didiskon 25%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "24",
+   "28",
+   "60",
+   "16",
+   "20"
+  ],
+  "answer": 4,
+  "explanation": "25% × 80 = 20.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-049",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp1.200 didiskon 12%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "144",
+   "264",
+   "1.056",
+   "84",
+   "204"
+  ],
+  "answer": 0,
+  "explanation": "12% × 1.200 = 144.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-050",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp1.040 didiskon 12%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "916",
+   "124",
+   "176",
+   "228",
+   "72"
+  ],
+  "answer": 1,
+  "explanation": "12% × 1.040 = 124.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-051",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp920 didiskon 30%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "322",
+   "644",
+   "368",
+   "230",
+   "276"
+  ],
+  "answer": 4,
+  "explanation": "30% × 920 = 276.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-052",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp660 didiskon 15%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "132",
+   "99",
+   "66",
+   "561",
+   "165"
+  ],
+  "answer": 1,
+  "explanation": "15% × 660 = 99.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-053",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp200 didiskon 35%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "130",
+   "90",
+   "70",
+   "60",
+   "80"
+  ],
+  "answer": 2,
+  "explanation": "35% × 200 = 70.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-054",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp1.120 didiskon 12%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "190",
+   "78",
+   "134",
+   "246",
+   "986"
+  ],
+  "answer": 2,
+  "explanation": "12% × 1.120 = 134.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-055",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp1.180 didiskon 20%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "295",
+   "354",
+   "236",
+   "177",
+   "944"
+  ],
+  "answer": 2,
+  "explanation": "20% × 1.180 = 236.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-056",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp1.180 didiskon 45%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "472",
+   "531",
+   "590",
+   "649"
+  ],
+  "answer": 1,
+  "explanation": "45% × 1.180 = 531.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-057",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp500 didiskon 40%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "250",
+   "225",
+   "200",
+   "175",
+   "300"
+  ],
+  "answer": 2,
+  "explanation": "40% × 500 = 200.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-058",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp220 didiskon 15%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "33",
+   "187",
+   "44",
+   "55",
+   "22"
+  ],
+  "answer": 0,
+  "explanation": "15% × 220 = 33.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-059",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp520 didiskon 12%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "114",
+   "458",
+   "88",
+   "62",
+   "36"
+  ],
+  "answer": 3,
+  "explanation": "12% × 520 = 62.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-060",
+  "category": "TIU",
+  "sub": "Persentase",
+  "question": "Harga barang Rp260 didiskon 20%. Besar potongan harga adalah… (dalam rupiah)",
+  "options": [
+   "78",
+   "65",
+   "52",
+   "39",
+   "208"
+  ],
+  "answer": 2,
+  "explanation": "20% × 260 = 52.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Persentase",
+  "tags": [
+   "persentase"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-061",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 60 km/jam selama 3 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "205",
+   "180",
+   "150",
+   "158",
+   "177"
+  ],
+  "answer": 1,
+  "explanation": "Jarak = kecepatan × waktu = 60 × 3 = 180 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-062",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 40 km/jam selama 3 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "122",
+   "120",
+   "136",
+   "144",
+   "118"
+  ],
+  "answer": 1,
+  "explanation": "Jarak = kecepatan × waktu = 40 × 3 = 120 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-063",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 60 km/jam selama 2 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "120",
+   "141",
+   "108",
+   "111",
+   "106"
+  ],
+  "answer": 0,
+  "explanation": "Jarak = kecepatan × waktu = 60 × 2 = 120 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-064",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 45 km/jam selama 1,5 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "44",
+   "76",
+   "67",
+   "47",
+   "93"
+  ],
+  "answer": 2,
+  "explanation": "Jarak = kecepatan × waktu = 45 × 1,5 = 67 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-065",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 45 km/jam selama 2,5 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "140",
+   "93",
+   "123",
+   "112",
+   "98"
+  ],
+  "answer": 3,
+  "explanation": "Jarak = kecepatan × waktu = 45 × 2,5 = 112 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-066",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 72 km/jam selama 4 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "270",
+   "288",
+   "271",
+   "296",
+   "297"
+  ],
+  "answer": 1,
+  "explanation": "Jarak = kecepatan × waktu = 72 × 4 = 288 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-067",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 72 km/jam selama 2,5 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "190",
+   "204",
+   "180",
+   "186",
+   "187"
+  ],
+  "answer": 2,
+  "explanation": "Jarak = kecepatan × waktu = 72 × 2,5 = 180 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-068",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 50 km/jam selama 4 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "180",
+   "200",
+   "204",
+   "199",
+   "209"
+  ],
+  "answer": 1,
+  "explanation": "Jarak = kecepatan × waktu = 50 × 4 = 200 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-069",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 80 km/jam selama 2,5 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "213",
+   "200",
+   "220",
+   "178",
+   "222"
+  ],
+  "answer": 1,
+  "explanation": "Jarak = kecepatan × waktu = 80 × 2,5 = 200 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-070",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 40 km/jam selama 2,5 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "100",
+   "125",
+   "112",
+   "119",
+   "75"
+  ],
+  "answer": 0,
+  "explanation": "Jarak = kecepatan × waktu = 40 × 2,5 = 100 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-071",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 50 km/jam selama 3 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "152",
+   "151",
+   "176",
+   "150",
+   "164"
+  ],
+  "answer": 3,
+  "explanation": "Jarak = kecepatan × waktu = 50 × 3 = 150 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-072",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 72 km/jam selama 1,5 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "108",
+   "126",
+   "121",
+   "104",
+   "122"
+  ],
+  "answer": 0,
+  "explanation": "Jarak = kecepatan × waktu = 72 × 1,5 = 108 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-073",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 50 km/jam selama 2,5 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "155",
+   "118",
+   "117",
+   "123",
+   "125"
+  ],
+  "answer": 4,
+  "explanation": "Jarak = kecepatan × waktu = 50 × 2,5 = 125 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-074",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 90 km/jam selama 4 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "356",
+   "350",
+   "368",
+   "364",
+   "360"
+  ],
+  "answer": 4,
+  "explanation": "Jarak = kecepatan × waktu = 90 × 4 = 360 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-075",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 40 km/jam selama 1,5 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "41",
+   "62",
+   "60",
+   "34",
+   "45"
+  ],
+  "answer": 2,
+  "explanation": "Jarak = kecepatan × waktu = 40 × 1,5 = 60 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-076",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 80 km/jam selama 1,5 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "120",
+   "106",
+   "127",
+   "138",
+   "134"
+  ],
+  "answer": 0,
+  "explanation": "Jarak = kecepatan × waktu = 80 × 1,5 = 120 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-077",
+  "category": "TIU",
+  "sub": "Kecepatan, Jarak, dan Waktu",
+  "question": "Sebuah mobil melaju dengan kecepatan rata-rata 50 km/jam selama 2 jam. Jarak yang ditempuh adalah… km",
+  "options": [
+   "121",
+   "100",
+   "123",
+   "80",
+   "97"
+  ],
+  "answer": 1,
+  "explanation": "Jarak = kecepatan × waktu = 50 × 2 = 100 km.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Kecepatan, Jarak, dan Waktu",
+  "tags": [
+   "kecepatan, jarak, dan waktu"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-078",
+  "category": "TIU",
+  "sub": "Rata-rata",
+  "question": "Nilai 4 ujian Dina: 75, 65, 73, 56. Agar rata-rata 5 ujian menjadi 73, nilai ujian berikutnya harus…",
+  "options": [
+   "103",
+   "98",
+   "96",
+   "95",
+   "88"
+  ],
+  "answer": 2,
+  "explanation": "Total yang diperlukan 73×5 = 365; dikurangi total sekarang 269 = 96.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Rata-rata",
+  "tags": [
+   "rata-rata"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-079",
+  "category": "TIU",
+  "sub": "Rata-rata",
+  "question": "Nilai 5 ujian Dina: 91, 60, 72, 90, 69. Agar rata-rata 6 ujian menjadi 76, nilai ujian berikutnya harus…",
+  "options": [
+   "74",
+   "69",
+   "79",
+   "72",
+   "66"
+  ],
+  "answer": 0,
+  "explanation": "Total yang diperlukan 76×6 = 456; dikurangi total sekarang 382 = 74.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Rata-rata",
+  "tags": [
+   "rata-rata"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-080",
+  "category": "TIU",
+  "sub": "Rata-rata",
+  "question": "Nilai 6 ujian Dina: 62, 79, 71, 92, 85, 78. Agar rata-rata 7 ujian menjadi 76, nilai ujian berikutnya harus…",
+  "options": [
+   "69",
+   "65",
+   "73",
+   "62",
+   "66"
+  ],
+  "answer": 1,
+  "explanation": "Total yang diperlukan 76×7 = 532; dikurangi total sekarang 467 = 65.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Rata-rata",
+  "tags": [
+   "rata-rata"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-081",
+  "category": "TIU",
+  "sub": "Rata-rata",
+  "question": "Nilai 6 ujian Dina: 72, 85, 95, 57, 74, 64. Agar rata-rata 7 ujian menjadi 78, nilai ujian berikutnya harus…",
+  "options": [
+   "106",
+   "101",
+   "99",
+   "95",
+   "91"
+  ],
+  "answer": 2,
+  "explanation": "Total yang diperlukan 78×7 = 546; dikurangi total sekarang 447 = 99.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Rata-rata",
+  "tags": [
+   "rata-rata"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-082",
+  "category": "TIU",
+  "sub": "Rata-rata",
+  "question": "Nilai 5 ujian Dina: 60, 67, 67, 89, 55. Agar rata-rata 6 ujian menjadi 70, nilai ujian berikutnya harus…",
+  "options": [
+   "89",
+   "77",
+   "76",
+   "86",
+   "82"
+  ],
+  "answer": 4,
+  "explanation": "Total yang diperlukan 70×6 = 420; dikurangi total sekarang 338 = 82.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Rata-rata",
+  "tags": [
+   "rata-rata"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-083",
+  "category": "TIU",
+  "sub": "Rata-rata",
+  "question": "Nilai 6 ujian Dina: 86, 86, 82, 58, 95, 76. Agar rata-rata 7 ujian menjadi 81, nilai ujian berikutnya harus…",
+  "options": [
+   "79",
+   "91",
+   "83",
+   "84",
+   "92"
+  ],
+  "answer": 3,
+  "explanation": "Total yang diperlukan 81×7 = 567; dikurangi total sekarang 483 = 84.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Rata-rata",
+  "tags": [
+   "rata-rata"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-084",
+  "category": "TIU",
+  "sub": "Rata-rata",
+  "question": "Nilai 5 ujian Dina: 69, 68, 72, 68, 84. Agar rata-rata 6 ujian menjadi 70, nilai ujian berikutnya harus…",
+  "options": [
+   "59",
+   "52",
+   "65",
+   "55",
+   "58"
+  ],
+  "answer": 0,
+  "explanation": "Total yang diperlukan 70×6 = 420; dikurangi total sekarang 361 = 59.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Rata-rata",
+  "tags": [
+   "rata-rata"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-085",
+  "category": "TIU",
+  "sub": "Rata-rata",
+  "question": "Nilai 5 ujian Dina: 68, 93, 89, 93, 91. Agar rata-rata 6 ujian menjadi 85, nilai ujian berikutnya harus…",
+  "options": [
+   "82",
+   "70",
+   "76",
+   "79",
+   "72"
+  ],
+  "answer": 2,
+  "explanation": "Total yang diperlukan 85×6 = 510; dikurangi total sekarang 434 = 76.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Rata-rata",
+  "tags": [
+   "rata-rata"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-086",
+  "category": "TIU",
+  "sub": "Rata-rata",
+  "question": "Nilai 6 ujian Dina: 81, 84, 84, 57, 72, 73. Agar rata-rata 7 ujian menjadi 72, nilai ujian berikutnya harus…",
+  "options": [
+   "46",
+   "59",
+   "53",
+   "48",
+   "55"
+  ],
+  "answer": 2,
+  "explanation": "Total yang diperlukan 72×7 = 504; dikurangi total sekarang 451 = 53.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Rata-rata",
+  "tags": [
+   "rata-rata"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-087",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 1/6 + 1/2 adalah…",
+  "options": [
+   "2/3",
+   "1/2",
+   "1/12",
+   "4/3",
+   "1/1"
+  ],
+  "answer": 0,
+  "explanation": "Samakan penyebut: KPK(6,2). Hasil disederhanakan menjadi 2/3.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-088",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 5/4 + 2/7 adalah…",
+  "options": [
+   "85/56",
+   "5/14",
+   "11/7",
+   "43/28",
+   "7/11"
+  ],
+  "answer": 3,
+  "explanation": "Samakan penyebut: KPK(4,7). Hasil disederhanakan menjadi 43/28.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-089",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 5/7 + 2/6 adalah…",
+  "options": [
+   "22/21",
+   "7/13",
+   "43/42",
+   "44/21",
+   "23/21"
+  ],
+  "answer": 0,
+  "explanation": "Samakan penyebut: KPK(7,6). Hasil disederhanakan menjadi 22/21.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-090",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 5/6 + 1/6 adalah…",
+  "options": [
+   "5/36",
+   "2/1",
+   "5/1",
+   "1/1",
+   "1/2"
+  ],
+  "answer": 3,
+  "explanation": "Samakan penyebut: KPK(6,6). Hasil disederhanakan menjadi 1/1.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-091",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 2/6 + 4/6 adalah…",
+  "options": [
+   "1/2",
+   "5/1",
+   "2/9",
+   "1/1",
+   "2/1"
+  ],
+  "answer": 3,
+  "explanation": "Samakan penyebut: KPK(6,6). Hasil disederhanakan menjadi 1/1.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-092",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 4/3 + 5/4 adalah…",
+  "options": [
+   "31/12",
+   "31/6",
+   "8/3",
+   "61/24",
+   "5/3"
+  ],
+  "answer": 0,
+  "explanation": "Samakan penyebut: KPK(3,4). Hasil disederhanakan menjadi 31/12.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-093",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 3/6 + 4/2 adalah…",
+  "options": [
+   "1/1",
+   "5/2",
+   "3/1",
+   "7/8",
+   "9/4"
+  ],
+  "answer": 1,
+  "explanation": "Samakan penyebut: KPK(6,2). Hasil disederhanakan menjadi 5/2.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-094",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 2/8 + 1/7 adalah…",
+  "options": [
+   "11/28",
+   "1/5",
+   "3/8",
+   "3/7",
+   "1/28"
+  ],
+  "answer": 0,
+  "explanation": "Samakan penyebut: KPK(8,7). Hasil disederhanakan menjadi 11/28.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-095",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 4/2 + 5/2 adalah…",
+  "options": [
+   "17/4",
+   "9/4",
+   "9/2",
+   "5/1",
+   "9/1"
+  ],
+  "answer": 2,
+  "explanation": "Samakan penyebut: KPK(2,2). Hasil disederhanakan menjadi 9/2.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-096",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 1/2 + 1/2 adalah…",
+  "options": [
+   "2/1",
+   "1/1",
+   "5/1",
+   "1/2",
+   "1/4"
+  ],
+  "answer": 1,
+  "explanation": "Samakan penyebut: KPK(2,2). Hasil disederhanakan menjadi 1/1.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-097",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 3/4 + 1/2 adalah…",
+  "options": [
+   "9/8",
+   "5/2",
+   "3/8",
+   "5/4",
+   "3/2"
+  ],
+  "answer": 3,
+  "explanation": "Samakan penyebut: KPK(4,2). Hasil disederhanakan menjadi 5/4.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-098",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 4/2 + 1/3 adalah…",
+  "options": [
+   "8/3",
+   "1/1",
+   "7/3",
+   "13/6",
+   "14/3"
+  ],
+  "answer": 2,
+  "explanation": "Samakan penyebut: KPK(2,3). Hasil disederhanakan menjadi 7/3.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-099",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 4/2 + 2/4 adalah…",
+  "options": [
+   "5/1",
+   "9/4",
+   "5/2",
+   "3/1",
+   "1/1"
+  ],
+  "answer": 2,
+  "explanation": "Samakan penyebut: KPK(2,4). Hasil disederhanakan menjadi 5/2.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-100",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 4/5 + 2/2 adalah…",
+  "options": [
+   "6/7",
+   "9/5",
+   "17/10",
+   "4/5",
+   "18/5"
+  ],
+  "answer": 1,
+  "explanation": "Samakan penyebut: KPK(5,2). Hasil disederhanakan menjadi 9/5.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-101",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 3/9 + 1/5 adalah…",
+  "options": [
+   "1/2",
+   "16/15",
+   "3/5",
+   "8/15",
+   "1/15"
+  ],
+  "answer": 3,
+  "explanation": "Samakan penyebut: KPK(9,5). Hasil disederhanakan menjadi 8/15.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-102",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 1/6 + 5/9 adalah…",
+  "options": [
+   "13/9",
+   "25/36",
+   "13/18",
+   "5/54",
+   "2/5"
+  ],
+  "answer": 2,
+  "explanation": "Samakan penyebut: KPK(6,9). Hasil disederhanakan menjadi 13/18.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-103",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 4/3 + 4/8 adalah…",
+  "options": [
+   "11/3",
+   "2/1",
+   "8/11",
+   "7/4",
+   "11/6"
+  ],
+  "answer": 4,
+  "explanation": "Samakan penyebut: KPK(3,8). Hasil disederhanakan menjadi 11/6.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-104",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 1/3 + 3/8 adalah…",
+  "options": [
+   "4/11",
+   "11/16",
+   "3/4",
+   "17/24",
+   "17/12"
+  ],
+  "answer": 3,
+  "explanation": "Samakan penyebut: KPK(3,8). Hasil disederhanakan menjadi 17/24.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-105",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 2/7 + 1/3 adalah…",
+  "options": [
+   "13/21",
+   "3/10",
+   "2/21",
+   "2/3",
+   "25/42"
+  ],
+  "answer": 0,
+  "explanation": "Samakan penyebut: KPK(7,3). Hasil disederhanakan menjadi 13/21.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-106",
+  "category": "TIU",
+  "sub": "Pecahan dan Desimal",
+  "question": "Hasil dari 1/4 + 1/5 adalah…",
+  "options": [
+   "2/9",
+   "9/20",
+   "1/20",
+   "17/40",
+   "1/2"
+  ],
+  "answer": 1,
+  "explanation": "Samakan penyebut: KPK(4,5). Hasil disederhanakan menjadi 9/20.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Pecahan dan Desimal",
+  "tags": [
+   "pecahan dan desimal"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-107",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 6 : 3. Jika jumlah uang mereka Rp27.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "15",
+   "12",
+   "18",
+   "17",
+   "14"
+  ],
+  "answer": 2,
+  "explanation": "Bagian Ani = 6/9 × 27.000 = 18.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-108",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 3 : 5. Jika jumlah uang mereka Rp32.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "11",
+   "16",
+   "9",
+   "12",
+   "14"
+  ],
+  "answer": 3,
+  "explanation": "Bagian Ani = 3/8 × 32.000 = 12.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-109",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 2 : 3. Jika jumlah uang mereka Rp45.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "19",
+   "18",
+   "15",
+   "22",
+   "16"
+  ],
+  "answer": 1,
+  "explanation": "Bagian Ani = 2/5 × 45.000 = 18.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-110",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 5 : 6. Jika jumlah uang mereka Rp154.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "70",
+   "65",
+   "71",
+   "68",
+   "64"
+  ],
+  "answer": 0,
+  "explanation": "Bagian Ani = 5/11 × 154.000 = 70.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-111",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 3 : 5. Jika jumlah uang mereka Rp104.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "39",
+   "37",
+   "44",
+   "40",
+   "34"
+  ],
+  "answer": 0,
+  "explanation": "Bagian Ani = 3/8 × 104.000 = 39.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-112",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 6 : 2. Jika jumlah uang mereka Rp56.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "47",
+   "42",
+   "45",
+   "46",
+   "43"
+  ],
+  "answer": 1,
+  "explanation": "Bagian Ani = 6/8 × 56.000 = 42.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-113",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 4 : 2. Jika jumlah uang mereka Rp54.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "37",
+   "38",
+   "36",
+   "40",
+   "41"
+  ],
+  "answer": 2,
+  "explanation": "Bagian Ani = 4/6 × 54.000 = 36.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-114",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 3 : 4. Jika jumlah uang mereka Rp84.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "38",
+   "37",
+   "41",
+   "36",
+   "34"
+  ],
+  "answer": 3,
+  "explanation": "Bagian Ani = 3/7 × 84.000 = 36.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-115",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 5 : 7. Jika jumlah uang mereka Rp156.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "69",
+   "60",
+   "67",
+   "65",
+   "61"
+  ],
+  "answer": 3,
+  "explanation": "Bagian Ani = 5/12 × 156.000 = 65.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-116",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 3 : 6. Jika jumlah uang mereka Rp27.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "3",
+   "5",
+   "9",
+   "11",
+   "8"
+  ],
+  "answer": 2,
+  "explanation": "Bagian Ani = 3/9 × 27.000 = 9.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-117",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 7 : 2. Jika jumlah uang mereka Rp135.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "100",
+   "106",
+   "110",
+   "105",
+   "104"
+  ],
+  "answer": 3,
+  "explanation": "Bagian Ani = 7/9 × 135.000 = 105.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-118",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 3 : 4. Jika jumlah uang mereka Rp35.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "15",
+   "11",
+   "9",
+   "21",
+   "20"
+  ],
+  "answer": 0,
+  "explanation": "Bagian Ani = 3/7 × 35.000 = 15.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-119",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 5 : 7. Jika jumlah uang mereka Rp36.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "19",
+   "14",
+   "15",
+   "21",
+   "13"
+  ],
+  "answer": 2,
+  "explanation": "Bagian Ani = 5/12 × 36.000 = 15.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-120",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 2 : 5. Jika jumlah uang mereka Rp21.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "4",
+   "8",
+   "11",
+   "6",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "Bagian Ani = 2/7 × 21.000 = 6.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-121",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 4 : 3. Jika jumlah uang mereka Rp35.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "14",
+   "20",
+   "21",
+   "18",
+   "23"
+  ],
+  "answer": 1,
+  "explanation": "Bagian Ani = 4/7 × 35.000 = 20.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-122",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 7 : 2. Jika jumlah uang mereka Rp81.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "61",
+   "57",
+   "65",
+   "63",
+   "64"
+  ],
+  "answer": 3,
+  "explanation": "Bagian Ani = 7/9 × 81.000 = 63.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-123",
+  "category": "TIU",
+  "sub": "Rasio dan Perbandingan",
+  "question": "Perbandingan uang Ani dan Budi adalah 3 : 7. Jika jumlah uang mereka Rp80.000, uang Ani adalah… ribu rupiah",
+  "options": [
+   "25",
+   "20",
+   "29",
+   "23",
+   "24"
+  ],
+  "answer": 4,
+  "explanation": "Bagian Ani = 3/10 × 80.000 = 24.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Rasio dan Perbandingan",
+  "tags": [
+   "rasio dan perbandingan"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-124",
+  "category": "TIU",
+  "sub": "Aritmetika Sosial",
+  "question": "Pedagang membeli barang seharga Rp250.000 dan ingin untung 20%. Harga jual barang tersebut adalah… ribu rupiah",
+  "options": [
+   "302",
+   "300",
+   "296",
+   "297",
+   "298"
+  ],
+  "answer": 1,
+  "explanation": "Harga jual = 250.000 × (100%+20%) = 300.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Aritmetika Sosial",
+  "tags": [
+   "aritmetika sosial"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-125",
+  "category": "TIU",
+  "sub": "Aritmetika Sosial",
+  "question": "Pedagang membeli barang seharga Rp160.000 dan ingin untung 20%. Harga jual barang tersebut adalah… ribu rupiah",
+  "options": [
+   "204",
+   "186",
+   "191",
+   "192",
+   "189"
+  ],
+  "answer": 3,
+  "explanation": "Harga jual = 160.000 × (100%+20%) = 192.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Aritmetika Sosial",
+  "tags": [
+   "aritmetika sosial"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-126",
+  "category": "TIU",
+  "sub": "Aritmetika Sosial",
+  "question": "Pedagang membeli barang seharga Rp120.000 dan ingin untung 10%. Harga jual barang tersebut adalah… ribu rupiah",
+  "options": [
+   "132",
+   "119",
+   "122",
+   "141",
+   "146"
+  ],
+  "answer": 0,
+  "explanation": "Harga jual = 120.000 × (100%+10%) = 132.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Aritmetika Sosial",
+  "tags": [
+   "aritmetika sosial"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-127",
+  "category": "TIU",
+  "sub": "Aritmetika Sosial",
+  "question": "Pedagang membeli barang seharga Rp230.000 dan ingin untung 10%. Harga jual barang tersebut adalah… ribu rupiah",
+  "options": [
+   "253",
+   "244",
+   "240",
+   "239",
+   "265"
+  ],
+  "answer": 0,
+  "explanation": "Harga jual = 230.000 × (100%+10%) = 253.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Aritmetika Sosial",
+  "tags": [
+   "aritmetika sosial"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-128",
+  "category": "TIU",
+  "sub": "Aritmetika Sosial",
+  "question": "Pedagang membeli barang seharga Rp280.000 dan ingin untung 15%. Harga jual barang tersebut adalah… ribu rupiah",
+  "options": [
+   "322",
+   "307",
+   "318",
+   "326",
+   "319"
+  ],
+  "answer": 0,
+  "explanation": "Harga jual = 280.000 × (100%+15%) = 322.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Aritmetika Sosial",
+  "tags": [
+   "aritmetika sosial"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-129",
+  "category": "TIU",
+  "sub": "Aritmetika Sosial",
+  "question": "Pedagang membeli barang seharga Rp360.000 dan ingin untung 30%. Harga jual barang tersebut adalah… ribu rupiah",
+  "options": [
+   "469",
+   "476",
+   "480",
+   "468",
+   "462"
+  ],
+  "answer": 3,
+  "explanation": "Harga jual = 360.000 × (100%+30%) = 468.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Aritmetika Sosial",
+  "tags": [
+   "aritmetika sosial"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-130",
+  "category": "TIU",
+  "sub": "Aritmetika Sosial",
+  "question": "Pedagang membeli barang seharga Rp240.000 dan ingin untung 15%. Harga jual barang tersebut adalah… ribu rupiah",
+  "options": [
+   "290",
+   "281",
+   "271",
+   "276",
+   "285"
+  ],
+  "answer": 3,
+  "explanation": "Harga jual = 240.000 × (100%+15%) = 276.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Aritmetika Sosial",
+  "tags": [
+   "aritmetika sosial"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-131",
+  "category": "TIU",
+  "sub": "Aritmetika Sosial",
+  "question": "Pedagang membeli barang seharga Rp320.000 dan ingin untung 20%. Harga jual barang tersebut adalah… ribu rupiah",
+  "options": [
+   "384",
+   "373",
+   "374",
+   "389",
+   "396"
+  ],
+  "answer": 0,
+  "explanation": "Harga jual = 320.000 × (100%+20%) = 384.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Aritmetika Sosial",
+  "tags": [
+   "aritmetika sosial"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-132",
+  "category": "TIU",
+  "sub": "Aritmetika Sosial",
+  "question": "Pedagang membeli barang seharga Rp300.000 dan ingin untung 10%. Harga jual barang tersebut adalah… ribu rupiah",
+  "options": [
+   "330",
+   "344",
+   "323",
+   "320",
+   "332"
+  ],
+  "answer": 0,
+  "explanation": "Harga jual = 300.000 × (100%+10%) = 330.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Aritmetika Sosial",
+  "tags": [
+   "aritmetika sosial"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-133",
+  "category": "TIU",
+  "sub": "Aritmetika Sosial",
+  "question": "Pedagang membeli barang seharga Rp80.000 dan ingin untung 20%. Harga jual barang tersebut adalah… ribu rupiah",
+  "options": [
+   "106",
+   "103",
+   "102",
+   "97",
+   "96"
+  ],
+  "answer": 4,
+  "explanation": "Harga jual = 80.000 × (100%+20%) = 96.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Aritmetika Sosial",
+  "tags": [
+   "aritmetika sosial"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-134",
+  "category": "TIU",
+  "sub": "Aritmetika Sosial",
+  "question": "Pedagang membeli barang seharga Rp340.000 dan ingin untung 10%. Harga jual barang tersebut adalah… ribu rupiah",
+  "options": [
+   "374",
+   "387",
+   "388",
+   "379",
+   "364"
+  ],
+  "answer": 0,
+  "explanation": "Harga jual = 340.000 × (100%+10%) = 374.000.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Aritmetika Sosial",
+  "tags": [
+   "aritmetika sosial"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-135",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 17 × 9 − 26 adalah…",
+  "options": [
+   "126",
+   "119",
+   "134",
+   "127",
+   "124"
+  ],
+  "answer": 3,
+  "explanation": "Kerjakan perkalian dahulu: 17×9 = 153, lalu dikurangi 26 = 127.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-136",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 55 × 8 − 35 adalah…",
+  "options": [
+   "417",
+   "405",
+   "397",
+   "407",
+   "414"
+  ],
+  "answer": 1,
+  "explanation": "Kerjakan perkalian dahulu: 55×8 = 440, lalu dikurangi 35 = 405.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-137",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 83 × 4 − 44 adalah…",
+  "options": [
+   "288",
+   "277",
+   "278",
+   "287",
+   "291"
+  ],
+  "answer": 0,
+  "explanation": "Kerjakan perkalian dahulu: 83×4 = 332, lalu dikurangi 44 = 288.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-138",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 86 × 9 − 45 adalah…",
+  "options": [
+   "729",
+   "731",
+   "739",
+   "733",
+   "728"
+  ],
+  "answer": 0,
+  "explanation": "Kerjakan perkalian dahulu: 86×9 = 774, lalu dikurangi 45 = 729.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-139",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 15 × 9 − 47 adalah…",
+  "options": [
+   "79",
+   "85",
+   "87",
+   "88",
+   "99"
+  ],
+  "answer": 3,
+  "explanation": "Kerjakan perkalian dahulu: 15×9 = 135, lalu dikurangi 47 = 88.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-140",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 13 × 2 − 42 adalah…",
+  "options": [
+   "-11",
+   "-26",
+   "-6",
+   "-16",
+   "-27"
+  ],
+  "answer": 3,
+  "explanation": "Kerjakan perkalian dahulu: 13×2 = 26, lalu dikurangi 42 = -16.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-141",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 35 × 4 − 42 adalah…",
+  "options": [
+   "93",
+   "102",
+   "86",
+   "110",
+   "98"
+  ],
+  "answer": 4,
+  "explanation": "Kerjakan perkalian dahulu: 35×4 = 140, lalu dikurangi 42 = 98.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-142",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 20 × 9 − 40 adalah…",
+  "options": [
+   "137",
+   "138",
+   "140",
+   "145",
+   "147"
+  ],
+  "answer": 2,
+  "explanation": "Kerjakan perkalian dahulu: 20×9 = 180, lalu dikurangi 40 = 140.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-143",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 67 × 9 − 41 adalah…",
+  "options": [
+   "572",
+   "560",
+   "564",
+   "562",
+   "566"
+  ],
+  "answer": 3,
+  "explanation": "Kerjakan perkalian dahulu: 67×9 = 603, lalu dikurangi 41 = 562.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-144",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 49 × 9 − 30 adalah…",
+  "options": [
+   "402",
+   "419",
+   "400",
+   "411",
+   "414"
+  ],
+  "answer": 3,
+  "explanation": "Kerjakan perkalian dahulu: 49×9 = 441, lalu dikurangi 30 = 411.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-145",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 87 × 2 − 47 adalah…",
+  "options": [
+   "139",
+   "123",
+   "125",
+   "127",
+   "115"
+  ],
+  "answer": 3,
+  "explanation": "Kerjakan perkalian dahulu: 87×2 = 174, lalu dikurangi 47 = 127.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-146",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 62 × 8 − 43 adalah…",
+  "options": [
+   "455",
+   "450",
+   "451",
+   "444",
+   "453"
+  ],
+  "answer": 4,
+  "explanation": "Kerjakan perkalian dahulu: 62×8 = 496, lalu dikurangi 43 = 453.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-147",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 34 × 6 − 47 adalah…",
+  "options": [
+   "160",
+   "157",
+   "159",
+   "168",
+   "146"
+  ],
+  "answer": 1,
+  "explanation": "Kerjakan perkalian dahulu: 34×6 = 204, lalu dikurangi 47 = 157.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-148",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 90 × 2 − 22 adalah…",
+  "options": [
+   "158",
+   "163",
+   "168",
+   "152",
+   "164"
+  ],
+  "answer": 0,
+  "explanation": "Kerjakan perkalian dahulu: 90×2 = 180, lalu dikurangi 22 = 158.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-149",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 76 × 9 − 23 adalah…",
+  "options": [
+   "654",
+   "665",
+   "653",
+   "661",
+   "667"
+  ],
+  "answer": 3,
+  "explanation": "Kerjakan perkalian dahulu: 76×9 = 684, lalu dikurangi 23 = 661.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-150",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 16 × 6 − 38 adalah…",
+  "options": [
+   "58",
+   "59",
+   "65",
+   "64",
+   "56"
+  ],
+  "answer": 0,
+  "explanation": "Kerjakan perkalian dahulu: 16×6 = 96, lalu dikurangi 38 = 58.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-151",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 16 × 8 − 47 adalah…",
+  "options": [
+   "87",
+   "80",
+   "81",
+   "92",
+   "93"
+  ],
+  "answer": 2,
+  "explanation": "Kerjakan perkalian dahulu: 16×8 = 128, lalu dikurangi 47 = 81.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-152",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 78 × 3 − 31 adalah…",
+  "options": [
+   "199",
+   "201",
+   "203",
+   "212",
+   "202"
+  ],
+  "answer": 2,
+  "explanation": "Kerjakan perkalian dahulu: 78×3 = 234, lalu dikurangi 31 = 203.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-153",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 59 × 2 − 38 adalah…",
+  "options": [
+   "72",
+   "91",
+   "70",
+   "71",
+   "80"
+  ],
+  "answer": 4,
+  "explanation": "Kerjakan perkalian dahulu: 59×2 = 118, lalu dikurangi 38 = 80.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-154",
+  "category": "TIU",
+  "sub": "Operasi Hitung",
+  "question": "Hasil dari 54 × 3 − 37 adalah…",
+  "options": [
+   "132",
+   "130",
+   "123",
+   "137",
+   "125"
+  ],
+  "answer": 4,
+  "explanation": "Kerjakan perkalian dahulu: 54×3 = 162, lalu dikurangi 37 = 125.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Operasi Hitung",
+  "tags": [
+   "operasi hitung"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-155",
+  "category": "TIU",
+  "sub": "Perbandingan Kuantitatif",
+  "question": "Jika P = 3² + 7² dan Q = (3 + 7)², maka…",
+  "options": [
+   "P < Q",
+   "Hubungan tidak dapat ditentukan",
+   "P = Q",
+   "P = 2Q",
+   "P > Q"
+  ],
+  "answer": 0,
+  "explanation": "P = 58, Q = 100. Karena (a+b)² = a²+b²+2ab dan 2ab > 0, P < Q.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Perbandingan Kuantitatif",
+  "tags": [
+   "perbandingan kuantitatif"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-157",
+  "category": "TIU",
+  "sub": "Perbandingan Kuantitatif",
+  "question": "Jika P = 9² + 7² dan Q = (9 + 7)², maka…",
+  "options": [
+   "P < Q",
+   "P > Q",
+   "P = Q",
+   "Hubungan tidak dapat ditentukan",
+   "P = 2Q"
+  ],
+  "answer": 0,
+  "explanation": "P = 130, Q = 256. Karena (a+b)² = a²+b²+2ab dan 2ab > 0, P < Q.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Perbandingan Kuantitatif",
+  "tags": [
+   "perbandingan kuantitatif"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-158",
+  "category": "TIU",
+  "sub": "Perbandingan Kuantitatif",
+  "question": "Jika P = 5² + 4² dan Q = (5 + 4)², maka…",
+  "options": [
+   "Hubungan tidak dapat ditentukan",
+   "P > Q",
+   "P = Q",
+   "P = 2Q",
+   "P < Q"
+  ],
+  "answer": 4,
+  "explanation": "P = 41, Q = 81. Karena (a+b)² = a²+b²+2ab dan 2ab > 0, P < Q.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Perbandingan Kuantitatif",
+  "tags": [
+   "perbandingan kuantitatif"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-159",
+  "category": "TIU",
+  "sub": "Perbandingan Kuantitatif",
+  "question": "Jika P = 3² + 2² dan Q = (3 + 2)², maka…",
+  "options": [
+   "P = 2Q",
+   "P = Q",
+   "Hubungan tidak dapat ditentukan",
+   "P < Q",
+   "P > Q"
+  ],
+  "answer": 3,
+  "explanation": "P = 13, Q = 25. Karena (a+b)² = a²+b²+2ab dan 2ab > 0, P < Q.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Perbandingan Kuantitatif",
+  "tags": [
+   "perbandingan kuantitatif"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-160",
+  "category": "TIU",
+  "sub": "Perbandingan Kuantitatif",
+  "question": "Jika P = 4² + 7² dan Q = (4 + 7)², maka…",
+  "options": [
+   "P = 2Q",
+   "P > Q",
+   "P = Q",
+   "P < Q",
+   "Hubungan tidak dapat ditentukan"
+  ],
+  "answer": 3,
+  "explanation": "P = 65, Q = 121. Karena (a+b)² = a²+b²+2ab dan 2ab > 0, P < Q.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Perbandingan Kuantitatif",
+  "tags": [
+   "perbandingan kuantitatif"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-161",
+  "category": "TIU",
+  "sub": "Perbandingan Kuantitatif",
+  "question": "Jika P = 6² + 2² dan Q = (6 + 2)², maka…",
+  "options": [
+   "Hubungan tidak dapat ditentukan",
+   "P = 2Q",
+   "P = Q",
+   "P > Q",
+   "P < Q"
+  ],
+  "answer": 4,
+  "explanation": "P = 40, Q = 64. Karena (a+b)² = a²+b²+2ab dan 2ab > 0, P < Q.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Perbandingan Kuantitatif",
+  "tags": [
+   "perbandingan kuantitatif"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-162",
+  "category": "TIU",
+  "sub": "Perbandingan Kuantitatif",
+  "question": "Jika P = 4² + 3² dan Q = (4 + 3)², maka…",
+  "options": [
+   "P < Q",
+   "P = Q",
+   "P > Q",
+   "P = 2Q",
+   "Hubungan tidak dapat ditentukan"
+  ],
+  "answer": 0,
+  "explanation": "P = 25, Q = 49. Karena (a+b)² = a²+b²+2ab dan 2ab > 0, P < Q.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Perbandingan Kuantitatif",
+  "tags": [
+   "perbandingan kuantitatif"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-163",
+  "category": "TIU",
+  "sub": "Perbandingan Kuantitatif",
+  "question": "Jika P = 2² + 6² dan Q = (2 + 6)², maka…",
+  "options": [
+   "P < Q",
+   "P = Q",
+   "P = 2Q",
+   "Hubungan tidak dapat ditentukan",
+   "P > Q"
+  ],
+  "answer": 0,
+  "explanation": "P = 40, Q = 64. Karena (a+b)² = a²+b²+2ab dan 2ab > 0, P < Q.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Perbandingan Kuantitatif",
+  "tags": [
+   "perbandingan kuantitatif"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-164",
+  "category": "TIU",
+  "sub": "Perbandingan Kuantitatif",
+  "question": "Jika P = 7² + 5² dan Q = (7 + 5)², maka…",
+  "options": [
+   "P = Q",
+   "P > Q",
+   "P = 2Q",
+   "P < Q",
+   "Hubungan tidak dapat ditentukan"
+  ],
+  "answer": 3,
+  "explanation": "P = 74, Q = 144. Karena (a+b)² = a²+b²+2ab dan 2ab > 0, P < Q.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Perbandingan Kuantitatif",
+  "tags": [
+   "perbandingan kuantitatif"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-165",
+  "category": "TIU",
+  "sub": "Perbandingan Kuantitatif",
+  "question": "Jika P = 3² + 6² dan Q = (3 + 6)², maka…",
+  "options": [
+   "Hubungan tidak dapat ditentukan",
+   "P > Q",
+   "P = Q",
+   "P < Q",
+   "P = 2Q"
+  ],
+  "answer": 3,
+  "explanation": "P = 45, Q = 81. Karena (a+b)² = a²+b²+2ab dan 2ab > 0, P < Q.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Perbandingan Kuantitatif",
+  "tags": [
+   "perbandingan kuantitatif"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-166",
+  "category": "TIU",
+  "sub": "Perbandingan Kuantitatif",
+  "question": "Jika P = 4² + 5² dan Q = (4 + 5)², maka…",
+  "options": [
+   "P = Q",
+   "P = 2Q",
+   "P > Q",
+   "P < Q",
+   "Hubungan tidak dapat ditentukan"
+  ],
+  "answer": 3,
+  "explanation": "P = 41, Q = 81. Karena (a+b)² = a²+b²+2ab dan 2ab > 0, P < Q.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Perbandingan Kuantitatif",
+  "tags": [
+   "perbandingan kuantitatif"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-167",
+  "category": "TIU",
+  "sub": "Soal Cerita",
+  "question": "Pekerjaan dapat diselesaikan A dalam 9 hari dan B dalam 18 hari. Jika bekerja bersama, pekerjaan selesai dalam… hari",
+  "options": [
+   "9",
+   "6",
+   "7",
+   "8",
+   "13,5"
+  ],
+  "answer": 1,
+  "explanation": "Kecepatan gabungan 1/9 + 1/18 = 27/162; waktu = 162/27 = 6 hari.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Soal Cerita",
+  "tags": [
+   "soal cerita"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-168",
+  "category": "TIU",
+  "sub": "Soal Cerita",
+  "question": "Pekerjaan dapat diselesaikan A dalam 12 hari dan B dalam 24 hari. Jika bekerja bersama, pekerjaan selesai dalam… hari",
+  "options": [
+   "8",
+   "18",
+   "12",
+   "9",
+   "10"
+  ],
+  "answer": 0,
+  "explanation": "Kecepatan gabungan 1/12 + 1/24 = 36/288; waktu = 288/36 = 8 hari.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Soal Cerita",
+  "tags": [
+   "soal cerita"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-169",
+  "category": "TIU",
+  "sub": "Soal Cerita",
+  "question": "Pekerjaan dapat diselesaikan A dalam 8 hari dan B dalam 24 hari. Jika bekerja bersama, pekerjaan selesai dalam… hari",
+  "options": [
+   "7",
+   "16",
+   "6",
+   "16",
+   "8"
+  ],
+  "answer": 2,
+  "explanation": "Kecepatan gabungan 1/8 + 1/24 = 32/192; waktu = 192/32 = 6 hari.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Soal Cerita",
+  "tags": [
+   "soal cerita"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-170",
+  "category": "TIU",
+  "sub": "Soal Cerita",
+  "question": "Pekerjaan dapat diselesaikan A dalam 5 hari dan B dalam 20 hari. Jika bekerja bersama, pekerjaan selesai dalam… hari",
+  "options": [
+   "15",
+   "12,5",
+   "4",
+   "5",
+   "6"
+  ],
+  "answer": 2,
+  "explanation": "Kecepatan gabungan 1/5 + 1/20 = 25/100; waktu = 100/25 = 4 hari.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Soal Cerita",
+  "tags": [
+   "soal cerita"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-171",
+  "category": "TIU",
+  "sub": "Soal Cerita",
+  "question": "Pekerjaan dapat diselesaikan A dalam 20 hari dan B dalam 30 hari. Jika bekerja bersama, pekerjaan selesai dalam… hari",
+  "options": [
+   "14",
+   "10",
+   "13",
+   "25",
+   "12"
+  ],
+  "answer": 4,
+  "explanation": "Kecepatan gabungan 1/20 + 1/30 = 50/600; waktu = 600/50 = 12 hari.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Soal Cerita",
+  "tags": [
+   "soal cerita"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-172",
+  "category": "TIU",
+  "sub": "Soal Cerita",
+  "question": "Pekerjaan dapat diselesaikan A dalam 4 hari dan B dalam 12 hari. Jika bekerja bersama, pekerjaan selesai dalam… hari",
+  "options": [
+   "5",
+   "3",
+   "4",
+   "8",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "Kecepatan gabungan 1/4 + 1/12 = 16/48; waktu = 48/16 = 3 hari.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Soal Cerita",
+  "tags": [
+   "soal cerita"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-N-173",
+  "category": "TIU",
+  "sub": "Soal Cerita",
+  "question": "Pekerjaan dapat diselesaikan A dalam 15 hari dan B dalam 10 hari. Jika bekerja bersama, pekerjaan selesai dalam… hari",
+  "options": [
+   "7",
+   "12,5",
+   "5",
+   "6",
+   "8"
+  ],
+  "answer": 3,
+  "explanation": "Kecepatan gabungan 1/15 + 1/10 = 25/150; waktu = 150/25 = 6 hari.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Soal Cerita",
+  "tags": [
+   "soal cerita"
+  ],
+  "group": "Numerik"
+ },
+ {
+  "id": "TIU-F001",
+  "category": "TIU",
+  "sub": "Rotasi Bentuk",
+  "group": "Figural",
+  "question": "Panah berputar 45° searah jarum jam pada setiap langkah. Gambar berikutnya adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(45 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(90 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(135 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(180 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(180 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(315 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(405 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(270 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(225 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 4,
+  "explanation": "Setiap gambar diputar 45°, sehingga gambar kelima berada pada sudut 225°.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Figural – Rotasi Bentuk",
+  "tags": [
+   "figural",
+   "rotasi bentuk"
+  ]
+ },
+ {
+  "id": "TIU-F002",
+  "category": "TIU",
+  "sub": "Rotasi Bentuk",
+  "group": "Figural",
+  "question": "Panah berputar 90° searah jarum jam pada setiap langkah. Gambar berikutnya adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(45 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(135 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(225 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(315 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(360 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(450 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(585 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(495 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(405 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 4,
+  "explanation": "Setiap gambar diputar 90°, sehingga gambar kelima berada pada sudut 405°.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Figural – Rotasi Bentuk",
+  "tags": [
+   "figural",
+   "rotasi bentuk"
+  ]
+ },
+ {
+  "id": "TIU-F003",
+  "category": "TIU",
+  "sub": "Rotasi Bentuk",
+  "group": "Figural",
+  "question": "Panah berputar 135° searah jarum jam pada setiap langkah. Gambar berikutnya adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(0 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(135 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(270 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(405 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(630 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(720 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(585 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(540 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(495 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 3,
+  "explanation": "Setiap gambar diputar 135°, sehingga gambar kelima berada pada sudut 540°.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Figural – Rotasi Bentuk",
+  "tags": [
+   "figural",
+   "rotasi bentuk"
+  ]
+ },
+ {
+  "id": "TIU-F004",
+  "category": "TIU",
+  "sub": "Rotasi Bentuk",
+  "group": "Figural",
+  "question": "Panah berputar 45° berlawanan arah jarum jam pada setiap langkah. Gambar berikutnya adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(90 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(45 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(0 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-45 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-135 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-90 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(0 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(90 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-45 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 1,
+  "explanation": "Setiap gambar diputar 45°, sehingga gambar kelima berada pada sudut -90°.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Figural – Rotasi Bentuk",
+  "tags": [
+   "figural",
+   "rotasi bentuk"
+  ]
+ },
+ {
+  "id": "TIU-F005",
+  "category": "TIU",
+  "sub": "Rotasi Bentuk",
+  "group": "Figural",
+  "question": "Panah berputar 90° berlawanan arah jarum jam pada setiap langkah. Gambar berikutnya adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(45 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-45 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-135 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-225 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-360 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-135 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-315 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-270 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-225 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 2,
+  "explanation": "Setiap gambar diputar 90°, sehingga gambar kelima berada pada sudut -315°.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Figural – Rotasi Bentuk",
+  "tags": [
+   "figural",
+   "rotasi bentuk"
+  ]
+ },
+ {
+  "id": "TIU-F006",
+  "category": "TIU",
+  "sub": "Rotasi Bentuk",
+  "group": "Figural",
+  "question": "Panah berputar 30° searah jarum jam pada setiap langkah. Gambar berikutnya adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(45 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(75 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(105 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(135 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(120 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(210 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(255 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(345 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(165 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 4,
+  "explanation": "Setiap gambar diputar 30°, sehingga gambar kelima berada pada sudut 165°.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Figural – Rotasi Bentuk",
+  "tags": [
+   "figural",
+   "rotasi bentuk"
+  ]
+ },
+ {
+  "id": "TIU-F007",
+  "category": "TIU",
+  "sub": "Serial Gambar",
+  "group": "Figural",
+  "question": "Perhatikan pola jumlah sisi. Gambar selanjutnya adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,40.0 12.7,40.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 50.0,30.0 30.0,50.0 10.0,30.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 50.0,30.0 30.0,50.0 10.0,30.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 44.1,15.9 50.0,30.0 44.1,44.1 30.0,50.0 15.9,44.1 10.0,30.0 15.9,15.9\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 0,
+  "explanation": "Jumlah sisi bertambah satu: 3, 4, 5, maka berikutnya 6 sisi tanpa arsiran.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Figural – Serial Gambar",
+  "tags": [
+   "figural",
+   "serial gambar"
+  ]
+ },
+ {
+  "id": "TIU-F008",
+  "category": "TIU",
+  "sub": "Serial Gambar",
+  "group": "Figural",
+  "question": "Perhatikan pola jumlah sisi. Gambar selanjutnya adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 50.0,30.0 30.0,50.0 10.0,30.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 45.6,17.5 49.5,34.5 38.7,48.0 21.3,48.0 10.5,34.5 14.4,17.5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 42.9,14.7 49.7,26.5 47.3,40.0 36.8,48.8 23.2,48.8 12.7,40.0 10.3,26.5 17.1,14.7\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 45.6,17.5 49.5,34.5 38.7,48.0 21.3,48.0 10.5,34.5 14.4,17.5\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 0,
+  "explanation": "Jumlah sisi bertambah satu: 4, 5, 6, maka berikutnya 7 sisi tanpa arsiran.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Figural – Serial Gambar",
+  "tags": [
+   "figural",
+   "serial gambar"
+  ]
+ },
+ {
+  "id": "TIU-F009",
+  "category": "TIU",
+  "sub": "Serial Gambar",
+  "group": "Figural",
+  "question": "Perhatikan pola jumlah sisi. Gambar selanjutnya adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 45.6,17.5 49.5,34.5 38.7,48.0 21.3,48.0 10.5,34.5 14.4,17.5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 44.1,15.9 50.0,30.0 44.1,44.1 30.0,50.0 15.9,44.1 10.0,30.0 15.9,15.9\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 44.1,15.9 50.0,30.0 44.1,44.1 30.0,50.0 15.9,44.1 10.0,30.0 15.9,15.9\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 45.6,17.5 49.5,34.5 38.7,48.0 21.3,48.0 10.5,34.5 14.4,17.5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 41.8,13.8 49.0,23.8 49.0,36.2 41.8,46.2 30.0,50.0 18.2,46.2 11.0,36.2 11.0,23.8 18.2,13.8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 2,
+  "explanation": "Jumlah sisi bertambah satu: 5, 6, 7, maka berikutnya 8 sisi tanpa arsiran.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Figural – Serial Gambar",
+  "tags": [
+   "figural",
+   "serial gambar"
+  ]
+ },
+ {
+  "id": "TIU-F010",
+  "category": "TIU",
+  "sub": "Kelanjutan Pola Visual",
+  "group": "Figural",
+  "question": "Jumlah titik di dalam lingkaran mengikuti pola tertentu. Gambar berikutnya adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"42.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"17.9\" r=\"4\" fill=\"currentColor\"/></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"37.0\" cy=\"42.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"42.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"17.9\" r=\"4\" fill=\"currentColor\"/><circle cx=\"37.0\" cy=\"17.9\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"42.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"17.9\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"30.0\" cy=\"44.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"30.0\" cy=\"16.0\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"34.3\" cy=\"43.3\" r=\"4\" fill=\"currentColor\"/><circle cx=\"18.7\" cy=\"38.2\" r=\"4\" fill=\"currentColor\"/><circle cx=\"18.7\" cy=\"21.8\" r=\"4\" fill=\"currentColor\"/><circle cx=\"34.3\" cy=\"16.7\" r=\"4\" fill=\"currentColor\"/></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 3,
+  "explanation": "Titik bertambah 1 pada setiap gambar sehingga berikutnya 4 titik.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Figural – Kelanjutan Pola Visual",
+  "tags": [
+   "figural",
+   "kelanjutan pola visual"
+  ]
+ },
+ {
+  "id": "TIU-F011",
+  "category": "TIU",
+  "sub": "Kelanjutan Pola Visual",
+  "group": "Figural",
+  "question": "Jumlah titik di dalam lingkaran mengikuti pola tertentu. Gambar berikutnya adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"30.0\" cy=\"44.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"30.0\" cy=\"16.0\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"37.0\" cy=\"42.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"42.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"17.9\" r=\"4\" fill=\"currentColor\"/><circle cx=\"37.0\" cy=\"17.9\" r=\"4\" fill=\"currentColor\"/></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"41.3\" cy=\"38.2\" r=\"4\" fill=\"currentColor\"/><circle cx=\"34.3\" cy=\"43.3\" r=\"4\" fill=\"currentColor\"/><circle cx=\"25.7\" cy=\"43.3\" r=\"4\" fill=\"currentColor\"/><circle cx=\"18.7\" cy=\"38.2\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"18.7\" cy=\"21.8\" r=\"4\" fill=\"currentColor\"/><circle cx=\"25.7\" cy=\"16.7\" r=\"4\" fill=\"currentColor\"/><circle cx=\"34.3\" cy=\"16.7\" r=\"4\" fill=\"currentColor\"/><circle cx=\"41.3\" cy=\"21.8\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"37.0\" cy=\"42.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"42.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"17.9\" r=\"4\" fill=\"currentColor\"/><circle cx=\"37.0\" cy=\"17.9\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"39.9\" cy=\"39.9\" r=\"4\" fill=\"currentColor\"/><circle cx=\"30.0\" cy=\"44.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"20.1\" cy=\"39.9\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"20.1\" cy=\"20.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"30.0\" cy=\"16.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"39.9\" cy=\"20.1\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"40.7\" cy=\"39.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"32.4\" cy=\"43.8\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"42.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.8\" cy=\"34.8\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.8\" cy=\"25.2\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"17.9\" r=\"4\" fill=\"currentColor\"/><circle cx=\"32.4\" cy=\"16.2\" r=\"4\" fill=\"currentColor\"/><circle cx=\"40.7\" cy=\"21.0\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"38.7\" cy=\"40.9\" r=\"4\" fill=\"currentColor\"/><circle cx=\"26.9\" cy=\"43.6\" r=\"4\" fill=\"currentColor\"/><circle cx=\"17.4\" cy=\"36.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"17.4\" cy=\"23.9\" r=\"4\" fill=\"currentColor\"/><circle cx=\"26.9\" cy=\"16.4\" r=\"4\" fill=\"currentColor\"/><circle cx=\"38.7\" cy=\"19.1\" r=\"4\" fill=\"currentColor\"/></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 2,
+  "explanation": "Titik bertambah 2 pada setiap gambar sehingga berikutnya 8 titik.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Figural – Kelanjutan Pola Visual",
+  "tags": [
+   "figural",
+   "kelanjutan pola visual"
+  ]
+ },
+ {
+  "id": "TIU-F012",
+  "category": "TIU",
+  "sub": "Kelanjutan Pola Visual",
+  "group": "Figural",
+  "question": "Jumlah titik di dalam lingkaran mengikuti pola tertentu. Gambar berikutnya adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"42.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"17.9\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"34.3\" cy=\"43.3\" r=\"4\" fill=\"currentColor\"/><circle cx=\"18.7\" cy=\"38.2\" r=\"4\" fill=\"currentColor\"/><circle cx=\"18.7\" cy=\"21.8\" r=\"4\" fill=\"currentColor\"/><circle cx=\"34.3\" cy=\"16.7\" r=\"4\" fill=\"currentColor\"/></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"39.9\" cy=\"39.9\" r=\"4\" fill=\"currentColor\"/><circle cx=\"30.0\" cy=\"44.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"20.1\" cy=\"39.9\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"20.1\" cy=\"20.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"30.0\" cy=\"16.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"39.9\" cy=\"20.1\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"34.3\" cy=\"43.3\" r=\"4\" fill=\"currentColor\"/><circle cx=\"18.7\" cy=\"38.2\" r=\"4\" fill=\"currentColor\"/><circle cx=\"18.7\" cy=\"21.8\" r=\"4\" fill=\"currentColor\"/><circle cx=\"34.3\" cy=\"16.7\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"37.0\" cy=\"42.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"42.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"17.9\" r=\"4\" fill=\"currentColor\"/><circle cx=\"37.0\" cy=\"17.9\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"38.7\" cy=\"40.9\" r=\"4\" fill=\"currentColor\"/><circle cx=\"26.9\" cy=\"43.6\" r=\"4\" fill=\"currentColor\"/><circle cx=\"17.4\" cy=\"36.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"17.4\" cy=\"23.9\" r=\"4\" fill=\"currentColor\"/><circle cx=\"26.9\" cy=\"16.4\" r=\"4\" fill=\"currentColor\"/><circle cx=\"38.7\" cy=\"19.1\" r=\"4\" fill=\"currentColor\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"30\" cy=\"30\" r=\"25\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><circle cx=\"44.0\" cy=\"30.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"40.7\" cy=\"39.0\" r=\"4\" fill=\"currentColor\"/><circle cx=\"32.4\" cy=\"43.8\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"42.1\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.8\" cy=\"34.8\" r=\"4\" fill=\"currentColor\"/><circle cx=\"16.8\" cy=\"25.2\" r=\"4\" fill=\"currentColor\"/><circle cx=\"23.0\" cy=\"17.9\" r=\"4\" fill=\"currentColor\"/><circle cx=\"32.4\" cy=\"16.2\" r=\"4\" fill=\"currentColor\"/><circle cx=\"40.7\" cy=\"21.0\" r=\"4\" fill=\"currentColor\"/></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 3,
+  "explanation": "Titik bertambah 2 pada setiap gambar sehingga berikutnya 7 titik.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Figural – Kelanjutan Pola Visual",
+  "tags": [
+   "figural",
+   "kelanjutan pola visual"
+  ]
+ },
+ {
+  "id": "TIU-F013",
+  "category": "TIU",
+  "sub": "Ketidaksamaan Gambar",
+  "group": "Figural",
+  "question": "Manakah gambar yang berbeda dari yang lain?",
+  "figures": [],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"47.3,20.0 30.0,50.0 12.7,20.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 50.0,30.0 30.0,50.0 10.0,30.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"50.0,30.0 20.0,47.3 20.0,12.7\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,40.0 12.7,40.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"40.0,12.7 40.0,47.3 10.0,30.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 1,
+  "explanation": "Empat gambar memiliki 3 sisi (hanya diputar), satu gambar memiliki 4 sisi.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Figural – Ketidaksamaan Gambar",
+  "tags": [
+   "figural",
+   "ketidaksamaan gambar"
+  ]
+ },
+ {
+  "id": "TIU-F014",
+  "category": "TIU",
+  "sub": "Ketidaksamaan Gambar",
+  "group": "Figural",
+  "question": "Manakah gambar yang berbeda dari yang lain?",
+  "figures": [],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"40.0,12.7 49.6,34.2 32.1,49.9 11.7,38.1 16.6,15.1\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"50.0,30.0 36.2,49.0 13.8,41.8 13.8,18.2 36.2,11.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"47.3,20.0 44.9,43.4 21.9,48.3 10.1,27.9 25.8,10.4\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 2,
+  "explanation": "Empat gambar memiliki 5 sisi (hanya diputar), satu gambar memiliki 6 sisi.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Figural – Ketidaksamaan Gambar",
+  "tags": [
+   "figural",
+   "ketidaksamaan gambar"
+  ]
+ },
+ {
+  "id": "TIU-F015",
+  "category": "TIU",
+  "sub": "Ketidaksamaan Gambar",
+  "group": "Figural",
+  "question": "Manakah gambar yang berbeda dari yang lain?",
+  "figures": [],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,40.0 12.7,40.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"47.3,20.0 40.0,47.3 12.7,40.0 20.0,12.7\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"40.0,12.7 47.3,40.0 20.0,47.3 12.7,20.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 50.0,30.0 30.0,50.0 10.0,30.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"50.0,30.0 30.0,50.0 10.0,30.0 30.0,10.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 0,
+  "explanation": "Empat gambar memiliki 4 sisi (hanya diputar), satu gambar memiliki 3 sisi.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Figural – Ketidaksamaan Gambar",
+  "tags": [
+   "figural",
+   "ketidaksamaan gambar"
+  ]
+ },
+ {
+  "id": "TIU-F016",
+  "category": "TIU",
+  "sub": "Ketidaksamaan Gambar",
+  "group": "Figural",
+  "question": "Manakah gambar yang berbeda dari yang lain?",
+  "figures": [],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"50.0,30.0 40.0,47.3 20.0,47.3 10.0,30.0 20.0,12.7 40.0,12.7\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"40.0,12.7 50.0,30.0 40.0,47.3 20.0,47.3 10.0,30.0 20.0,12.7\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0 30.0,10.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 3,
+  "explanation": "Empat gambar memiliki 6 sisi (hanya diputar), satu gambar memiliki 5 sisi.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Figural – Ketidaksamaan Gambar",
+  "tags": [
+   "figural",
+   "ketidaksamaan gambar"
+  ]
+ },
+ {
+  "id": "TIU-F017",
+  "category": "TIU",
+  "sub": "Pencerminan",
+  "group": "Figural",
+  "question": "Cermin diletakkan vertikal di sebelah kanan gambar. Bayangan dari gambar adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(30 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(210 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(120 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(150 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-30 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(30 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 3,
+  "explanation": "Pencerminan terhadap garis vertikal mengubah sudut 30° menjadi −30°.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Figural – Pencerminan",
+  "tags": [
+   "figural",
+   "pencerminan"
+  ]
+ },
+ {
+  "id": "TIU-F018",
+  "category": "TIU",
+  "sub": "Pencerminan",
+  "group": "Figural",
+  "question": "Cermin diletakkan vertikal di sebelah kanan gambar. Bayangan dari gambar adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(60 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(60 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(240 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(120 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-60 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(150 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 3,
+  "explanation": "Pencerminan terhadap garis vertikal mengubah sudut 60° menjadi −60°.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Figural – Pencerminan",
+  "tags": [
+   "figural",
+   "pencerminan"
+  ]
+ },
+ {
+  "id": "TIU-F019",
+  "category": "TIU",
+  "sub": "Pencerminan",
+  "group": "Figural",
+  "question": "Cermin diletakkan vertikal di sebelah kanan gambar. Bayangan dari gambar adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(120 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-120 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(210 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(60 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(120 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(300 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 0,
+  "explanation": "Pencerminan terhadap garis vertikal mengubah sudut 120° menjadi −120°.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Figural – Pencerminan",
+  "tags": [
+   "figural",
+   "pencerminan"
+  ]
+ },
+ {
+  "id": "TIU-F020",
+  "category": "TIU",
+  "sub": "Pencerminan",
+  "group": "Figural",
+  "question": "Cermin diletakkan vertikal di sebelah kanan gambar. Bayangan dari gambar adalah…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(150 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(330 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(-150 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(150 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(30 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"rotate(240 30 30)\"><line x1=\"30\" y1=\"48\" x2=\"30\" y2=\"14\" stroke=\"currentColor\" stroke-width=\"3\"/><polygon points=\"30,8 23,18 37,18\" fill=\"currentColor\"/></g></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 1,
+  "explanation": "Pencerminan terhadap garis vertikal mengubah sudut 150° menjadi −150°.",
+  "difficulty": "Sedang",
+  "reference": "Materi TIU Figural – Pencerminan",
+  "tags": [
+   "figural",
+   "pencerminan"
+  ]
+ },
+ {
+  "id": "TIU-F021",
+  "category": "TIU",
+  "sub": "Analogi Gambar",
+  "group": "Figural",
+  "question": "Bentuk kosong menjadi bentuk terarsir. Seperti itu pula, bentuk kedua menjadi…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,40.0 12.7,40.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,40.0 12.7,40.0\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 50.0,30.0 30.0,50.0 10.0,30.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,40.0 12.7,40.0\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 50.0,30.0 30.0,50.0 10.0,30.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,40.0 12.7,40.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 50.0,30.0 30.0,50.0 10.0,30.0\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 4,
+  "explanation": "Hubungan pasangan pertama: bentuk sama, berubah menjadi terarsir.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Figural – Analogi Gambar",
+  "tags": [
+   "figural",
+   "analogi gambar"
+  ]
+ },
+ {
+  "id": "TIU-F022",
+  "category": "TIU",
+  "sub": "Analogi Gambar",
+  "group": "Figural",
+  "question": "Bentuk kosong menjadi bentuk terarsir. Seperti itu pula, bentuk kedua menjadi…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 50.0,30.0 30.0,50.0 10.0,30.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 50.0,30.0 30.0,50.0 10.0,30.0\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 50.0,30.0 30.0,50.0 10.0,30.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 50.0,30.0 30.0,50.0 10.0,30.0\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 0,
+  "explanation": "Hubungan pasangan pertama: bentuk sama, berubah menjadi terarsir.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Figural – Analogi Gambar",
+  "tags": [
+   "figural",
+   "analogi gambar"
+  ]
+ },
+ {
+  "id": "TIU-F023",
+  "category": "TIU",
+  "sub": "Analogi Gambar",
+  "group": "Figural",
+  "question": "Bentuk kosong menjadi bentuk terarsir. Seperti itu pula, bentuk kedua menjadi…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 45.6,17.5 49.5,34.5 38.7,48.0 21.3,48.0 10.5,34.5 14.4,17.5\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 49.0,23.8 41.8,46.2 18.2,46.2 11.0,23.8\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 0,
+  "explanation": "Hubungan pasangan pertama: bentuk sama, berubah menjadi terarsir.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Figural – Analogi Gambar",
+  "tags": [
+   "figural",
+   "analogi gambar"
+  ]
+ },
+ {
+  "id": "TIU-F024",
+  "category": "TIU",
+  "sub": "Analogi Gambar",
+  "group": "Figural",
+  "question": "Bentuk kosong menjadi bentuk terarsir. Seperti itu pula, bentuk kedua menjadi…",
+  "figures": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,40.0 12.7,40.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "options": [
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,40.0 12.7,40.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 50.0,30.0 30.0,50.0 10.0,30.0\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,40.0 12.7,40.0\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>",
+   "<svg viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"30.0,10.0 47.3,20.0 47.3,40.0 30.0,50.0 12.7,40.0 12.7,20.0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"/></svg>"
+  ],
+  "optionType": "svg",
+  "answer": 3,
+  "explanation": "Hubungan pasangan pertama: bentuk sama, berubah menjadi terarsir.",
+  "difficulty": "Mudah",
+  "reference": "Materi TIU Figural – Analogi Gambar",
+  "tags": [
+   "figural",
+   "analogi gambar"
+  ]
+ }
+]

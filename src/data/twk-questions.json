@@ -1,0 +1,822 @@
+[
+ {
+  "id": "TWK-001",
+  "category": "TWK",
+  "sub": "Nasionalisme",
+  "question": "Organisasi Budi Utomo didirikan pada 20 Mei 1908. Tanggal tersebut kini diperingati sebagai…",
+  "options": [
+   "Hari Sumpah Pemuda",
+   "Hari Lahir Pancasila",
+   "Hari Pendidikan Nasional",
+   "Hari Pahlawan",
+   "Hari Kebangkitan Nasional"
+  ],
+  "answer": 4,
+  "explanation": "Budi Utomo (dr. Sutomo dkk., STOVIA) dianggap tonggak kebangkitan nasional; 20 Mei ditetapkan sebagai Hari Kebangkitan Nasional.",
+  "difficulty": "Mudah",
+  "reference": "Sejarah Pergerakan Nasional",
+  "tags": [
+   "nasionalisme"
+  ]
+ },
+ {
+  "id": "TWK-002",
+  "category": "TWK",
+  "sub": "Nasionalisme",
+  "question": "Ikrar Sumpah Pemuda dibacakan pada Kongres Pemuda II tanggal…",
+  "options": [
+   "28 Oktober 1928",
+   "1 Juni 1945",
+   "17 Agustus 1945",
+   "10 November 1945",
+   "20 Mei 1908"
+  ],
+  "answer": 0,
+  "explanation": "Kongres Pemuda II di Batavia, 27–28 Oktober 1928, menghasilkan ikrar satu tanah air, satu bangsa, dan menjunjung bahasa persatuan.",
+  "difficulty": "Mudah",
+  "reference": "Sumpah Pemuda",
+  "tags": [
+   "nasionalisme"
+  ]
+ },
+ {
+  "id": "TWK-003",
+  "category": "TWK",
+  "sub": "Nasionalisme",
+  "question": "Peristiwa pengamanan Soekarno–Hatta oleh golongan muda agar tidak terpengaruh Jepang menjelang proklamasi dikenal sebagai peristiwa…",
+  "options": [
+   "Linggarjati",
+   "Renville",
+   "Rengasdengklok",
+   "Bandung Lautan Api",
+   "Ambarawa"
+  ],
+  "answer": 2,
+  "explanation": "Pada 16 Agustus 1945 golongan muda membawa Soekarno–Hatta ke Rengasdengklok untuk mendesak proklamasi segera.",
+  "difficulty": "Mudah",
+  "reference": "Proklamasi",
+  "tags": [
+   "nasionalisme"
+  ]
+ },
+ {
+  "id": "TWK-004",
+  "category": "TWK",
+  "sub": "Nasionalisme",
+  "question": "Naskah proklamasi diketik oleh…",
+  "options": [
+   "B.M. Diah",
+   "Sukarni",
+   "Ahmad Soebardjo",
+   "Sayuti Melik",
+   "Fatmawati"
+  ],
+  "answer": 3,
+  "explanation": "Naskah tulisan tangan Soekarno diketik oleh Sayuti Melik dengan beberapa perubahan, lalu ditandatangani Soekarno–Hatta.",
+  "difficulty": "Sedang",
+  "reference": "Proklamasi",
+  "tags": [
+   "nasionalisme"
+  ]
+ },
+ {
+  "id": "TWK-005",
+  "category": "TWK",
+  "sub": "Nasionalisme",
+  "question": "Perumusan naskah proklamasi dilakukan di rumah…",
+  "options": [
+   "Djiauw Kie Siong",
+   "Ahmad Soebardjo",
+   "Mohammad Hatta",
+   "Soekarno di Pegangsaan Timur 56",
+   "Laksamana Tadashi Maeda"
+  ],
+  "answer": 4,
+  "explanation": "Naskah dirumuskan di rumah Laksamana Maeda, Jl. Imam Bonjol No. 1 Jakarta, pada dini hari 17 Agustus 1945.",
+  "difficulty": "Sedang",
+  "reference": "Proklamasi",
+  "tags": [
+   "nasionalisme"
+  ]
+ },
+ {
+  "id": "TWK-006",
+  "category": "TWK",
+  "sub": "Nasionalisme",
+  "question": "Pertempuran 10 November 1945 di Surabaya yang kemudian diperingati sebagai Hari Pahlawan dipicu antara lain oleh tewasnya…",
+  "options": [
+   "Brigjen A.W.S. Mallaby",
+   "Jenderal Christison",
+   "Van Mook",
+   "Jenderal Spoor",
+   "Letjen Imamura"
+  ],
+  "answer": 0,
+  "explanation": "Tewasnya Brigjen Mallaby (30 Oktober 1945) memicu ultimatum Inggris yang ditolak arek-arek Surabaya hingga pecah pertempuran 10 November.",
+  "difficulty": "Sedang",
+  "reference": "Revolusi Fisik",
+  "tags": [
+   "nasionalisme"
+  ]
+ },
+ {
+  "id": "TWK-007",
+  "category": "TWK",
+  "sub": "Nasionalisme",
+  "question": "Sikap yang paling mencerminkan nasionalisme dalam kehidupan sehari-hari adalah…",
+  "options": [
+   "Mengutamakan kepentingan daerah di atas nasional",
+   "Mengutamakan produk dalam negeri tanpa merendahkan bangsa lain",
+   "Menolak semua budaya asing",
+   "Menganggap bangsa sendiri paling unggul",
+   "Hanya bergaul dengan suku sendiri"
+  ],
+  "answer": 1,
+  "explanation": "Nasionalisme Indonesia bersifat terbuka: cinta tanah air tanpa chauvinisme. Mencintai produk dalam negeri adalah wujud konkret.",
+  "difficulty": "Mudah",
+  "reference": "Konsep Nasionalisme",
+  "tags": [
+   "nasionalisme"
+  ]
+ },
+ {
+  "id": "TWK-008",
+  "category": "TWK",
+  "sub": "Nasionalisme",
+  "question": "Tokoh yang dikenal sebagai Bapak Pendidikan Nasional dengan semboyan 'Tut Wuri Handayani' adalah…",
+  "options": [
+   "K.H. Ahmad Dahlan",
+   "Dewi Sartika",
+   "Douwes Dekker",
+   "Ki Hajar Dewantara",
+   "R.A. Kartini"
+  ],
+  "answer": 3,
+  "explanation": "Ki Hajar Dewantara mendirikan Taman Siswa (1922); hari lahirnya, 2 Mei, diperingati sebagai Hari Pendidikan Nasional.",
+  "difficulty": "Mudah",
+  "reference": "Tokoh Nasional",
+  "tags": [
+   "nasionalisme"
+  ]
+ },
+ {
+  "id": "TWK-009",
+  "category": "TWK",
+  "sub": "Nasionalisme",
+  "question": "Organisasi Indische Partij (1912) didirikan oleh tiga serangkai, yaitu…",
+  "options": [
+   "Semaun, Darsono, Tan Malaka",
+   "Soekarno, Hatta, Sjahrir",
+   "Douwes Dekker, Tjipto Mangoenkoesoemo, Soewardi Soerjaningrat",
+   "dr. Sutomo, Wahidin, Gunawan",
+   "H.O.S. Tjokroaminoto, Agus Salim, Abdul Muis"
+  ],
+  "answer": 2,
+  "explanation": "Indische Partij adalah organisasi politik pertama yang terang-terangan menuntut kemerdekaan Hindia.",
+  "difficulty": "Sedang",
+  "reference": "Sejarah Pergerakan Nasional",
+  "tags": [
+   "nasionalisme"
+  ]
+ },
+ {
+  "id": "TWK-010",
+  "category": "TWK",
+  "sub": "Integritas",
+  "question": "Seorang pegawai menerima hadiah dari rekanan proyek yang sedang ia tangani. Menurut UU Tipikor, hadiah tersebut termasuk…",
+  "options": [
+   "Hak pegawai",
+   "Tanda terima kasih wajar",
+   "Rezeki pribadi",
+   "Bonus kinerja yang sah",
+   "Gratifikasi yang wajib dilaporkan ke KPK"
+  ],
+  "answer": 4,
+  "explanation": "Gratifikasi terkait jabatan wajib dilaporkan ke KPK paling lambat 30 hari kerja (UU 20/2001 Pasal 12C).",
+  "difficulty": "Mudah",
+  "reference": "UU Tipikor",
+  "tags": [
+   "integritas"
+  ]
+ },
+ {
+  "id": "TWK-011",
+  "category": "TWK",
+  "sub": "Integritas",
+  "question": "Batas waktu pelaporan gratifikasi kepada KPK sejak diterima adalah…",
+  "options": [
+   "90 hari kalender",
+   "14 hari kerja",
+   "7 hari kerja",
+   "30 hari kerja",
+   "60 hari kerja"
+  ],
+  "answer": 3,
+  "explanation": "Pasal 12C UU 20/2001: penerima wajib melapor paling lambat 30 hari kerja sejak gratifikasi diterima.",
+  "difficulty": "Sedang",
+  "reference": "UU Tipikor",
+  "tags": [
+   "integritas"
+  ]
+ },
+ {
+  "id": "TWK-012",
+  "category": "TWK",
+  "sub": "Integritas",
+  "question": "Nilai dasar ASN 'BerAKHLAK' merupakan akronim dari…",
+  "options": [
+   "Berbudaya, Arif, Kerja keras, Hemat, Lurus, Aspiratif, Kritis",
+   "Beriman, Amanah, Kreatif, Hebat, Loyal, Aktif, Kompak",
+   "Bersih, Adil, Kompeten, Hormat, Loyal, Aman, Kreatif",
+   "Berani, Akurat, Kuat, Handal, Lugas, Andal, Komunikatif",
+   "Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif"
+  ],
+  "answer": 4,
+  "explanation": "Core values ASN BerAKHLAK diluncurkan Presiden pada 27 Juli 2021.",
+  "difficulty": "Mudah",
+  "reference": "Core Values ASN",
+  "tags": [
+   "integritas"
+  ]
+ },
+ {
+  "id": "TWK-013",
+  "category": "TWK",
+  "sub": "Integritas",
+  "question": "Prinsip akuntabilitas dalam pemerintahan berarti…",
+  "options": [
+   "Setiap kegiatan dan hasilnya dapat dipertanggungjawabkan kepada publik",
+   "Kinerja dinilai dari kedekatan dengan atasan",
+   "Pegawai bebas menentukan anggaran",
+   "Keputusan hanya diketahui pimpinan",
+   "Laporan cukup dibuat saat diminta"
+  ],
+  "answer": 0,
+  "explanation": "Akuntabilitas = kewajiban mempertanggungjawabkan kinerja dan penggunaan sumber daya kepada pemberi mandat/publik.",
+  "difficulty": "Mudah",
+  "reference": "Good Governance",
+  "tags": [
+   "integritas"
+  ]
+ },
+ {
+  "id": "TWK-014",
+  "category": "TWK",
+  "sub": "Integritas",
+  "question": "Konflik kepentingan terjadi ketika…",
+  "options": [
+   "Dua pegawai berbeda pendapat",
+   "Pegawai mengikuti organisasi profesi",
+   "Atasan memberi tugas tambahan",
+   "Kepentingan pribadi berpotensi memengaruhi keputusan dalam jabatan",
+   "Instansi bekerja sama dengan swasta"
+  ],
+  "answer": 3,
+  "explanation": "Konflik kepentingan (UU 30/2014 Administrasi Pemerintahan) membuat pejabat wajib menghindari keputusan yang menguntungkan dirinya.",
+  "difficulty": "Sedang",
+  "reference": "Etika Pemerintahan",
+  "tags": [
+   "integritas"
+  ]
+ },
+ {
+  "id": "TWK-015",
+  "category": "TWK",
+  "sub": "Integritas",
+  "question": "Lembaga independen yang berwenang memeriksa pengelolaan dan tanggung jawab keuangan negara adalah…",
+  "options": [
+   "Ombudsman",
+   "OJK",
+   "BPKP",
+   "BPK",
+   "KPK"
+  ],
+  "answer": 3,
+  "explanation": "Pasal 23E UUD 1945: BPK memeriksa pengelolaan dan tanggung jawab keuangan negara, bebas dan mandiri.",
+  "difficulty": "Mudah",
+  "reference": "Lembaga Negara",
+  "tags": [
+   "integritas"
+  ]
+ },
+ {
+  "id": "TWK-016",
+  "category": "TWK",
+  "sub": "Integritas",
+  "question": "Ombudsman Republik Indonesia berwenang mengawasi…",
+  "options": [
+   "Pemilu",
+   "Penyelenggaraan pelayanan publik dan dugaan maladministrasi",
+   "Tindak pidana korupsi",
+   "Peredaran uang",
+   "Perbankan"
+  ],
+  "answer": 1,
+  "explanation": "UU 37/2008: Ombudsman mengawasi pelayanan publik oleh penyelenggara negara dan pemerintahan.",
+  "difficulty": "Sedang",
+  "reference": "Lembaga Negara",
+  "tags": [
+   "integritas"
+  ]
+ },
+ {
+  "id": "TWK-017",
+  "category": "TWK",
+  "sub": "Bela Negara",
+  "question": "Dasar konstitusional hak dan kewajiban warga negara ikut serta dalam upaya pembelaan negara terdapat pada…",
+  "options": [
+   "Pasal 31 ayat (1) UUD 1945",
+   "Pasal 1 ayat (3) UUD 1945",
+   "Pasal 27 ayat (3) UUD 1945",
+   "Pasal 28 UUD 1945",
+   "Pasal 33 UUD 1945"
+  ],
+  "answer": 2,
+  "explanation": "Pasal 27 (3): 'Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara.' Lihat juga Pasal 30 ayat (1).",
+  "difficulty": "Mudah",
+  "reference": "UUD 1945",
+  "tags": [
+   "bela negara"
+  ]
+ },
+ {
+  "id": "TWK-018",
+  "category": "TWK",
+  "sub": "Bela Negara",
+  "question": "Sistem pertahanan dan keamanan Indonesia menurut Pasal 30 UUD 1945 disebut…",
+  "options": [
+   "Sistem Pertahanan dan Keamanan Rakyat Semesta (Sishankamrata)",
+   "Sistem Pertahanan Terpadu",
+   "Sistem Keamanan Kolektif",
+   "Wajib Militer Nasional",
+   "Pertahanan Garis Depan"
+  ],
+  "answer": 0,
+  "explanation": "Sishankamrata menempatkan TNI dan Polri sebagai kekuatan utama dan rakyat sebagai kekuatan pendukung.",
+  "difficulty": "Sedang",
+  "reference": "Ketahanan Nasional",
+  "tags": [
+   "bela negara"
+  ]
+ },
+ {
+  "id": "TWK-019",
+  "category": "TWK",
+  "sub": "Bela Negara",
+  "question": "Wawasan Nusantara secara konseptual dideklarasikan pertama kali melalui…",
+  "options": [
+   "Deklarasi Djuanda 13 Desember 1957",
+   "Dekrit Presiden 1959",
+   "Sumpah Pemuda 1928",
+   "UNCLOS 1982",
+   "Konferensi Meja Bundar 1949"
+  ],
+  "answer": 0,
+  "explanation": "Deklarasi Djuanda menyatakan laut di antara pulau sebagai wilayah Indonesia; diakui internasional dalam UNCLOS 1982.",
+  "difficulty": "Sedang",
+  "reference": "Wawasan Nusantara",
+  "tags": [
+   "bela negara"
+  ]
+ },
+ {
+  "id": "TWK-020",
+  "category": "TWK",
+  "sub": "Bela Negara",
+  "question": "Kondisi dinamis bangsa yang berisi keuletan dan ketangguhan menghadapi ancaman, gangguan, hambatan, dan tantangan disebut…",
+  "options": [
+   "Integrasi nasional",
+   "Ketahanan nasional",
+   "Bela negara",
+   "Politik luar negeri",
+   "Wawasan nusantara"
+  ],
+  "answer": 1,
+  "explanation": "Ketahanan nasional mencakup asta gatra: 3 gatra alamiah (geografi, demografi, SDA) dan 5 gatra sosial (ipoleksosbudhankam).",
+  "difficulty": "Mudah",
+  "reference": "Ketahanan Nasional",
+  "tags": [
+   "bela negara"
+  ]
+ },
+ {
+  "id": "TWK-021",
+  "category": "TWK",
+  "sub": "Bela Negara",
+  "question": "Yang termasuk gatra alamiah (trigatra) dalam ketahanan nasional adalah…",
+  "options": [
+   "Ekonomi, geografi, hukum",
+   "Politik, demografi, budaya",
+   "Sosial, budaya, hankam",
+   "Ideologi, politik, ekonomi",
+   "Geografi, demografi, sumber kekayaan alam"
+  ],
+  "answer": 4,
+  "explanation": "Trigatra: letak geografis, keadaan penduduk, kekayaan alam. Pancagatra: ideologi, politik, ekonomi, sosial budaya, hankam.",
+  "difficulty": "Sedang",
+  "reference": "Ketahanan Nasional",
+  "tags": [
+   "bela negara"
+  ]
+ },
+ {
+  "id": "TWK-022",
+  "category": "TWK",
+  "sub": "Bela Negara",
+  "question": "Contoh bela negara non-fisik bagi seorang ASN adalah…",
+  "options": [
+   "Bergabung dengan milisi",
+   "Bekerja profesional dan menolak praktik korupsi",
+   "Mengikuti latihan militer wajib",
+   "Mengangkat senjata saat damai",
+   "Menjaga perbatasan bersenjata"
+  ],
+  "answer": 1,
+  "explanation": "Bela negara non-fisik diwujudkan lewat profesi: disiplin, integritas, dan pengabdian sesuai bidang.",
+  "difficulty": "Mudah",
+  "reference": "Konsep Bela Negara",
+  "tags": [
+   "bela negara"
+  ]
+ },
+ {
+  "id": "TWK-023",
+  "category": "TWK",
+  "sub": "Bela Negara",
+  "question": "Ancaman yang berbentuk penyebaran hoaks dan propaganda melalui media sosial dikategorikan sebagai ancaman…",
+  "options": [
+   "Nonmiliter",
+   "Konvensional",
+   "Militer",
+   "Agresi",
+   "Hibrida bersenjata"
+  ],
+  "answer": 0,
+  "explanation": "UU 3/2002 membagi ancaman militer dan nonmiliter; ancaman siber dan ideologis termasuk nonmiliter.",
+  "difficulty": "Mudah",
+  "reference": "Ancaman Nasional",
+  "tags": [
+   "bela negara"
+  ]
+ },
+ {
+  "id": "TWK-024",
+  "category": "TWK",
+  "sub": "Pilar Negara",
+  "question": "Sidang BPUPKI pertama berlangsung pada tanggal…",
+  "options": [
+   "1–7 Juli 1945",
+   "18 Agustus 1945",
+   "10–17 Juli 1945",
+   "29 Mei – 1 Juni 1945",
+   "22 Juni 1945"
+  ],
+  "answer": 3,
+  "explanation": "Sidang I BPUPKI membahas dasar negara; Soekarno menyampaikan pidato 'Pancasila' pada 1 Juni 1945.",
+  "difficulty": "Mudah",
+  "reference": "Sejarah Perumusan Pancasila",
+  "tags": [
+   "pilar negara"
+  ]
+ },
+ {
+  "id": "TWK-025",
+  "category": "TWK",
+  "sub": "Pilar Negara",
+  "question": "Piagam Jakarta dirumuskan oleh Panitia Sembilan pada…",
+  "options": [
+   "29 Mei 1945",
+   "18 Agustus 1945",
+   "1 Juni 1945",
+   "22 Juni 1945",
+   "17 Agustus 1945"
+  ],
+  "answer": 3,
+  "explanation": "Piagam Jakarta 22 Juni 1945 kemudian menjadi rancangan Pembukaan UUD; tujuh kata sila pertama diubah pada 18 Agustus 1945.",
+  "difficulty": "Mudah",
+  "reference": "Sejarah Perumusan Pancasila",
+  "tags": [
+   "pilar negara"
+  ]
+ },
+ {
+  "id": "TWK-026",
+  "category": "TWK",
+  "sub": "Pilar Negara",
+  "question": "Tokoh yang berperan melobi perubahan tujuh kata dalam Piagam Jakarta pada 18 Agustus 1945 adalah…",
+  "options": [
+   "Mohammad Hatta",
+   "Muhammad Yamin",
+   "A.A. Maramis",
+   "Soekarno",
+   "Soepomo"
+  ],
+  "answer": 0,
+  "explanation": "Hatta menerima keberatan dari wakil Indonesia timur, lalu berkonsultasi dengan tokoh Islam (Ki Bagus Hadikusumo, Kasman, dll.).",
+  "difficulty": "Sedang",
+  "reference": "Sejarah Perumusan Pancasila",
+  "tags": [
+   "pilar negara"
+  ]
+ },
+ {
+  "id": "TWK-027",
+  "category": "TWK",
+  "sub": "Pilar Negara",
+  "question": "Alinea keempat Pembukaan UUD 1945 memuat…",
+  "options": [
+   "Bentuk negara federal",
+   "Pengakuan rahmat Tuhan atas kemerdekaan",
+   "Pernyataan kemerdekaan semua bangsa",
+   "Perjuangan pergerakan kemerdekaan",
+   "Tujuan negara dan dasar negara Pancasila"
+  ],
+  "answer": 4,
+  "explanation": "Alinea IV: melindungi segenap bangsa, memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, ikut ketertiban dunia, serta rumusan Pancasila.",
+  "difficulty": "Mudah",
+  "reference": "Pembukaan UUD 1945",
+  "tags": [
+   "pilar negara"
+  ]
+ },
+ {
+  "id": "TWK-028",
+  "category": "TWK",
+  "sub": "Pilar Negara",
+  "question": "Pasal 1 ayat (3) UUD NRI 1945 menyatakan bahwa…",
+  "options": [
+   "Bendera negara ialah Sang Merah Putih",
+   "Presiden memegang kekuasaan pemerintahan",
+   "Indonesia adalah negara kesatuan berbentuk republik",
+   "Kedaulatan berada di tangan rakyat",
+   "Negara Indonesia adalah negara hukum"
+  ],
+  "answer": 4,
+  "explanation": "Ayat (1) negara kesatuan berbentuk republik; ayat (2) kedaulatan rakyat; ayat (3) negara hukum (hasil amandemen ketiga).",
+  "difficulty": "Mudah",
+  "reference": "UUD 1945",
+  "tags": [
+   "pilar negara"
+  ]
+ },
+ {
+  "id": "TWK-029",
+  "category": "TWK",
+  "sub": "Pilar Negara",
+  "question": "Amandemen UUD 1945 dilakukan sebanyak empat kali pada kurun waktu…",
+  "options": [
+   "1959–1966",
+   "1945–1949",
+   "1999–2002",
+   "2000–2004",
+   "1998–2001"
+  ],
+  "answer": 2,
+  "explanation": "Perubahan I (1999), II (2000), III (2001), IV (2002) oleh MPR.",
+  "difficulty": "Mudah",
+  "reference": "UUD 1945",
+  "tags": [
+   "pilar negara"
+  ]
+ },
+ {
+  "id": "TWK-030",
+  "category": "TWK",
+  "sub": "Pilar Negara",
+  "question": "Semboyan Bhinneka Tunggal Ika berasal dari kitab…",
+  "options": [
+   "Negarakertagama karya Mpu Prapanca",
+   "Bharatayuddha karya Mpu Sedah",
+   "Arjunawiwaha karya Mpu Kanwa",
+   "Pararaton",
+   "Sutasoma karya Mpu Tantular"
+  ],
+  "answer": 4,
+  "explanation": "Kutipan 'Bhinneka tunggal ika tan hana dharma mangrwa' terdapat dalam Kakawin Sutasoma (abad ke-14, Majapahit).",
+  "difficulty": "Mudah",
+  "reference": "Bhinneka Tunggal Ika",
+  "tags": [
+   "pilar negara"
+  ]
+ },
+ {
+  "id": "TWK-031",
+  "category": "TWK",
+  "sub": "Pilar Negara",
+  "question": "Lembaga negara yang berwenang menguji undang-undang terhadap UUD adalah…",
+  "options": [
+   "DPR",
+   "Komisi Yudisial",
+   "Mahkamah Konstitusi",
+   "Mahkamah Agung",
+   "MPR"
+  ],
+  "answer": 2,
+  "explanation": "Pasal 24C UUD 1945; MA menguji peraturan di bawah undang-undang terhadap undang-undang.",
+  "difficulty": "Mudah",
+  "reference": "Lembaga Negara",
+  "tags": [
+   "pilar negara"
+  ]
+ },
+ {
+  "id": "TWK-032",
+  "category": "TWK",
+  "sub": "Pilar Negara",
+  "question": "Masa jabatan anggota Komisi Yudisial sesuai undang-undang adalah…",
+  "options": [
+   "7 tahun",
+   "4 tahun",
+   "6 tahun",
+   "5 tahun",
+   "10 tahun"
+  ],
+  "answer": 3,
+  "explanation": "UU 18/2011: anggota KY memegang jabatan 5 tahun dan dapat dipilih kembali untuk satu periode.",
+  "difficulty": "Sulit",
+  "reference": "Lembaga Negara",
+  "tags": [
+   "pilar negara"
+  ]
+ },
+ {
+  "id": "TWK-033",
+  "category": "TWK",
+  "sub": "Pilar Negara",
+  "question": "Pasal UUD 1945 yang mengatur bahwa bumi, air, dan kekayaan alam dikuasai negara untuk kemakmuran rakyat adalah…",
+  "options": [
+   "Pasal 28H ayat (1)",
+   "Pasal 34 ayat (1)",
+   "Pasal 33 ayat (3)",
+   "Pasal 27 ayat (2)",
+   "Pasal 31 ayat (4)"
+  ],
+  "answer": 2,
+  "explanation": "Pasal 33 ayat (3) merupakan dasar demokrasi ekonomi dan pengelolaan SDA.",
+  "difficulty": "Sedang",
+  "reference": "UUD 1945",
+  "tags": [
+   "pilar negara"
+  ]
+ },
+ {
+  "id": "TWK-034",
+  "category": "TWK",
+  "sub": "Pilar Negara",
+  "question": "Ketentuan tentang Hak Asasi Manusia dalam UUD 1945 hasil amandemen terdapat pada…",
+  "options": [
+   "Bab X Pasal 26–28",
+   "Bab XA Pasal 28A–28J",
+   "Bab XI Pasal 29",
+   "Bab XIII Pasal 31–32",
+   "Bab XIV Pasal 33–34"
+  ],
+  "answer": 1,
+  "explanation": "Bab XA ditambahkan pada Perubahan Kedua (2000).",
+  "difficulty": "Sedang",
+  "reference": "HAM",
+  "tags": [
+   "pilar negara"
+  ]
+ },
+ {
+  "id": "TWK-035",
+  "category": "TWK",
+  "sub": "Pilar Negara",
+  "question": "Sistem pemerintahan Indonesia berdasarkan UUD NRI 1945 adalah…",
+  "options": [
+   "Semi-presidensial",
+   "Presidensial",
+   "Monarki konstitusional",
+   "Parlementer",
+   "Kolegial"
+  ],
+  "answer": 1,
+  "explanation": "Presiden adalah kepala negara sekaligus kepala pemerintahan, dipilih langsung dan tidak bertanggung jawab kepada DPR.",
+  "difficulty": "Mudah",
+  "reference": "Sistem Pemerintahan",
+  "tags": [
+   "pilar negara"
+  ]
+ },
+ {
+  "id": "TWK-036",
+  "category": "TWK",
+  "sub": "Bahasa Negara",
+  "question": "Bahasa Indonesia ditetapkan sebagai bahasa negara dalam…",
+  "options": [
+   "Sumpah Pemuda butir pertama",
+   "Pasal 35 UUD 1945",
+   "Pasal 36 UUD 1945",
+   "Pasal 32 ayat (2) UUD 1945",
+   "Pasal 36A UUD 1945"
+  ],
+  "answer": 2,
+  "explanation": "Pasal 36: 'Bahasa Negara ialah Bahasa Indonesia.' Sumpah Pemuda menjadikannya bahasa persatuan.",
+  "difficulty": "Mudah",
+  "reference": "Kedudukan Bahasa",
+  "tags": [
+   "bahasa negara"
+  ]
+ },
+ {
+  "id": "TWK-037",
+  "category": "TWK",
+  "sub": "Bahasa Negara",
+  "question": "Penulisan kata berikut yang baku adalah…",
+  "options": [
+   "Apotek",
+   "Analisa",
+   "Aktifitas",
+   "Nasehat",
+   "Apotik"
+  ],
+  "answer": 0,
+  "explanation": "Bentuk baku: apotek, aktivitas, analisis, nasihat (KBBI).",
+  "difficulty": "Mudah",
+  "reference": "Bahasa Baku",
+  "tags": [
+   "bahasa negara"
+  ]
+ },
+ {
+  "id": "TWK-038",
+  "category": "TWK",
+  "sub": "Bahasa Negara",
+  "question": "Kalimat efektif di antara pilihan berikut adalah…",
+  "options": [
+   "Bagi para peserta diharap hadir tepat waktu.",
+   "Para peserta diharap hadir tepat waktu.",
+   "Para peserta-peserta diharap hadir tepat waktu.",
+   "Para hadirin sekalian diharap hadir tepat waktu.",
+   "Kepada para peserta-peserta diharapkan hadir."
+  ],
+  "answer": 1,
+  "explanation": "'Para' sudah bermakna jamak sehingga tidak perlu kata ulang; kata depan 'bagi/kepada' di awal membuat kalimat tidak bersubjek.",
+  "difficulty": "Sedang",
+  "reference": "Kalimat Efektif",
+  "tags": [
+   "bahasa negara"
+  ]
+ },
+ {
+  "id": "TWK-039",
+  "category": "TWK",
+  "sub": "Bahasa Negara",
+  "question": "Penulisan huruf kapital yang benar menurut EYD adalah…",
+  "options": [
+   "Kami Berangkat ke Jawa Barat Bulan Juli.",
+   "Kami berangkat ke Jawa Barat bulan Juli.",
+   "kami berangkat ke Jawa barat bulan Juli.",
+   "Kami berangkat ke jawa barat bulan juli.",
+   "Kami berangkat ke Jawa Barat Bulan juli."
+  ],
+  "answer": 1,
+  "explanation": "Nama geografis dan nama bulan diawali huruf kapital; kata umum tidak.",
+  "difficulty": "Mudah",
+  "reference": "EYD",
+  "tags": [
+   "bahasa negara"
+  ]
+ },
+ {
+  "id": "TWK-040",
+  "category": "TWK",
+  "sub": "Bahasa Negara",
+  "question": "Penggunaan tanda baca yang tepat terdapat pada kalimat…",
+  "options": [
+   "Ia membeli: buku, pena, dan penggaris.",
+   "Ia membeli buku pena, dan penggaris.",
+   "Ia membeli buku; pena; penggaris.",
+   "Ia, membeli buku, pena dan, penggaris.",
+   "Ia membeli buku, pena, dan penggaris."
+  ],
+  "answer": 4,
+  "explanation": "Koma memisahkan unsur perincian; titik dua tidak dipakai bila perincian merupakan pelengkap yang mengakhiri pernyataan.",
+  "difficulty": "Sedang",
+  "reference": "EYD",
+  "tags": [
+   "bahasa negara"
+  ]
+ },
+ {
+  "id": "TWK-041",
+  "category": "TWK",
+  "sub": "Bahasa Negara",
+  "question": "Unsur yang wajib ada dalam surat dinas resmi instansi pemerintah adalah…",
+  "options": [
+   "Gambar dan stiker instansi",
+   "Tanda tangan seluruh pegawai",
+   "Kop surat, nomor, perihal, isi, dan tanda tangan pejabat",
+   "Catatan kaki referensi",
+   "Salam pembuka bahasa daerah"
+  ],
+  "answer": 2,
+  "explanation": "Tata naskah dinas mensyaratkan kepala (kop), nomor, sifat/lampiran/hal, batang tubuh, dan kaki (tanda tangan, nama jabatan).",
+  "difficulty": "Sedang",
+  "reference": "Dokumen Resmi",
+  "tags": [
+   "bahasa negara"
+  ]
+ }
+]
