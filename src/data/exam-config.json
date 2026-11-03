@@ -1,0 +1,26 @@
+{
+  "note": "Konfigurasi acuan SKD CPNS 2024. Ambang batas dapat berubah setiap periode seleksi; selalu cek pengumuman resmi BKN/KemenPAN-RB.",
+  "presets": [
+    {
+      "id": "skd-2024",
+      "label": "Preset SKD 2024",
+      "durationMinutes": 100,
+      "sections": [
+        { "category": "TWK", "count": 30, "correctScore": 5, "passingGrade": 65 },
+        { "category": "TIU", "count": 35, "correctScore": 5, "passingGrade": 80 },
+        { "category": "TKP", "count": 45, "correctScore": 5, "passingGrade": 166 }
+      ]
+    },
+    {
+      "id": "skd-2021",
+      "label": "Preset SKD 2021 (historis)",
+      "durationMinutes": 100,
+      "sections": [
+        { "category": "TWK", "count": 30, "correctScore": 5, "passingGrade": 65 },
+        { "category": "TIU", "count": 35, "correctScore": 5, "passingGrade": 80 },
+        { "category": "TKP", "count": 45, "correctScore": 5, "passingGrade": 166 }
+      ]
+    }
+  ],
+  "skb": { "count": 25, "durationMinutes": 45, "correctScore": 4 }
+}
