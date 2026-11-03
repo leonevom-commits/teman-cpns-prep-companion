@@ -73,16 +73,16 @@ export function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
+    const t = a[i] as T; a[i] = a[j] as T; a[j] = t;
   }
   return a;
 }
 
 export interface Filter {
-  category?: Category | "ALL";
-  sub?: string;
-  difficulty?: string;
-  ids?: string[];
+  category?: Category | "ALL" | undefined;
+  sub?: string | undefined;
+  difficulty?: string | undefined;
+  ids?: string[] | undefined;
 }
 
 export function pickQuestions(f: Filter, count: number): string[] {
@@ -101,7 +101,7 @@ export function buildSkd(preset: ExamPreset, difficulty?: string): string[] {
 }
 
 /** Nilai satu soal. TKP: skor opsi 1–5; lainnya: benar = correctScore. */
-export function scoreOf(q: Question, chosen: number | null, correctScore = 5): number {
+export function scoreOf(q: Question, chosen: number | null | undefined, correctScore = 5): number {
   if (chosen === null || chosen === undefined) return 0;
   if (q.category === "TKP") return q.scores?.[chosen] ?? 0;
   return chosen === q.answer ? correctScore : 0;
@@ -110,7 +110,7 @@ export function maxScoreOf(q: Question, correctScore = 5) {
   return q.category === "TKP" ? 5 : correctScore;
 }
 /** "Benar" untuk statistik: TKP dihitung benar bila skor ≥ 4. */
-export function isCorrect(q: Question, chosen: number | null): boolean {
+export function isCorrect(q: Question, chosen: number | null | undefined): boolean {
   if (chosen === null || chosen === undefined) return false;
   if (q.category === "TKP") return (q.scores?.[chosen] ?? 0) >= 4;
   return chosen === q.answer;
