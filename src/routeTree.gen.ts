@@ -15,7 +15,9 @@ import { Route as FlashcardsRouteImport } from './routes/flashcards'
 import { Route as LatihanRouteImport } from './routes/latihan'
 import { Route as MateriRouteImport } from './routes/materi'
 import { Route as ReviewRouteImport } from './routes/review'
+import { Route as SesiRouteImport } from './routes/sesi'
 import { Route as TryoutRouteImport } from './routes/tryout'
+import { Route as HasilIdRouteImport } from './routes/hasil.$id'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
@@ -47,9 +49,19 @@ const ReviewRoute = ReviewRouteImport.update({
   path: '/review',
   getParentRoute: () => rootRouteImport,
 } as any)
+const SesiRoute = SesiRouteImport.update({
+  id: '/sesi',
+  path: '/sesi',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const TryoutRoute = TryoutRouteImport.update({
   id: '/tryout',
   path: '/tryout',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const HasilIdRoute = HasilIdRouteImport.update({
+  id: '/hasil/$id',
+  path: '/hasil/$id',
   getParentRoute: () => rootRouteImport,
 } as any)
 
@@ -60,7 +72,9 @@ export interface FileRoutesByFullPath {
   '/latihan': typeof LatihanRoute
   '/materi': typeof MateriRoute
   '/review': typeof ReviewRoute
+  '/sesi': typeof SesiRoute
   '/tryout': typeof TryoutRoute
+  '/hasil/$id': typeof HasilIdRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
@@ -69,7 +83,9 @@ export interface FileRoutesByTo {
   '/latihan': typeof LatihanRoute
   '/materi': typeof MateriRoute
   '/review': typeof ReviewRoute
+  '/sesi': typeof SesiRoute
   '/tryout': typeof TryoutRoute
+  '/hasil/$id': typeof HasilIdRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
@@ -79,7 +95,9 @@ export interface FileRoutesById {
   '/latihan': typeof LatihanRoute
   '/materi': typeof MateriRoute
   '/review': typeof ReviewRoute
+  '/sesi': typeof SesiRoute
   '/tryout': typeof TryoutRoute
+  '/hasil/$id': typeof HasilIdRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
@@ -90,7 +108,9 @@ export interface FileRouteTypes {
     | '/latihan'
     | '/materi'
     | '/review'
+    | '/sesi'
     | '/tryout'
+    | '/hasil/$id'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
@@ -99,7 +119,9 @@ export interface FileRouteTypes {
     | '/latihan'
     | '/materi'
     | '/review'
+    | '/sesi'
     | '/tryout'
+    | '/hasil/$id'
   id:
     | '__root__'
     | '/'
@@ -108,7 +130,9 @@ export interface FileRouteTypes {
     | '/latihan'
     | '/materi'
     | '/review'
+    | '/sesi'
     | '/tryout'
+    | '/hasil/$id'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
@@ -118,7 +142,9 @@ export interface RootRouteChildren {
   LatihanRoute: typeof LatihanRoute
   MateriRoute: typeof MateriRoute
   ReviewRoute: typeof ReviewRoute
+  SesiRoute: typeof SesiRoute
   TryoutRoute: typeof TryoutRoute
+  HasilIdRoute: typeof HasilIdRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -165,11 +191,25 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ReviewRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/sesi': {
+      id: '/sesi'
+      path: '/sesi'
+      fullPath: '/sesi'
+      preLoaderRoute: typeof SesiRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/tryout': {
       id: '/tryout'
       path: '/tryout'
       fullPath: '/tryout'
       preLoaderRoute: typeof TryoutRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/hasil/$id': {
+      id: '/hasil/$id'
+      path: '/hasil/$id'
+      fullPath: '/hasil/$id'
+      preLoaderRoute: typeof HasilIdRouteImport
       parentRoute: typeof rootRouteImport
     }
   }
@@ -182,7 +222,9 @@ const rootRouteChildren: RootRouteChildren = {
   LatihanRoute: LatihanRoute,
   MateriRoute: MateriRoute,
   ReviewRoute: ReviewRoute,
+  SesiRoute: SesiRoute,
   TryoutRoute: TryoutRoute,
+  HasilIdRoute: HasilIdRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
