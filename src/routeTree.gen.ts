@@ -14,6 +14,7 @@ import { Route as CatRouteImport } from './routes/cat'
 import { Route as FlashcardsRouteImport } from './routes/flashcards'
 import { Route as LatihanRouteImport } from './routes/latihan'
 import { Route as MateriRouteImport } from './routes/materi'
+import { Route as ProfilRouteImport } from './routes/profil'
 import { Route as ReviewRouteImport } from './routes/review'
 import { Route as SesiRouteImport } from './routes/sesi'
 import { Route as TryoutRouteImport } from './routes/tryout'
@@ -44,6 +45,11 @@ const MateriRoute = MateriRouteImport.update({
   path: '/materi',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ProfilRoute = ProfilRouteImport.update({
+  id: '/profil',
+  path: '/profil',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ReviewRoute = ReviewRouteImport.update({
   id: '/review',
   path: '/review',
@@ -71,6 +77,7 @@ export interface FileRoutesByFullPath {
   '/flashcards': typeof FlashcardsRoute
   '/latihan': typeof LatihanRoute
   '/materi': typeof MateriRoute
+  '/profil': typeof ProfilRoute
   '/review': typeof ReviewRoute
   '/sesi': typeof SesiRoute
   '/tryout': typeof TryoutRoute
@@ -82,6 +89,7 @@ export interface FileRoutesByTo {
   '/flashcards': typeof FlashcardsRoute
   '/latihan': typeof LatihanRoute
   '/materi': typeof MateriRoute
+  '/profil': typeof ProfilRoute
   '/review': typeof ReviewRoute
   '/sesi': typeof SesiRoute
   '/tryout': typeof TryoutRoute
@@ -94,6 +102,7 @@ export interface FileRoutesById {
   '/flashcards': typeof FlashcardsRoute
   '/latihan': typeof LatihanRoute
   '/materi': typeof MateriRoute
+  '/profil': typeof ProfilRoute
   '/review': typeof ReviewRoute
   '/sesi': typeof SesiRoute
   '/tryout': typeof TryoutRoute
@@ -107,6 +116,7 @@ export interface FileRouteTypes {
     | '/flashcards'
     | '/latihan'
     | '/materi'
+    | '/profil'
     | '/review'
     | '/sesi'
     | '/tryout'
@@ -118,6 +128,7 @@ export interface FileRouteTypes {
     | '/flashcards'
     | '/latihan'
     | '/materi'
+    | '/profil'
     | '/review'
     | '/sesi'
     | '/tryout'
@@ -129,6 +140,7 @@ export interface FileRouteTypes {
     | '/flashcards'
     | '/latihan'
     | '/materi'
+    | '/profil'
     | '/review'
     | '/sesi'
     | '/tryout'
@@ -141,6 +153,7 @@ export interface RootRouteChildren {
   FlashcardsRoute: typeof FlashcardsRoute
   LatihanRoute: typeof LatihanRoute
   MateriRoute: typeof MateriRoute
+  ProfilRoute: typeof ProfilRoute
   ReviewRoute: typeof ReviewRoute
   SesiRoute: typeof SesiRoute
   TryoutRoute: typeof TryoutRoute
@@ -184,6 +197,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof MateriRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/profil': {
+      id: '/profil'
+      path: '/profil'
+      fullPath: '/profil'
+      preLoaderRoute: typeof ProfilRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/review': {
       id: '/review'
       path: '/review'
@@ -221,6 +241,7 @@ const rootRouteChildren: RootRouteChildren = {
   FlashcardsRoute: FlashcardsRoute,
   LatihanRoute: LatihanRoute,
   MateriRoute: MateriRoute,
+  ProfilRoute: ProfilRoute,
   ReviewRoute: ReviewRoute,
   SesiRoute: SesiRoute,
   TryoutRoute: TryoutRoute,
