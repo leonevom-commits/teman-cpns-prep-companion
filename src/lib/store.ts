@@ -170,7 +170,9 @@ export const today = (d = new Date()) =>
   `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
 
 export function getPreset(id: string): ExamPreset {
-  return EXAM_CONFIG.presets.find((p) => p.id === id) ?? EXAM_CONFIG.presets[0]!;
+  const preset = EXAM_CONFIG.presets.find((p) => p.id === id) ?? EXAM_CONFIG.presets[0];
+  if (!preset) throw new Error("Preset ujian tidak tersedia");
+  return preset;
 }
 
 export function streak(activity: AppState["activity"]): number {
@@ -224,7 +226,7 @@ export function computeResult(a: ActiveSession, endTime = Date.now()): SessionRe
     if (!q) return;
     const ch = a.answers[i] ?? null;
     const sec = preset?.sections.find((s) => s.category === q.category);
-    const cs = sec?.correctScore ?? 5;
+    const cs = sec?.correctScore ?? (q.category === "SKB" ? EXAM_CONFIG.skb.correctScore : 5);
     const c = (per[q.category] ??= { score: 0, max: 0, correct: 0, wrong: 0, empty: 0, passingGrade: sec?.passingGrade });
     const sc = scoreOf(q, ch, cs);
     const mx = maxScoreOf(q, cs);
