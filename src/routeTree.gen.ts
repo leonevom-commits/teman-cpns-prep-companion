@@ -10,33 +10,154 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as CatRouteImport } from './routes/cat'
+import { Route as FlashcardsRouteImport } from './routes/flashcards'
+import { Route as LatihanRouteImport } from './routes/latihan'
+import { Route as MateriRouteImport } from './routes/materi'
+import { Route as ProfilRouteImport } from './routes/profil'
+import { Route as ReviewRouteImport } from './routes/review'
+import { Route as SesiRouteImport } from './routes/sesi'
+import { Route as TryoutRouteImport } from './routes/tryout'
+import { Route as HasilIdRouteImport } from './routes/hasil.$id'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const CatRoute = CatRouteImport.update({
+  id: '/cat',
+  path: '/cat',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const FlashcardsRoute = FlashcardsRouteImport.update({
+  id: '/flashcards',
+  path: '/flashcards',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const LatihanRoute = LatihanRouteImport.update({
+  id: '/latihan',
+  path: '/latihan',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MateriRoute = MateriRouteImport.update({
+  id: '/materi',
+  path: '/materi',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ProfilRoute = ProfilRouteImport.update({
+  id: '/profil',
+  path: '/profil',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ReviewRoute = ReviewRouteImport.update({
+  id: '/review',
+  path: '/review',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const SesiRoute = SesiRouteImport.update({
+  id: '/sesi',
+  path: '/sesi',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TryoutRoute = TryoutRouteImport.update({
+  id: '/tryout',
+  path: '/tryout',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const HasilIdRoute = HasilIdRouteImport.update({
+  id: '/hasil/$id',
+  path: '/hasil/$id',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/cat': typeof CatRoute
+  '/flashcards': typeof FlashcardsRoute
+  '/latihan': typeof LatihanRoute
+  '/materi': typeof MateriRoute
+  '/profil': typeof ProfilRoute
+  '/review': typeof ReviewRoute
+  '/sesi': typeof SesiRoute
+  '/tryout': typeof TryoutRoute
+  '/hasil/$id': typeof HasilIdRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/cat': typeof CatRoute
+  '/flashcards': typeof FlashcardsRoute
+  '/latihan': typeof LatihanRoute
+  '/materi': typeof MateriRoute
+  '/profil': typeof ProfilRoute
+  '/review': typeof ReviewRoute
+  '/sesi': typeof SesiRoute
+  '/tryout': typeof TryoutRoute
+  '/hasil/$id': typeof HasilIdRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/cat': typeof CatRoute
+  '/flashcards': typeof FlashcardsRoute
+  '/latihan': typeof LatihanRoute
+  '/materi': typeof MateriRoute
+  '/profil': typeof ProfilRoute
+  '/review': typeof ReviewRoute
+  '/sesi': typeof SesiRoute
+  '/tryout': typeof TryoutRoute
+  '/hasil/$id': typeof HasilIdRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths:
+    | '/'
+    | '/cat'
+    | '/flashcards'
+    | '/latihan'
+    | '/materi'
+    | '/profil'
+    | '/review'
+    | '/sesi'
+    | '/tryout'
+    | '/hasil/$id'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to:
+    | '/'
+    | '/cat'
+    | '/flashcards'
+    | '/latihan'
+    | '/materi'
+    | '/profil'
+    | '/review'
+    | '/sesi'
+    | '/tryout'
+    | '/hasil/$id'
+  id:
+    | '__root__'
+    | '/'
+    | '/cat'
+    | '/flashcards'
+    | '/latihan'
+    | '/materi'
+    | '/profil'
+    | '/review'
+    | '/sesi'
+    | '/tryout'
+    | '/hasil/$id'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  CatRoute: typeof CatRoute
+  FlashcardsRoute: typeof FlashcardsRoute
+  LatihanRoute: typeof LatihanRoute
+  MateriRoute: typeof MateriRoute
+  ProfilRoute: typeof ProfilRoute
+  ReviewRoute: typeof ReviewRoute
+  SesiRoute: typeof SesiRoute
+  TryoutRoute: typeof TryoutRoute
+  HasilIdRoute: typeof HasilIdRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +169,83 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/cat': {
+      id: '/cat'
+      path: '/cat'
+      fullPath: '/cat'
+      preLoaderRoute: typeof CatRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/flashcards': {
+      id: '/flashcards'
+      path: '/flashcards'
+      fullPath: '/flashcards'
+      preLoaderRoute: typeof FlashcardsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/latihan': {
+      id: '/latihan'
+      path: '/latihan'
+      fullPath: '/latihan'
+      preLoaderRoute: typeof LatihanRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/materi': {
+      id: '/materi'
+      path: '/materi'
+      fullPath: '/materi'
+      preLoaderRoute: typeof MateriRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/profil': {
+      id: '/profil'
+      path: '/profil'
+      fullPath: '/profil'
+      preLoaderRoute: typeof ProfilRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/review': {
+      id: '/review'
+      path: '/review'
+      fullPath: '/review'
+      preLoaderRoute: typeof ReviewRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/sesi': {
+      id: '/sesi'
+      path: '/sesi'
+      fullPath: '/sesi'
+      preLoaderRoute: typeof SesiRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/tryout': {
+      id: '/tryout'
+      path: '/tryout'
+      fullPath: '/tryout'
+      preLoaderRoute: typeof TryoutRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/hasil/$id': {
+      id: '/hasil/$id'
+      path: '/hasil/$id'
+      fullPath: '/hasil/$id'
+      preLoaderRoute: typeof HasilIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  CatRoute: CatRoute,
+  FlashcardsRoute: FlashcardsRoute,
+  LatihanRoute: LatihanRoute,
+  MateriRoute: MateriRoute,
+  ProfilRoute: ProfilRoute,
+  ReviewRoute: ReviewRoute,
+  SesiRoute: SesiRoute,
+  TryoutRoute: TryoutRoute,
+  HasilIdRoute: HasilIdRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
