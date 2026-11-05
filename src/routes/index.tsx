@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { ALL_QUESTIONS, CATEGORIES, CATEGORY_LABEL, MODULES } from "@/lib/bank";
 import { useApp, today, streak } from "@/lib/store";
 import { pageHead } from "@/lib/page-meta";
-import books from "@/assets/study-books.jpg";
+import heroPortrait from "@/assets/asn-portrait.png.asset.json";
 export const Route = createFileRoute("/")({ head: () => pageHead("Beranda", "Dashboard belajar CPNS: target harian, materi TWK, TIU, TKP, SKB, latihan soal dan simulasi CAT gratis."), component: Home });
 const categoryIcons = { TWK: Flag, TIU: Brain, TKP: Users, SKB: BriefcaseBusiness };
 const tones = { TWK: "bg-secondary text-primary", TIU: "bg-info-soft text-info", TKP: "bg-warning-soft text-warning", SKB: "bg-rose-soft text-rose" };
